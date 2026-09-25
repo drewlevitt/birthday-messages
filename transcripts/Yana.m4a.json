@@ -1,0 +1,1598 @@
+{
+  "file": "Yana.m4a",
+  "duration_sec": 117.6,
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 7.12,
+      "text": "Dear Wendy, this is Yana. It's hard to believe that we've known each other for over 20 years",
+      "words": [
+        {
+          "start": 0.4,
+          "end": 0.92,
+          "word": " Dear"
+        },
+        {
+          "start": 0.92,
+          "end": 1.28,
+          "word": " Wendy,"
+        },
+        {
+          "start": 2.02,
+          "end": 2.28,
+          "word": " this"
+        },
+        {
+          "start": 2.28,
+          "end": 2.46,
+          "word": " is"
+        },
+        {
+          "start": 2.46,
+          "end": 2.88,
+          "word": " Yana."
+        },
+        {
+          "start": 3.6,
+          "end": 4.0,
+          "word": " It's"
+        },
+        {
+          "start": 4.0,
+          "end": 4.18,
+          "word": " hard"
+        },
+        {
+          "start": 4.18,
+          "end": 4.34,
+          "word": " to"
+        },
+        {
+          "start": 4.34,
+          "end": 4.56,
+          "word": " believe"
+        },
+        {
+          "start": 4.56,
+          "end": 4.78,
+          "word": " that"
+        },
+        {
+          "start": 4.78,
+          "end": 5.0,
+          "word": " we've"
+        },
+        {
+          "start": 5.0,
+          "end": 5.14,
+          "word": " known"
+        },
+        {
+          "start": 5.14,
+          "end": 5.38,
+          "word": " each"
+        },
+        {
+          "start": 5.38,
+          "end": 5.56,
+          "word": " other"
+        },
+        {
+          "start": 5.56,
+          "end": 5.86,
+          "word": " for"
+        },
+        {
+          "start": 5.86,
+          "end": 6.26,
+          "word": " over"
+        },
+        {
+          "start": 6.26,
+          "end": 6.8,
+          "word": " 20"
+        },
+        {
+          "start": 6.8,
+          "end": 7.12,
+          "word": " years"
+        }
+      ]
+    },
+    {
+      "start": 7.12,
+      "end": 13.62,
+      "text": "now. I still remember being your student in the O&M program at San Francisco State, and",
+      "words": [
+        {
+          "start": 7.12,
+          "end": 7.52,
+          "word": " now."
+        },
+        {
+          "start": 8.26,
+          "end": 8.6,
+          "word": " I"
+        },
+        {
+          "start": 8.6,
+          "end": 8.82,
+          "word": " still"
+        },
+        {
+          "start": 8.82,
+          "end": 9.2,
+          "word": " remember"
+        },
+        {
+          "start": 9.2,
+          "end": 9.5,
+          "word": " being"
+        },
+        {
+          "start": 9.5,
+          "end": 9.72,
+          "word": " your"
+        },
+        {
+          "start": 9.72,
+          "end": 10.06,
+          "word": " student"
+        },
+        {
+          "start": 10.06,
+          "end": 10.46,
+          "word": " in"
+        },
+        {
+          "start": 10.46,
+          "end": 10.64,
+          "word": " the"
+        },
+        {
+          "start": 10.64,
+          "end": 10.86,
+          "word": " O"
+        },
+        {
+          "start": 10.86,
+          "end": 11.0,
+          "word": "&M"
+        },
+        {
+          "start": 11.0,
+          "end": 11.32,
+          "word": " program"
+        },
+        {
+          "start": 11.32,
+          "end": 11.62,
+          "word": " at"
+        },
+        {
+          "start": 11.62,
+          "end": 11.78,
+          "word": " San"
+        },
+        {
+          "start": 11.78,
+          "end": 12.12,
+          "word": " Francisco"
+        },
+        {
+          "start": 12.12,
+          "end": 12.48,
+          "word": " State,"
+        },
+        {
+          "start": 12.9,
+          "end": 13.62,
+          "word": " and"
+        }
+      ]
+    },
+    {
+      "start": 13.62,
+      "end": 19.08,
+      "text": "I had no idea then that you would become such an important person in my life. From the",
+      "words": [
+        {
+          "start": 13.62,
+          "end": 13.82,
+          "word": " I"
+        },
+        {
+          "start": 13.82,
+          "end": 13.98,
+          "word": " had"
+        },
+        {
+          "start": 13.98,
+          "end": 14.18,
+          "word": " no"
+        },
+        {
+          "start": 14.18,
+          "end": 14.52,
+          "word": " idea"
+        },
+        {
+          "start": 14.52,
+          "end": 14.76,
+          "word": " then"
+        },
+        {
+          "start": 14.76,
+          "end": 15.0,
+          "word": " that"
+        },
+        {
+          "start": 15.0,
+          "end": 15.14,
+          "word": " you"
+        },
+        {
+          "start": 15.14,
+          "end": 15.26,
+          "word": " would"
+        },
+        {
+          "start": 15.26,
+          "end": 15.54,
+          "word": " become"
+        },
+        {
+          "start": 15.54,
+          "end": 15.74,
+          "word": " such"
+        },
+        {
+          "start": 15.74,
+          "end": 15.9,
+          "word": " an"
+        },
+        {
+          "start": 15.9,
+          "end": 16.2,
+          "word": " important"
+        },
+        {
+          "start": 16.2,
+          "end": 16.7,
+          "word": " person"
+        },
+        {
+          "start": 16.7,
+          "end": 16.92,
+          "word": " in"
+        },
+        {
+          "start": 16.92,
+          "end": 17.06,
+          "word": " my"
+        },
+        {
+          "start": 17.06,
+          "end": 17.46,
+          "word": " life."
+        },
+        {
+          "start": 18.38,
+          "end": 18.8,
+          "word": " From"
+        },
+        {
+          "start": 18.8,
+          "end": 19.08,
+          "word": " the"
+        }
+      ]
+    },
+    {
+      "start": 19.08,
+      "end": 25.76,
+      "text": "very beginning, I admired your passion for O&M. You have always been incredibly knowledgeable",
+      "words": [
+        {
+          "start": 19.08,
+          "end": 19.32,
+          "word": " very"
+        },
+        {
+          "start": 19.32,
+          "end": 19.76,
+          "word": " beginning,"
+        },
+        {
+          "start": 20.04,
+          "end": 20.24,
+          "word": " I"
+        },
+        {
+          "start": 20.24,
+          "end": 20.64,
+          "word": " admired"
+        },
+        {
+          "start": 20.64,
+          "end": 20.92,
+          "word": " your"
+        },
+        {
+          "start": 20.92,
+          "end": 21.56,
+          "word": " passion"
+        },
+        {
+          "start": 21.56,
+          "end": 21.86,
+          "word": " for"
+        },
+        {
+          "start": 21.86,
+          "end": 22.14,
+          "word": " O"
+        },
+        {
+          "start": 22.14,
+          "end": 22.48,
+          "word": "&M."
+        },
+        {
+          "start": 23.34,
+          "end": 23.9,
+          "word": " You"
+        },
+        {
+          "start": 23.9,
+          "end": 24.06,
+          "word": " have"
+        },
+        {
+          "start": 24.06,
+          "end": 24.42,
+          "word": " always"
+        },
+        {
+          "start": 24.42,
+          "end": 24.6,
+          "word": " been"
+        },
+        {
+          "start": 24.6,
+          "end": 25.14,
+          "word": " incredibly"
+        },
+        {
+          "start": 25.14,
+          "end": 25.76,
+          "word": " knowledgeable"
+        }
+      ]
+    },
+    {
+      "start": 25.76,
+      "end": 34.46,
+      "text": "and thoughtful, and you somehow balanced having very high standards with also being kind and",
+      "words": [
+        {
+          "start": 25.76,
+          "end": 26.38,
+          "word": " and"
+        },
+        {
+          "start": 26.38,
+          "end": 26.82,
+          "word": " thoughtful,"
+        },
+        {
+          "start": 27.72,
+          "end": 28.46,
+          "word": " and"
+        },
+        {
+          "start": 28.46,
+          "end": 29.16,
+          "word": " you"
+        },
+        {
+          "start": 29.16,
+          "end": 29.54,
+          "word": " somehow"
+        },
+        {
+          "start": 29.54,
+          "end": 30.12,
+          "word": " balanced"
+        },
+        {
+          "start": 30.12,
+          "end": 30.36,
+          "word": " having"
+        },
+        {
+          "start": 30.36,
+          "end": 30.86,
+          "word": " very"
+        },
+        {
+          "start": 30.86,
+          "end": 31.12,
+          "word": " high"
+        },
+        {
+          "start": 31.12,
+          "end": 31.62,
+          "word": " standards"
+        },
+        {
+          "start": 31.62,
+          "end": 32.74,
+          "word": " with"
+        },
+        {
+          "start": 32.74,
+          "end": 33.26,
+          "word": " also"
+        },
+        {
+          "start": 33.26,
+          "end": 33.48,
+          "word": " being"
+        },
+        {
+          "start": 33.48,
+          "end": 33.96,
+          "word": " kind"
+        },
+        {
+          "start": 33.96,
+          "end": 34.46,
+          "word": " and"
+        }
+      ]
+    },
+    {
+      "start": 34.46,
+      "end": 40.7,
+      "text": "compassionate. I learned so much from you as a student, and then years later I was lucky",
+      "words": [
+        {
+          "start": 34.46,
+          "end": 35.0,
+          "word": " compassionate."
+        },
+        {
+          "start": 35.74,
+          "end": 36.22,
+          "word": " I"
+        },
+        {
+          "start": 36.22,
+          "end": 36.4,
+          "word": " learned"
+        },
+        {
+          "start": 36.4,
+          "end": 36.7,
+          "word": " so"
+        },
+        {
+          "start": 36.7,
+          "end": 36.98,
+          "word": " much"
+        },
+        {
+          "start": 36.98,
+          "end": 37.18,
+          "word": " from"
+        },
+        {
+          "start": 37.18,
+          "end": 37.38,
+          "word": " you"
+        },
+        {
+          "start": 37.38,
+          "end": 37.52,
+          "word": " as"
+        },
+        {
+          "start": 37.52,
+          "end": 37.62,
+          "word": " a"
+        },
+        {
+          "start": 37.62,
+          "end": 37.94,
+          "word": " student,"
+        },
+        {
+          "start": 38.36,
+          "end": 38.72,
+          "word": " and"
+        },
+        {
+          "start": 38.72,
+          "end": 39.06,
+          "word": " then"
+        },
+        {
+          "start": 39.06,
+          "end": 39.5,
+          "word": " years"
+        },
+        {
+          "start": 39.5,
+          "end": 39.84,
+          "word": " later"
+        },
+        {
+          "start": 39.84,
+          "end": 40.02,
+          "word": " I"
+        },
+        {
+          "start": 40.02,
+          "end": 40.2,
+          "word": " was"
+        },
+        {
+          "start": 40.2,
+          "end": 40.7,
+          "word": " lucky"
+        }
+      ]
+    },
+    {
+      "start": 40.7,
+      "end": 46.88,
+      "text": "enough to continue learning from you as a colleague, and I am proud to have been part",
+      "words": [
+        {
+          "start": 40.7,
+          "end": 41.04,
+          "word": " enough"
+        },
+        {
+          "start": 41.04,
+          "end": 41.42,
+          "word": " to"
+        },
+        {
+          "start": 41.42,
+          "end": 41.88,
+          "word": " continue"
+        },
+        {
+          "start": 41.88,
+          "end": 42.16,
+          "word": " learning"
+        },
+        {
+          "start": 42.16,
+          "end": 42.46,
+          "word": " from"
+        },
+        {
+          "start": 42.46,
+          "end": 42.64,
+          "word": " you"
+        },
+        {
+          "start": 42.64,
+          "end": 42.76,
+          "word": " as"
+        },
+        {
+          "start": 42.76,
+          "end": 42.88,
+          "word": " a"
+        },
+        {
+          "start": 42.88,
+          "end": 43.18,
+          "word": " colleague,"
+        },
+        {
+          "start": 44.02,
+          "end": 44.62,
+          "word": " and"
+        },
+        {
+          "start": 44.62,
+          "end": 45.02,
+          "word": " I"
+        },
+        {
+          "start": 45.02,
+          "end": 45.14,
+          "word": " am"
+        },
+        {
+          "start": 45.14,
+          "end": 45.62,
+          "word": " proud"
+        },
+        {
+          "start": 45.62,
+          "end": 45.96,
+          "word": " to"
+        },
+        {
+          "start": 45.96,
+          "end": 46.24,
+          "word": " have"
+        },
+        {
+          "start": 46.24,
+          "end": 46.52,
+          "word": " been"
+        },
+        {
+          "start": 46.52,
+          "end": 46.88,
+          "word": " part"
+        }
+      ]
+    },
+    {
+      "start": 46.88,
+      "end": 52.6,
+      "text": "of the O&M world that you helped build at San Francisco State. What you created there",
+      "words": [
+        {
+          "start": 46.88,
+          "end": 47.28,
+          "word": " of"
+        },
+        {
+          "start": 47.28,
+          "end": 47.5,
+          "word": " the"
+        },
+        {
+          "start": 47.5,
+          "end": 47.78,
+          "word": " O"
+        },
+        {
+          "start": 47.78,
+          "end": 47.98,
+          "word": "&M"
+        },
+        {
+          "start": 47.98,
+          "end": 48.2,
+          "word": " world"
+        },
+        {
+          "start": 48.2,
+          "end": 48.44,
+          "word": " that"
+        },
+        {
+          "start": 48.44,
+          "end": 48.66,
+          "word": " you"
+        },
+        {
+          "start": 48.66,
+          "end": 49.0,
+          "word": " helped"
+        },
+        {
+          "start": 49.0,
+          "end": 49.38,
+          "word": " build"
+        },
+        {
+          "start": 49.38,
+          "end": 49.6,
+          "word": " at"
+        },
+        {
+          "start": 49.6,
+          "end": 49.74,
+          "word": " San"
+        },
+        {
+          "start": 49.74,
+          "end": 50.08,
+          "word": " Francisco"
+        },
+        {
+          "start": 50.08,
+          "end": 50.5,
+          "word": " State."
+        },
+        {
+          "start": 51.18,
+          "end": 51.64,
+          "word": " What"
+        },
+        {
+          "start": 51.64,
+          "end": 51.76,
+          "word": " you"
+        },
+        {
+          "start": 51.76,
+          "end": 52.16,
+          "word": " created"
+        },
+        {
+          "start": 52.16,
+          "end": 52.6,
+          "word": " there"
+        }
+      ]
+    },
+    {
+      "start": 52.6,
+      "end": 59.0,
+      "text": "is such an incredible legacy. You've had an impact on so many students and professionals",
+      "words": [
+        {
+          "start": 52.6,
+          "end": 53.0,
+          "word": " is"
+        },
+        {
+          "start": 53.0,
+          "end": 53.38,
+          "word": " such"
+        },
+        {
+          "start": 53.38,
+          "end": 53.52,
+          "word": " an"
+        },
+        {
+          "start": 53.52,
+          "end": 53.84,
+          "word": " incredible"
+        },
+        {
+          "start": 53.84,
+          "end": 54.46,
+          "word": " legacy."
+        },
+        {
+          "start": 55.2,
+          "end": 55.56,
+          "word": " You've"
+        },
+        {
+          "start": 55.56,
+          "end": 55.74,
+          "word": " had"
+        },
+        {
+          "start": 55.74,
+          "end": 55.9,
+          "word": " an"
+        },
+        {
+          "start": 55.9,
+          "end": 56.48,
+          "word": " impact"
+        },
+        {
+          "start": 56.48,
+          "end": 56.82,
+          "word": " on"
+        },
+        {
+          "start": 56.82,
+          "end": 57.22,
+          "word": " so"
+        },
+        {
+          "start": 57.22,
+          "end": 57.46,
+          "word": " many"
+        },
+        {
+          "start": 57.46,
+          "end": 57.96,
+          "word": " students"
+        },
+        {
+          "start": 57.96,
+          "end": 58.34,
+          "word": " and"
+        },
+        {
+          "start": 58.34,
+          "end": 59.0,
+          "word": " professionals"
+        }
+      ]
+    },
+    {
+      "start": 59.62,
+      "end": 65.0,
+      "text": "and ultimately thousands of people whose lives have been made better because of you and the",
+      "words": [
+        {
+          "start": 59.62,
+          "end": 59.92,
+          "word": " and"
+        },
+        {
+          "start": 59.92,
+          "end": 60.48,
+          "word": " ultimately"
+        },
+        {
+          "start": 60.48,
+          "end": 61.58,
+          "word": " thousands"
+        },
+        {
+          "start": 61.58,
+          "end": 61.88,
+          "word": " of"
+        },
+        {
+          "start": 61.88,
+          "end": 62.24,
+          "word": " people"
+        },
+        {
+          "start": 62.24,
+          "end": 62.54,
+          "word": " whose"
+        },
+        {
+          "start": 62.54,
+          "end": 62.84,
+          "word": " lives"
+        },
+        {
+          "start": 62.84,
+          "end": 63.1,
+          "word": " have"
+        },
+        {
+          "start": 63.1,
+          "end": 63.28,
+          "word": " been"
+        },
+        {
+          "start": 63.28,
+          "end": 63.48,
+          "word": " made"
+        },
+        {
+          "start": 63.48,
+          "end": 63.76,
+          "word": " better"
+        },
+        {
+          "start": 63.76,
+          "end": 64.04,
+          "word": " because"
+        },
+        {
+          "start": 64.04,
+          "end": 64.3,
+          "word": " of"
+        },
+        {
+          "start": 64.3,
+          "end": 64.52,
+          "word": " you"
+        },
+        {
+          "start": 64.52,
+          "end": 64.84,
+          "word": " and"
+        },
+        {
+          "start": 64.84,
+          "end": 65.0,
+          "word": " the"
+        }
+      ]
+    },
+    {
+      "start": 65.0,
+      "end": 70.76,
+      "text": "work you've done. And I am one of those people. You've taught me so much about being",
+      "words": [
+        {
+          "start": 65.0,
+          "end": 65.16,
+          "word": " work"
+        },
+        {
+          "start": 65.16,
+          "end": 65.38,
+          "word": " you've"
+        },
+        {
+          "start": 65.38,
+          "end": 65.6,
+          "word": " done."
+        },
+        {
+          "start": 66.38,
+          "end": 66.62,
+          "word": " And"
+        },
+        {
+          "start": 66.62,
+          "end": 66.98,
+          "word": " I"
+        },
+        {
+          "start": 66.98,
+          "end": 67.16,
+          "word": " am"
+        },
+        {
+          "start": 67.16,
+          "end": 67.34,
+          "word": " one"
+        },
+        {
+          "start": 67.34,
+          "end": 67.46,
+          "word": " of"
+        },
+        {
+          "start": 67.46,
+          "end": 67.62,
+          "word": " those"
+        },
+        {
+          "start": 67.62,
+          "end": 67.96,
+          "word": " people."
+        },
+        {
+          "start": 68.74,
+          "end": 69.24,
+          "word": " You've"
+        },
+        {
+          "start": 69.24,
+          "end": 69.4,
+          "word": " taught"
+        },
+        {
+          "start": 69.4,
+          "end": 69.58,
+          "word": " me"
+        },
+        {
+          "start": 69.58,
+          "end": 69.96,
+          "word": " so"
+        },
+        {
+          "start": 69.96,
+          "end": 70.24,
+          "word": " much"
+        },
+        {
+          "start": 70.24,
+          "end": 70.46,
+          "word": " about"
+        },
+        {
+          "start": 70.46,
+          "end": 70.76,
+          "word": " being"
+        }
+      ]
+    },
+    {
+      "start": 70.76,
+      "end": 76.84,
+      "text": "a good O&M specialist and a good university instructor, but also about being a thoughtful,",
+      "words": [
+        {
+          "start": 70.76,
+          "end": 70.98,
+          "word": " a"
+        },
+        {
+          "start": 70.98,
+          "end": 71.12,
+          "word": " good"
+        },
+        {
+          "start": 71.12,
+          "end": 71.38,
+          "word": " O"
+        },
+        {
+          "start": 71.38,
+          "end": 71.58,
+          "word": "&M"
+        },
+        {
+          "start": 71.58,
+          "end": 72.02,
+          "word": " specialist"
+        },
+        {
+          "start": 72.02,
+          "end": 72.76,
+          "word": " and"
+        },
+        {
+          "start": 72.76,
+          "end": 72.94,
+          "word": " a"
+        },
+        {
+          "start": 72.94,
+          "end": 73.08,
+          "word": " good"
+        },
+        {
+          "start": 73.08,
+          "end": 73.7,
+          "word": " university"
+        },
+        {
+          "start": 73.7,
+          "end": 74.24,
+          "word": " instructor,"
+        },
+        {
+          "start": 74.84,
+          "end": 75.14,
+          "word": " but"
+        },
+        {
+          "start": 75.14,
+          "end": 75.4,
+          "word": " also"
+        },
+        {
+          "start": 75.4,
+          "end": 75.68,
+          "word": " about"
+        },
+        {
+          "start": 75.68,
+          "end": 75.98,
+          "word": " being"
+        },
+        {
+          "start": 75.98,
+          "end": 76.3,
+          "word": " a"
+        },
+        {
+          "start": 76.3,
+          "end": 76.84,
+          "word": " thoughtful,"
+        }
+      ]
+    },
+    {
+      "start": 76.84,
+      "end": 84.22,
+      "text": "caring, patient person and a better human being in general. And somehow along the way you went from",
+      "words": [
+        {
+          "start": 76.84,
+          "end": 77.64,
+          "word": " caring,"
+        },
+        {
+          "start": 77.68,
+          "end": 78.04,
+          "word": " patient"
+        },
+        {
+          "start": 78.04,
+          "end": 78.54,
+          "word": " person"
+        },
+        {
+          "start": 78.54,
+          "end": 79.52,
+          "word": " and"
+        },
+        {
+          "start": 79.52,
+          "end": 79.64,
+          "word": " a"
+        },
+        {
+          "start": 79.64,
+          "end": 79.78,
+          "word": " better"
+        },
+        {
+          "start": 79.78,
+          "end": 80.1,
+          "word": " human"
+        },
+        {
+          "start": 80.1,
+          "end": 80.38,
+          "word": " being"
+        },
+        {
+          "start": 80.38,
+          "end": 80.6,
+          "word": " in"
+        },
+        {
+          "start": 80.6,
+          "end": 81.02,
+          "word": " general."
+        },
+        {
+          "start": 81.92,
+          "end": 82.52,
+          "word": " And"
+        },
+        {
+          "start": 82.52,
+          "end": 82.94,
+          "word": " somehow"
+        },
+        {
+          "start": 82.94,
+          "end": 83.3,
+          "word": " along"
+        },
+        {
+          "start": 83.3,
+          "end": 83.44,
+          "word": " the"
+        },
+        {
+          "start": 83.44,
+          "end": 83.68,
+          "word": " way"
+        },
+        {
+          "start": 83.68,
+          "end": 83.9,
+          "word": " you"
+        },
+        {
+          "start": 83.9,
+          "end": 84.04,
+          "word": " went"
+        },
+        {
+          "start": 84.04,
+          "end": 84.22,
+          "word": " from"
+        }
+      ]
+    },
+    {
+      "start": 84.22,
+      "end": 91.08,
+      "text": "being my teacher to my colleague to becoming my friend, I feel lucky to have you in my life,",
+      "words": [
+        {
+          "start": 84.22,
+          "end": 84.44,
+          "word": " being"
+        },
+        {
+          "start": 84.44,
+          "end": 84.66,
+          "word": " my"
+        },
+        {
+          "start": 84.66,
+          "end": 84.96,
+          "word": " teacher"
+        },
+        {
+          "start": 84.96,
+          "end": 85.28,
+          "word": " to"
+        },
+        {
+          "start": 85.28,
+          "end": 85.58,
+          "word": " my"
+        },
+        {
+          "start": 85.58,
+          "end": 86.4,
+          "word": " colleague"
+        },
+        {
+          "start": 86.4,
+          "end": 86.88,
+          "word": " to"
+        },
+        {
+          "start": 86.88,
+          "end": 87.34,
+          "word": " becoming"
+        },
+        {
+          "start": 87.34,
+          "end": 87.7,
+          "word": " my"
+        },
+        {
+          "start": 87.7,
+          "end": 88.12,
+          "word": " friend,"
+        },
+        {
+          "start": 88.78,
+          "end": 89.24,
+          "word": " I"
+        },
+        {
+          "start": 89.24,
+          "end": 89.44,
+          "word": " feel"
+        },
+        {
+          "start": 89.44,
+          "end": 89.76,
+          "word": " lucky"
+        },
+        {
+          "start": 89.76,
+          "end": 90.12,
+          "word": " to"
+        },
+        {
+          "start": 90.12,
+          "end": 90.32,
+          "word": " have"
+        },
+        {
+          "start": 90.32,
+          "end": 90.46,
+          "word": " you"
+        },
+        {
+          "start": 90.46,
+          "end": 90.56,
+          "word": " in"
+        },
+        {
+          "start": 90.56,
+          "end": 90.68,
+          "word": " my"
+        },
+        {
+          "start": 90.68,
+          "end": 91.08,
+          "word": " life,"
+        }
+      ]
+    },
+    {
+      "start": 91.3,
+      "end": 98.04,
+      "text": "and I hope you know how much you mean to me. My life is better because you are in it,",
+      "words": [
+        {
+          "start": 91.3,
+          "end": 91.7,
+          "word": " and"
+        },
+        {
+          "start": 91.7,
+          "end": 91.8,
+          "word": " I"
+        },
+        {
+          "start": 91.8,
+          "end": 91.9,
+          "word": " hope"
+        },
+        {
+          "start": 91.9,
+          "end": 92.06,
+          "word": " you"
+        },
+        {
+          "start": 92.06,
+          "end": 92.28,
+          "word": " know"
+        },
+        {
+          "start": 92.28,
+          "end": 92.5,
+          "word": " how"
+        },
+        {
+          "start": 92.5,
+          "end": 92.88,
+          "word": " much"
+        },
+        {
+          "start": 92.88,
+          "end": 93.08,
+          "word": " you"
+        },
+        {
+          "start": 93.08,
+          "end": 93.28,
+          "word": " mean"
+        },
+        {
+          "start": 93.28,
+          "end": 93.48,
+          "word": " to"
+        },
+        {
+          "start": 93.48,
+          "end": 93.72,
+          "word": " me."
+        },
+        {
+          "start": 94.86,
+          "end": 95.3,
+          "word": " My"
+        },
+        {
+          "start": 95.3,
+          "end": 95.5,
+          "word": " life"
+        },
+        {
+          "start": 95.5,
+          "end": 95.76,
+          "word": " is"
+        },
+        {
+          "start": 95.76,
+          "end": 96.42,
+          "word": " better"
+        },
+        {
+          "start": 96.42,
+          "end": 96.86,
+          "word": " because"
+        },
+        {
+          "start": 96.86,
+          "end": 97.32,
+          "word": " you"
+        },
+        {
+          "start": 97.32,
+          "end": 97.58,
+          "word": " are"
+        },
+        {
+          "start": 97.58,
+          "end": 97.84,
+          "word": " in"
+        },
+        {
+          "start": 97.84,
+          "end": 98.04,
+          "word": " it,"
+        }
+      ]
+    },
+    {
+      "start": 98.12,
+      "end": 105.02,
+      "text": "Wendy, and I'm so grateful for all the years, all the lessons, all the laughter,",
+      "words": [
+        {
+          "start": 98.12,
+          "end": 98.34,
+          "word": " Wendy,"
+        },
+        {
+          "start": 98.74,
+          "end": 99.24,
+          "word": " and"
+        },
+        {
+          "start": 99.24,
+          "end": 99.42,
+          "word": " I'm"
+        },
+        {
+          "start": 99.42,
+          "end": 99.64,
+          "word": " so"
+        },
+        {
+          "start": 99.64,
+          "end": 100.02,
+          "word": " grateful"
+        },
+        {
+          "start": 100.02,
+          "end": 100.5,
+          "word": " for"
+        },
+        {
+          "start": 100.5,
+          "end": 101.42,
+          "word": " all"
+        },
+        {
+          "start": 101.42,
+          "end": 101.54,
+          "word": " the"
+        },
+        {
+          "start": 101.54,
+          "end": 101.98,
+          "word": " years,"
+        },
+        {
+          "start": 102.48,
+          "end": 102.74,
+          "word": " all"
+        },
+        {
+          "start": 102.74,
+          "end": 102.9,
+          "word": " the"
+        },
+        {
+          "start": 102.9,
+          "end": 103.36,
+          "word": " lessons,"
+        },
+        {
+          "start": 104.14,
+          "end": 104.46,
+          "word": " all"
+        },
+        {
+          "start": 104.46,
+          "end": 104.62,
+          "word": " the"
+        },
+        {
+          "start": 104.62,
+          "end": 105.02,
+          "word": " laughter,"
+        }
+      ]
+    },
+    {
+      "start": 105.75,
+      "end": 112.48,
+      "text": "all the Thai food, all the work discussions, and university gossip, and all the memories",
+      "words": [
+        {
+          "start": 105.75,
+          "end": 106.1,
+          "word": " all"
+        },
+        {
+          "start": 106.1,
+          "end": 106.28,
+          "word": " the"
+        },
+        {
+          "start": 106.28,
+          "end": 106.48,
+          "word": " Thai"
+        },
+        {
+          "start": 106.48,
+          "end": 106.88,
+          "word": " food,"
+        },
+        {
+          "start": 107.56,
+          "end": 108.02,
+          "word": " all"
+        },
+        {
+          "start": 108.02,
+          "end": 108.14,
+          "word": " the"
+        },
+        {
+          "start": 108.14,
+          "end": 108.34,
+          "word": " work"
+        },
+        {
+          "start": 108.34,
+          "end": 108.9,
+          "word": " discussions,"
+        },
+        {
+          "start": 109.7,
+          "end": 109.98,
+          "word": " and"
+        },
+        {
+          "start": 109.98,
+          "end": 110.42,
+          "word": " university"
+        },
+        {
+          "start": 110.42,
+          "end": 110.92,
+          "word": " gossip,"
+        },
+        {
+          "start": 111.4,
+          "end": 111.76,
+          "word": " and"
+        },
+        {
+          "start": 111.76,
+          "end": 112.0,
+          "word": " all"
+        },
+        {
+          "start": 112.0,
+          "end": 112.12,
+          "word": " the"
+        },
+        {
+          "start": 112.12,
+          "end": 112.48,
+          "word": " memories"
+        }
+      ]
+    },
+    {
+      "start": 112.48,
+      "end": 115.42,
+      "text": "we've shared. I love you so much, Wendy.",
+      "words": [
+        {
+          "start": 112.48,
+          "end": 112.78,
+          "word": " we've"
+        },
+        {
+          "start": 112.78,
+          "end": 113.12,
+          "word": " shared."
+        },
+        {
+          "start": 114.12,
+          "end": 114.5,
+          "word": " I"
+        },
+        {
+          "start": 114.5,
+          "end": 114.64,
+          "word": " love"
+        },
+        {
+          "start": 114.64,
+          "end": 114.78,
+          "word": " you"
+        },
+        {
+          "start": 114.78,
+          "end": 114.96,
+          "word": " so"
+        },
+        {
+          "start": 114.96,
+          "end": 115.18,
+          "word": " much,"
+        },
+        {
+          "start": 115.18,
+          "end": 115.42,
+          "word": " Wendy."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6557 @@
+{
+  "file": "Marty.m4a",
+  "duration_sec": 458.9,
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.68,
+      "end": 9.96,
+      "text": "Well, Wendy Scheffers, this is Marty Blester, doing a third recording for you because I'm",
+      "words": [
+        {
+          "start": 1.68,
+          "end": 2.38,
+          "word": " Well,"
+        },
+        {
+          "start": 2.46,
+          "end": 2.78,
+          "word": " Wendy"
+        },
+        {
+          "start": 2.78,
+          "end": 3.26,
+          "word": " Scheffers,"
+        },
+        {
+          "start": 3.42,
+          "end": 3.6,
+          "word": " this"
+        },
+        {
+          "start": 3.6,
+          "end": 3.76,
+          "word": " is"
+        },
+        {
+          "start": 3.76,
+          "end": 4.14,
+          "word": " Marty"
+        },
+        {
+          "start": 4.14,
+          "end": 4.78,
+          "word": " Blester,"
+        },
+        {
+          "start": 5.54,
+          "end": 7.06,
+          "word": " doing"
+        },
+        {
+          "start": 7.06,
+          "end": 7.4,
+          "word": " a"
+        },
+        {
+          "start": 7.4,
+          "end": 7.74,
+          "word": " third"
+        },
+        {
+          "start": 7.74,
+          "end": 8.32,
+          "word": " recording"
+        },
+        {
+          "start": 8.32,
+          "end": 8.7,
+          "word": " for"
+        },
+        {
+          "start": 8.7,
+          "end": 8.96,
+          "word": " you"
+        },
+        {
+          "start": 8.96,
+          "end": 9.64,
+          "word": " because"
+        },
+        {
+          "start": 9.64,
+          "end": 9.96,
+          "word": " I'm"
+        }
+      ]
+    },
+    {
+      "start": 9.96,
+      "end": 16.02,
+      "text": "technologically inept and because I kept playing periods at the ends of every sentence I was",
+      "words": [
+        {
+          "start": 9.96,
+          "end": 10.82,
+          "word": " technologically"
+        },
+        {
+          "start": 10.82,
+          "end": 12.12,
+          "word": " inept"
+        },
+        {
+          "start": 12.12,
+          "end": 12.64,
+          "word": " and"
+        },
+        {
+          "start": 12.64,
+          "end": 12.98,
+          "word": " because"
+        },
+        {
+          "start": 12.98,
+          "end": 13.2,
+          "word": " I"
+        },
+        {
+          "start": 13.2,
+          "end": 13.44,
+          "word": " kept"
+        },
+        {
+          "start": 13.44,
+          "end": 13.76,
+          "word": " playing"
+        },
+        {
+          "start": 13.76,
+          "end": 14.24,
+          "word": " periods"
+        },
+        {
+          "start": 14.24,
+          "end": 14.48,
+          "word": " at"
+        },
+        {
+          "start": 14.48,
+          "end": 14.6,
+          "word": " the"
+        },
+        {
+          "start": 14.6,
+          "end": 14.84,
+          "word": " ends"
+        },
+        {
+          "start": 14.84,
+          "end": 15.04,
+          "word": " of"
+        },
+        {
+          "start": 15.04,
+          "end": 15.26,
+          "word": " every"
+        },
+        {
+          "start": 15.26,
+          "end": 15.58,
+          "word": " sentence"
+        },
+        {
+          "start": 15.58,
+          "end": 15.88,
+          "word": " I"
+        },
+        {
+          "start": 15.88,
+          "end": 16.02,
+          "word": " was"
+        }
+      ]
+    },
+    {
+      "start": 16.02,
+      "end": 20.22,
+      "text": "saying since I'm so embedded in the habit of texting.",
+      "words": [
+        {
+          "start": 16.02,
+          "end": 16.34,
+          "word": " saying"
+        },
+        {
+          "start": 16.34,
+          "end": 17.06,
+          "word": " since"
+        },
+        {
+          "start": 17.06,
+          "end": 17.64,
+          "word": " I'm"
+        },
+        {
+          "start": 17.64,
+          "end": 18.14,
+          "word": " so"
+        },
+        {
+          "start": 18.14,
+          "end": 18.88,
+          "word": " embedded"
+        },
+        {
+          "start": 18.88,
+          "end": 19.14,
+          "word": " in"
+        },
+        {
+          "start": 19.14,
+          "end": 19.26,
+          "word": " the"
+        },
+        {
+          "start": 19.26,
+          "end": 19.5,
+          "word": " habit"
+        },
+        {
+          "start": 19.5,
+          "end": 19.76,
+          "word": " of"
+        },
+        {
+          "start": 19.76,
+          "end": 20.22,
+          "word": " texting."
+        }
+      ]
+    },
+    {
+      "start": 20.86,
+      "end": 26.58,
+      "text": "So if I put some periods into this little recording, please ignore them or I hope they make you",
+      "words": [
+        {
+          "start": 20.86,
+          "end": 21.22,
+          "word": " So"
+        },
+        {
+          "start": 21.22,
+          "end": 21.4,
+          "word": " if"
+        },
+        {
+          "start": 21.4,
+          "end": 21.54,
+          "word": " I"
+        },
+        {
+          "start": 21.54,
+          "end": 21.88,
+          "word": " put"
+        },
+        {
+          "start": 21.88,
+          "end": 22.08,
+          "word": " some"
+        },
+        {
+          "start": 22.08,
+          "end": 22.46,
+          "word": " periods"
+        },
+        {
+          "start": 22.46,
+          "end": 22.82,
+          "word": " into"
+        },
+        {
+          "start": 22.82,
+          "end": 23.1,
+          "word": " this"
+        },
+        {
+          "start": 23.1,
+          "end": 23.36,
+          "word": " little"
+        },
+        {
+          "start": 23.36,
+          "end": 23.94,
+          "word": " recording,"
+        },
+        {
+          "start": 23.94,
+          "end": 24.3,
+          "word": " please"
+        },
+        {
+          "start": 24.3,
+          "end": 24.72,
+          "word": " ignore"
+        },
+        {
+          "start": 24.72,
+          "end": 24.98,
+          "word": " them"
+        },
+        {
+          "start": 24.98,
+          "end": 25.74,
+          "word": " or"
+        },
+        {
+          "start": 25.74,
+          "end": 25.9,
+          "word": " I"
+        },
+        {
+          "start": 25.9,
+          "end": 26.06,
+          "word": " hope"
+        },
+        {
+          "start": 26.06,
+          "end": 26.2,
+          "word": " they"
+        },
+        {
+          "start": 26.2,
+          "end": 26.44,
+          "word": " make"
+        },
+        {
+          "start": 26.44,
+          "end": 26.58,
+          "word": " you"
+        }
+      ]
+    },
+    {
+      "start": 26.58,
+      "end": 26.88,
+      "text": "laugh.",
+      "words": [
+        {
+          "start": 26.58,
+          "end": 26.88,
+          "word": " laugh."
+        }
+      ]
+    },
+    {
+      "start": 27.22,
+      "end": 27.42,
+      "text": "Period.",
+      "words": [
+        {
+          "start": 27.22,
+          "end": 27.42,
+          "word": " Period."
+        }
+      ]
+    },
+    {
+      "start": 27.68,
+      "end": 28.6,
+      "text": "Oh, there goes one.",
+      "words": [
+        {
+          "start": 27.68,
+          "end": 27.88,
+          "word": " Oh,"
+        },
+        {
+          "start": 27.96,
+          "end": 28.1,
+          "word": " there"
+        },
+        {
+          "start": 28.1,
+          "end": 28.36,
+          "word": " goes"
+        },
+        {
+          "start": 28.36,
+          "end": 28.6,
+          "word": " one."
+        }
+      ]
+    },
+    {
+      "start": 28.8,
+      "end": 28.92,
+      "text": "Stop.",
+      "words": [
+        {
+          "start": 28.8,
+          "end": 28.92,
+          "word": " Stop."
+        }
+      ]
+    },
+    {
+      "start": 29.86,
+      "end": 37.28,
+      "text": "So the most important thing about this message is wishing you the happiest, happiest day of your",
+      "words": [
+        {
+          "start": 29.86,
+          "end": 30.56,
+          "word": " So"
+        },
+        {
+          "start": 30.56,
+          "end": 30.9,
+          "word": " the"
+        },
+        {
+          "start": 30.9,
+          "end": 31.18,
+          "word": " most"
+        },
+        {
+          "start": 31.18,
+          "end": 31.52,
+          "word": " important"
+        },
+        {
+          "start": 31.52,
+          "end": 31.84,
+          "word": " thing"
+        },
+        {
+          "start": 31.84,
+          "end": 32.08,
+          "word": " about"
+        },
+        {
+          "start": 32.08,
+          "end": 32.36,
+          "word": " this"
+        },
+        {
+          "start": 32.36,
+          "end": 32.86,
+          "word": " message"
+        },
+        {
+          "start": 32.86,
+          "end": 33.68,
+          "word": " is"
+        },
+        {
+          "start": 33.68,
+          "end": 34.74,
+          "word": " wishing"
+        },
+        {
+          "start": 34.74,
+          "end": 35.16,
+          "word": " you"
+        },
+        {
+          "start": 35.16,
+          "end": 35.5,
+          "word": " the"
+        },
+        {
+          "start": 35.5,
+          "end": 35.94,
+          "word": " happiest,"
+        },
+        {
+          "start": 36.16,
+          "end": 36.54,
+          "word": " happiest"
+        },
+        {
+          "start": 36.54,
+          "end": 37.02,
+          "word": " day"
+        },
+        {
+          "start": 37.02,
+          "end": 37.16,
+          "word": " of"
+        },
+        {
+          "start": 37.16,
+          "end": 37.28,
+          "word": " your"
+        }
+      ]
+    },
+    {
+      "start": 37.28,
+      "end": 44.54,
+      "text": "life and a happy birthday surrounded by your family and friends to let you know how beloved",
+      "words": [
+        {
+          "start": 37.28,
+          "end": 37.7,
+          "word": " life"
+        },
+        {
+          "start": 37.7,
+          "end": 38.44,
+          "word": " and"
+        },
+        {
+          "start": 38.44,
+          "end": 38.6,
+          "word": " a"
+        },
+        {
+          "start": 38.6,
+          "end": 38.84,
+          "word": " happy"
+        },
+        {
+          "start": 38.84,
+          "end": 39.7,
+          "word": " birthday"
+        },
+        {
+          "start": 39.7,
+          "end": 40.64,
+          "word": " surrounded"
+        },
+        {
+          "start": 40.64,
+          "end": 41.1,
+          "word": " by"
+        },
+        {
+          "start": 41.1,
+          "end": 41.4,
+          "word": " your"
+        },
+        {
+          "start": 41.4,
+          "end": 42.44,
+          "word": " family"
+        },
+        {
+          "start": 42.44,
+          "end": 42.82,
+          "word": " and"
+        },
+        {
+          "start": 42.82,
+          "end": 43.24,
+          "word": " friends"
+        },
+        {
+          "start": 43.24,
+          "end": 43.5,
+          "word": " to"
+        },
+        {
+          "start": 43.5,
+          "end": 43.7,
+          "word": " let"
+        },
+        {
+          "start": 43.7,
+          "end": 43.84,
+          "word": " you"
+        },
+        {
+          "start": 43.84,
+          "end": 44.02,
+          "word": " know"
+        },
+        {
+          "start": 44.02,
+          "end": 44.22,
+          "word": " how"
+        },
+        {
+          "start": 44.22,
+          "end": 44.54,
+          "word": " beloved"
+        }
+      ]
+    },
+    {
+      "start": 44.54,
+      "end": 45.22,
+      "text": "you are.",
+      "words": [
+        {
+          "start": 44.54,
+          "end": 44.86,
+          "word": " you"
+        },
+        {
+          "start": 44.86,
+          "end": 45.22,
+          "word": " are."
+        }
+      ]
+    },
+    {
+      "start": 45.66,
+      "end": 46.22,
+      "text": "Period.",
+      "words": [
+        {
+          "start": 45.66,
+          "end": 46.22,
+          "word": " Period."
+        }
+      ]
+    },
+    {
+      "start": 46.44,
+      "end": 48.86,
+      "text": "You certainly made an impact on my life.",
+      "words": [
+        {
+          "start": 46.44,
+          "end": 46.52,
+          "word": " You"
+        },
+        {
+          "start": 46.52,
+          "end": 46.94,
+          "word": " certainly"
+        },
+        {
+          "start": 46.94,
+          "end": 47.46,
+          "word": " made"
+        },
+        {
+          "start": 47.46,
+          "end": 47.62,
+          "word": " an"
+        },
+        {
+          "start": 47.62,
+          "end": 48.04,
+          "word": " impact"
+        },
+        {
+          "start": 48.04,
+          "end": 48.3,
+          "word": " on"
+        },
+        {
+          "start": 48.3,
+          "end": 48.46,
+          "word": " my"
+        },
+        {
+          "start": 48.46,
+          "end": 48.86,
+          "word": " life."
+        }
+      ]
+    },
+    {
+      "start": 50.16,
+      "end": 58.22,
+      "text": "And so I'm going to recall a few memories that maybe will bring some smiles to you",
+      "words": [
+        {
+          "start": 50.16,
+          "end": 50.86,
+          "word": " And"
+        },
+        {
+          "start": 50.86,
+          "end": 51.12,
+          "word": " so"
+        },
+        {
+          "start": 51.12,
+          "end": 51.28,
+          "word": " I'm"
+        },
+        {
+          "start": 51.28,
+          "end": 51.4,
+          "word": " going"
+        },
+        {
+          "start": 51.4,
+          "end": 51.52,
+          "word": " to"
+        },
+        {
+          "start": 51.52,
+          "end": 51.9,
+          "word": " recall"
+        },
+        {
+          "start": 51.9,
+          "end": 52.14,
+          "word": " a"
+        },
+        {
+          "start": 52.14,
+          "end": 52.28,
+          "word": " few"
+        },
+        {
+          "start": 52.28,
+          "end": 52.76,
+          "word": " memories"
+        },
+        {
+          "start": 52.76,
+          "end": 54.28,
+          "word": " that"
+        },
+        {
+          "start": 54.28,
+          "end": 54.58,
+          "word": " maybe"
+        },
+        {
+          "start": 54.58,
+          "end": 55.02,
+          "word": " will"
+        },
+        {
+          "start": 55.02,
+          "end": 56.68,
+          "word": " bring"
+        },
+        {
+          "start": 56.68,
+          "end": 56.98,
+          "word": " some"
+        },
+        {
+          "start": 56.98,
+          "end": 57.48,
+          "word": " smiles"
+        },
+        {
+          "start": 57.48,
+          "end": 57.84,
+          "word": " to"
+        },
+        {
+          "start": 57.84,
+          "end": 58.22,
+          "word": " you"
+        }
+      ]
+    },
+    {
+      "start": 58.22,
+      "end": 61.56,
+      "text": "as they do to me every time I think of them, which is often.",
+      "words": [
+        {
+          "start": 58.22,
+          "end": 58.88,
+          "word": " as"
+        },
+        {
+          "start": 58.88,
+          "end": 59.04,
+          "word": " they"
+        },
+        {
+          "start": 59.04,
+          "end": 59.24,
+          "word": " do"
+        },
+        {
+          "start": 59.24,
+          "end": 59.44,
+          "word": " to"
+        },
+        {
+          "start": 59.44,
+          "end": 59.64,
+          "word": " me"
+        },
+        {
+          "start": 59.64,
+          "end": 59.84,
+          "word": " every"
+        },
+        {
+          "start": 59.84,
+          "end": 60.14,
+          "word": " time"
+        },
+        {
+          "start": 60.14,
+          "end": 60.28,
+          "word": " I"
+        },
+        {
+          "start": 60.28,
+          "end": 60.5,
+          "word": " think"
+        },
+        {
+          "start": 60.5,
+          "end": 60.68,
+          "word": " of"
+        },
+        {
+          "start": 60.68,
+          "end": 60.84,
+          "word": " them,"
+        },
+        {
+          "start": 60.86,
+          "end": 61.02,
+          "word": " which"
+        },
+        {
+          "start": 61.02,
+          "end": 61.2,
+          "word": " is"
+        },
+        {
+          "start": 61.2,
+          "end": 61.56,
+          "word": " often."
+        }
+      ]
+    },
+    {
+      "start": 63.93,
+      "end": 72.11,
+      "text": "So the first big memory was when you and Howard came to Santa Fe about three or four years",
+      "words": [
+        {
+          "start": 63.93,
+          "end": 64.49,
+          "word": " So"
+        },
+        {
+          "start": 64.49,
+          "end": 65.05,
+          "word": " the"
+        },
+        {
+          "start": 65.05,
+          "end": 65.45,
+          "word": " first"
+        },
+        {
+          "start": 65.45,
+          "end": 65.81,
+          "word": " big"
+        },
+        {
+          "start": 65.81,
+          "end": 66.29,
+          "word": " memory"
+        },
+        {
+          "start": 66.29,
+          "end": 67.67,
+          "word": " was"
+        },
+        {
+          "start": 67.67,
+          "end": 68.19,
+          "word": " when"
+        },
+        {
+          "start": 68.19,
+          "end": 68.41,
+          "word": " you"
+        },
+        {
+          "start": 68.41,
+          "end": 68.59,
+          "word": " and"
+        },
+        {
+          "start": 68.59,
+          "end": 68.93,
+          "word": " Howard"
+        },
+        {
+          "start": 68.93,
+          "end": 69.47,
+          "word": " came"
+        },
+        {
+          "start": 69.47,
+          "end": 69.95,
+          "word": " to"
+        },
+        {
+          "start": 69.95,
+          "end": 70.37,
+          "word": " Santa"
+        },
+        {
+          "start": 70.37,
+          "end": 70.71,
+          "word": " Fe"
+        },
+        {
+          "start": 70.71,
+          "end": 71.15,
+          "word": " about"
+        },
+        {
+          "start": 71.15,
+          "end": 71.45,
+          "word": " three"
+        },
+        {
+          "start": 71.45,
+          "end": 71.57,
+          "word": " or"
+        },
+        {
+          "start": 71.57,
+          "end": 71.81,
+          "word": " four"
+        },
+        {
+          "start": 71.81,
+          "end": 72.11,
+          "word": " years"
+        }
+      ]
+    },
+    {
+      "start": 72.11,
+      "end": 72.47,
+      "text": "ago.",
+      "words": [
+        {
+          "start": 72.11,
+          "end": 72.47,
+          "word": " ago."
+        }
+      ]
+    },
+    {
+      "start": 72.55,
+      "end": 73.99,
+      "text": "I don't remember how long ago.",
+      "words": [
+        {
+          "start": 72.55,
+          "end": 72.63,
+          "word": " I"
+        },
+        {
+          "start": 72.63,
+          "end": 72.81,
+          "word": " don't"
+        },
+        {
+          "start": 72.81,
+          "end": 73.19,
+          "word": " remember"
+        },
+        {
+          "start": 73.19,
+          "end": 73.49,
+          "word": " how"
+        },
+        {
+          "start": 73.49,
+          "end": 73.67,
+          "word": " long"
+        },
+        {
+          "start": 73.67,
+          "end": 73.99,
+          "word": " ago."
+        }
+      ]
+    },
+    {
+      "start": 74.81,
+      "end": 80.85,
+      "text": "And you invited me to come for brunch, which I was kind of surprised because Howard and",
+      "words": [
+        {
+          "start": 74.81,
+          "end": 75.15,
+          "word": " And"
+        },
+        {
+          "start": 75.15,
+          "end": 75.31,
+          "word": " you"
+        },
+        {
+          "start": 75.31,
+          "end": 76.13,
+          "word": " invited"
+        },
+        {
+          "start": 76.13,
+          "end": 76.35,
+          "word": " me"
+        },
+        {
+          "start": 76.35,
+          "end": 76.51,
+          "word": " to"
+        },
+        {
+          "start": 76.51,
+          "end": 76.71,
+          "word": " come"
+        },
+        {
+          "start": 76.71,
+          "end": 76.93,
+          "word": " for"
+        },
+        {
+          "start": 76.93,
+          "end": 77.25,
+          "word": " brunch,"
+        },
+        {
+          "start": 77.25,
+          "end": 77.57,
+          "word": " which"
+        },
+        {
+          "start": 77.57,
+          "end": 77.71,
+          "word": " I"
+        },
+        {
+          "start": 77.71,
+          "end": 77.87,
+          "word": " was"
+        },
+        {
+          "start": 77.87,
+          "end": 78.05,
+          "word": " kind"
+        },
+        {
+          "start": 78.05,
+          "end": 78.17,
+          "word": " of"
+        },
+        {
+          "start": 78.17,
+          "end": 78.63,
+          "word": " surprised"
+        },
+        {
+          "start": 78.63,
+          "end": 79.33,
+          "word": " because"
+        },
+        {
+          "start": 79.33,
+          "end": 80.63,
+          "word": " Howard"
+        },
+        {
+          "start": 80.63,
+          "end": 80.85,
+          "word": " and"
+        }
+      ]
+    },
+    {
+      "start": 80.85,
+      "end": 87.29,
+      "text": "I were friendly but not great friends and I was really happy to be invited to join",
+      "words": [
+        {
+          "start": 80.85,
+          "end": 81.19,
+          "word": " I"
+        },
+        {
+          "start": 81.19,
+          "end": 82.99,
+          "word": " were"
+        },
+        {
+          "start": 82.99,
+          "end": 83.65,
+          "word": " friendly"
+        },
+        {
+          "start": 83.65,
+          "end": 83.93,
+          "word": " but"
+        },
+        {
+          "start": 83.93,
+          "end": 84.19,
+          "word": " not"
+        },
+        {
+          "start": 84.19,
+          "end": 84.49,
+          "word": " great"
+        },
+        {
+          "start": 84.49,
+          "end": 84.93,
+          "word": " friends"
+        },
+        {
+          "start": 84.93,
+          "end": 85.21,
+          "word": " and"
+        },
+        {
+          "start": 85.21,
+          "end": 85.33,
+          "word": " I"
+        },
+        {
+          "start": 85.33,
+          "end": 85.49,
+          "word": " was"
+        },
+        {
+          "start": 85.49,
+          "end": 85.73,
+          "word": " really"
+        },
+        {
+          "start": 85.73,
+          "end": 86.07,
+          "word": " happy"
+        },
+        {
+          "start": 86.07,
+          "end": 86.25,
+          "word": " to"
+        },
+        {
+          "start": 86.25,
+          "end": 86.39,
+          "word": " be"
+        },
+        {
+          "start": 86.39,
+          "end": 86.81,
+          "word": " invited"
+        },
+        {
+          "start": 86.81,
+          "end": 87.05,
+          "word": " to"
+        },
+        {
+          "start": 87.05,
+          "end": 87.29,
+          "word": " join"
+        }
+      ]
+    },
+    {
+      "start": 87.29,
+      "end": 87.57,
+      "text": "you.",
+      "words": [
+        {
+          "start": 87.29,
+          "end": 87.57,
+          "word": " you."
+        }
+      ]
+    },
+    {
+      "start": 87.57,
+      "end": 95.63,
+      "text": "So it was just so nice to have someone from my career and my past showing up and asking",
+      "words": [
+        {
+          "start": 87.57,
+          "end": 87.71,
+          "word": " So"
+        },
+        {
+          "start": 87.71,
+          "end": 88.09,
+          "word": " it"
+        },
+        {
+          "start": 88.09,
+          "end": 88.23,
+          "word": " was"
+        },
+        {
+          "start": 88.23,
+          "end": 88.43,
+          "word": " just"
+        },
+        {
+          "start": 88.43,
+          "end": 88.65,
+          "word": " so"
+        },
+        {
+          "start": 88.65,
+          "end": 88.91,
+          "word": " nice"
+        },
+        {
+          "start": 88.91,
+          "end": 89.17,
+          "word": " to"
+        },
+        {
+          "start": 89.17,
+          "end": 89.39,
+          "word": " have"
+        },
+        {
+          "start": 89.39,
+          "end": 90.53,
+          "word": " someone"
+        },
+        {
+          "start": 90.53,
+          "end": 90.85,
+          "word": " from"
+        },
+        {
+          "start": 90.85,
+          "end": 91.17,
+          "word": " my"
+        },
+        {
+          "start": 91.17,
+          "end": 92.09,
+          "word": " career"
+        },
+        {
+          "start": 92.09,
+          "end": 92.55,
+          "word": " and"
+        },
+        {
+          "start": 92.55,
+          "end": 92.89,
+          "word": " my"
+        },
+        {
+          "start": 92.89,
+          "end": 94.05,
+          "word": " past"
+        },
+        {
+          "start": 94.05,
+          "end": 94.77,
+          "word": " showing"
+        },
+        {
+          "start": 94.77,
+          "end": 95.09,
+          "word": " up"
+        },
+        {
+          "start": 95.09,
+          "end": 95.37,
+          "word": " and"
+        },
+        {
+          "start": 95.37,
+          "end": 95.63,
+          "word": " asking"
+        }
+      ]
+    },
+    {
+      "start": 95.63,
+      "end": 96.29,
+      "text": "me to brunch.",
+      "words": [
+        {
+          "start": 95.63,
+          "end": 95.85,
+          "word": " me"
+        },
+        {
+          "start": 95.85,
+          "end": 95.95,
+          "word": " to"
+        },
+        {
+          "start": 95.95,
+          "end": 96.29,
+          "word": " brunch."
+        }
+      ]
+    },
+    {
+      "start": 96.87,
+      "end": 102.63,
+      "text": "And that was a fateful day because that got you and I connected and I think a really deep",
+      "words": [
+        {
+          "start": 96.87,
+          "end": 97.25,
+          "word": " And"
+        },
+        {
+          "start": 97.25,
+          "end": 97.59,
+          "word": " that"
+        },
+        {
+          "start": 97.59,
+          "end": 98.17,
+          "word": " was"
+        },
+        {
+          "start": 98.17,
+          "end": 98.35,
+          "word": " a"
+        },
+        {
+          "start": 98.35,
+          "end": 98.69,
+          "word": " fateful"
+        },
+        {
+          "start": 98.69,
+          "end": 98.99,
+          "word": " day"
+        },
+        {
+          "start": 98.99,
+          "end": 99.29,
+          "word": " because"
+        },
+        {
+          "start": 99.29,
+          "end": 99.61,
+          "word": " that"
+        },
+        {
+          "start": 99.61,
+          "end": 99.85,
+          "word": " got"
+        },
+        {
+          "start": 99.85,
+          "end": 100.07,
+          "word": " you"
+        },
+        {
+          "start": 100.07,
+          "end": 100.23,
+          "word": " and"
+        },
+        {
+          "start": 100.23,
+          "end": 100.39,
+          "word": " I"
+        },
+        {
+          "start": 100.39,
+          "end": 100.97,
+          "word": " connected"
+        },
+        {
+          "start": 100.97,
+          "end": 101.51,
+          "word": " and"
+        },
+        {
+          "start": 101.51,
+          "end": 101.67,
+          "word": " I"
+        },
+        {
+          "start": 101.67,
+          "end": 101.85,
+          "word": " think"
+        },
+        {
+          "start": 101.85,
+          "end": 102.07,
+          "word": " a"
+        },
+        {
+          "start": 102.07,
+          "end": 102.31,
+          "word": " really"
+        },
+        {
+          "start": 102.31,
+          "end": 102.63,
+          "word": " deep"
+        }
+      ]
+    },
+    {
+      "start": 102.63,
+      "end": 112.25,
+      "text": "way at least for me is such a great person and so inclusive and excited to meet people",
+      "words": [
+        {
+          "start": 102.63,
+          "end": 102.91,
+          "word": " way"
+        },
+        {
+          "start": 102.91,
+          "end": 103.11,
+          "word": " at"
+        },
+        {
+          "start": 103.11,
+          "end": 103.23,
+          "word": " least"
+        },
+        {
+          "start": 103.23,
+          "end": 103.57,
+          "word": " for"
+        },
+        {
+          "start": 103.57,
+          "end": 103.79,
+          "word": " me"
+        },
+        {
+          "start": 103.79,
+          "end": 104.75,
+          "word": " is"
+        },
+        {
+          "start": 104.75,
+          "end": 104.99,
+          "word": " such"
+        },
+        {
+          "start": 104.99,
+          "end": 105.05,
+          "word": " a"
+        },
+        {
+          "start": 105.05,
+          "end": 105.33,
+          "word": " great"
+        },
+        {
+          "start": 105.33,
+          "end": 105.85,
+          "word": " person"
+        },
+        {
+          "start": 105.85,
+          "end": 106.09,
+          "word": " and"
+        },
+        {
+          "start": 106.09,
+          "end": 106.51,
+          "word": " so"
+        },
+        {
+          "start": 106.51,
+          "end": 108.79,
+          "word": " inclusive"
+        },
+        {
+          "start": 108.79,
+          "end": 109.69,
+          "word": " and"
+        },
+        {
+          "start": 109.69,
+          "end": 111.39,
+          "word": " excited"
+        },
+        {
+          "start": 111.39,
+          "end": 111.71,
+          "word": " to"
+        },
+        {
+          "start": 111.71,
+          "end": 111.89,
+          "word": " meet"
+        },
+        {
+          "start": 111.89,
+          "end": 112.25,
+          "word": " people"
+        }
+      ]
+    },
+    {
+      "start": 112.25,
+      "end": 113.21,
+      "text": "is just wonderful.",
+      "words": [
+        {
+          "start": 112.25,
+          "end": 112.49,
+          "word": " is"
+        },
+        {
+          "start": 112.49,
+          "end": 112.71,
+          "word": " just"
+        },
+        {
+          "start": 112.71,
+          "end": 113.21,
+          "word": " wonderful."
+        }
+      ]
+    },
+    {
+      "start": 115.83,
+      "end": 122.53,
+      "text": "Anyway, I knew of you because I think at work if I remember Howard would talk almost more",
+      "words": [
+        {
+          "start": 115.83,
+          "end": 116.39,
+          "word": " Anyway,"
+        },
+        {
+          "start": 116.39,
+          "end": 116.95,
+          "word": " I"
+        },
+        {
+          "start": 116.95,
+          "end": 117.17,
+          "word": " knew"
+        },
+        {
+          "start": 117.17,
+          "end": 117.53,
+          "word": " of"
+        },
+        {
+          "start": 117.53,
+          "end": 117.71,
+          "word": " you"
+        },
+        {
+          "start": 117.71,
+          "end": 118.11,
+          "word": " because"
+        },
+        {
+          "start": 118.11,
+          "end": 118.33,
+          "word": " I"
+        },
+        {
+          "start": 118.33,
+          "end": 118.61,
+          "word": " think"
+        },
+        {
+          "start": 118.61,
+          "end": 118.95,
+          "word": " at"
+        },
+        {
+          "start": 118.95,
+          "end": 119.25,
+          "word": " work"
+        },
+        {
+          "start": 119.25,
+          "end": 119.69,
+          "word": " if"
+        },
+        {
+          "start": 119.69,
+          "end": 119.85,
+          "word": " I"
+        },
+        {
+          "start": 119.85,
+          "end": 120.27,
+          "word": " remember"
+        },
+        {
+          "start": 120.27,
+          "end": 121.05,
+          "word": " Howard"
+        },
+        {
+          "start": 121.05,
+          "end": 121.33,
+          "word": " would"
+        },
+        {
+          "start": 121.33,
+          "end": 121.65,
+          "word": " talk"
+        },
+        {
+          "start": 121.65,
+          "end": 122.17,
+          "word": " almost"
+        },
+        {
+          "start": 122.17,
+          "end": 122.53,
+          "word": " more"
+        }
+      ]
+    },
+    {
+      "start": 122.53,
+      "end": 128.15,
+      "text": "often of his family and you and your two wonderful boys who grew up to be such extraordinary",
+      "words": [
+        {
+          "start": 122.53,
+          "end": 122.91,
+          "word": " often"
+        },
+        {
+          "start": 122.91,
+          "end": 123.11,
+          "word": " of"
+        },
+        {
+          "start": 123.11,
+          "end": 123.27,
+          "word": " his"
+        },
+        {
+          "start": 123.27,
+          "end": 123.71,
+          "word": " family"
+        },
+        {
+          "start": 123.71,
+          "end": 124.09,
+          "word": " and"
+        },
+        {
+          "start": 124.09,
+          "end": 124.33,
+          "word": " you"
+        },
+        {
+          "start": 124.33,
+          "end": 124.51,
+          "word": " and"
+        },
+        {
+          "start": 124.51,
+          "end": 124.65,
+          "word": " your"
+        },
+        {
+          "start": 124.65,
+          "end": 124.91,
+          "word": " two"
+        },
+        {
+          "start": 124.91,
+          "end": 125.33,
+          "word": " wonderful"
+        },
+        {
+          "start": 125.33,
+          "end": 125.81,
+          "word": " boys"
+        },
+        {
+          "start": 125.81,
+          "end": 126.03,
+          "word": " who"
+        },
+        {
+          "start": 126.03,
+          "end": 126.23,
+          "word": " grew"
+        },
+        {
+          "start": 126.23,
+          "end": 126.41,
+          "word": " up"
+        },
+        {
+          "start": 126.41,
+          "end": 126.57,
+          "word": " to"
+        },
+        {
+          "start": 126.57,
+          "end": 126.75,
+          "word": " be"
+        },
+        {
+          "start": 126.75,
+          "end": 127.57,
+          "word": " such"
+        },
+        {
+          "start": 127.57,
+          "end": 128.15,
+          "word": " extraordinary"
+        }
+      ]
+    },
+    {
+      "start": 128.15,
+      "end": 130.77,
+      "text": "men more than he did talk of work.",
+      "words": [
+        {
+          "start": 128.15,
+          "end": 128.65,
+          "word": " men"
+        },
+        {
+          "start": 128.65,
+          "end": 129.47,
+          "word": " more"
+        },
+        {
+          "start": 129.47,
+          "end": 129.65,
+          "word": " than"
+        },
+        {
+          "start": 129.65,
+          "end": 129.79,
+          "word": " he"
+        },
+        {
+          "start": 129.79,
+          "end": 130.01,
+          "word": " did"
+        },
+        {
+          "start": 130.01,
+          "end": 130.31,
+          "word": " talk"
+        },
+        {
+          "start": 130.31,
+          "end": 130.49,
+          "word": " of"
+        },
+        {
+          "start": 130.49,
+          "end": 130.77,
+          "word": " work."
+        }
+      ]
+    },
+    {
+      "start": 131.41,
+      "end": 133.09,
+      "text": "But I don't think that's really true.",
+      "words": [
+        {
+          "start": 131.41,
+          "end": 131.77,
+          "word": " But"
+        },
+        {
+          "start": 131.77,
+          "end": 131.89,
+          "word": " I"
+        },
+        {
+          "start": 131.89,
+          "end": 132.03,
+          "word": " don't"
+        },
+        {
+          "start": 132.03,
+          "end": 132.21,
+          "word": " think"
+        },
+        {
+          "start": 132.21,
+          "end": 132.51,
+          "word": " that's"
+        },
+        {
+          "start": 132.51,
+          "end": 132.73,
+          "word": " really"
+        },
+        {
+          "start": 132.73,
+          "end": 133.09,
+          "word": " true."
+        }
+      ]
+    },
+    {
+      "start": 133.21,
+      "end": 135.45,
+      "text": "He was a super hard worker and did a great job.",
+      "words": [
+        {
+          "start": 133.21,
+          "end": 133.29,
+          "word": " He"
+        },
+        {
+          "start": 133.29,
+          "end": 133.47,
+          "word": " was"
+        },
+        {
+          "start": 133.47,
+          "end": 133.63,
+          "word": " a"
+        },
+        {
+          "start": 133.63,
+          "end": 133.89,
+          "word": " super"
+        },
+        {
+          "start": 133.89,
+          "end": 134.19,
+          "word": " hard"
+        },
+        {
+          "start": 134.19,
+          "end": 134.51,
+          "word": " worker"
+        },
+        {
+          "start": 134.51,
+          "end": 134.69,
+          "word": " and"
+        },
+        {
+          "start": 134.69,
+          "end": 134.81,
+          "word": " did"
+        },
+        {
+          "start": 134.81,
+          "end": 134.89,
+          "word": " a"
+        },
+        {
+          "start": 134.89,
+          "end": 135.07,
+          "word": " great"
+        },
+        {
+          "start": 135.07,
+          "end": 135.45,
+          "word": " job."
+        }
+      ]
+    },
+    {
+      "start": 135.97,
+      "end": 139.83,
+      "text": "Anyhow, we were at this brunch.",
+      "words": [
+        {
+          "start": 135.97,
+          "end": 136.49,
+          "word": " Anyhow,"
+        },
+        {
+          "start": 136.75,
+          "end": 138.11,
+          "word": " we"
+        },
+        {
+          "start": 138.11,
+          "end": 138.27,
+          "word": " were"
+        },
+        {
+          "start": 138.27,
+          "end": 138.53,
+          "word": " at"
+        },
+        {
+          "start": 138.53,
+          "end": 138.83,
+          "word": " this"
+        },
+        {
+          "start": 138.83,
+          "end": 139.83,
+          "word": " brunch."
+        }
+      ]
+    },
+    {
+      "start": 141.11,
+      "end": 148.72,
+      "text": "And I knew of your amazing work with teaching blind people how to navigate their",
+      "words": [
+        {
+          "start": 141.11,
+          "end": 141.71,
+          "word": " And"
+        },
+        {
+          "start": 141.71,
+          "end": 142.31,
+          "word": " I"
+        },
+        {
+          "start": 142.31,
+          "end": 142.51,
+          "word": " knew"
+        },
+        {
+          "start": 142.51,
+          "end": 142.73,
+          "word": " of"
+        },
+        {
+          "start": 142.73,
+          "end": 142.87,
+          "word": " your"
+        },
+        {
+          "start": 142.87,
+          "end": 143.21,
+          "word": " amazing"
+        },
+        {
+          "start": 143.21,
+          "end": 143.63,
+          "word": " work"
+        },
+        {
+          "start": 143.63,
+          "end": 144.41,
+          "word": " with"
+        },
+        {
+          "start": 145.82,
+          "end": 146.86,
+          "word": " teaching"
+        },
+        {
+          "start": 146.86,
+          "end": 147.28,
+          "word": " blind"
+        },
+        {
+          "start": 147.28,
+          "end": 147.68,
+          "word": " people"
+        },
+        {
+          "start": 147.68,
+          "end": 147.96,
+          "word": " how"
+        },
+        {
+          "start": 147.96,
+          "end": 148.04,
+          "word": " to"
+        },
+        {
+          "start": 148.04,
+          "end": 148.42,
+          "word": " navigate"
+        },
+        {
+          "start": 148.42,
+          "end": 148.72,
+          "word": " their"
+        }
+      ]
+    },
+    {
+      "start": 148.72,
+      "end": 152.94,
+      "text": "environment, which I didn't know was a job that existed, so it was quite astounding",
+      "words": [
+        {
+          "start": 148.72,
+          "end": 149.24,
+          "word": " environment,"
+        },
+        {
+          "start": 149.24,
+          "end": 149.56,
+          "word": " which"
+        },
+        {
+          "start": 149.56,
+          "end": 149.72,
+          "word": " I"
+        },
+        {
+          "start": 149.72,
+          "end": 149.94,
+          "word": " didn't"
+        },
+        {
+          "start": 149.94,
+          "end": 150.16,
+          "word": " know"
+        },
+        {
+          "start": 150.16,
+          "end": 150.36,
+          "word": " was"
+        },
+        {
+          "start": 150.36,
+          "end": 150.48,
+          "word": " a"
+        },
+        {
+          "start": 150.48,
+          "end": 150.7,
+          "word": " job"
+        },
+        {
+          "start": 150.7,
+          "end": 150.9,
+          "word": " that"
+        },
+        {
+          "start": 150.9,
+          "end": 151.34,
+          "word": " existed,"
+        },
+        {
+          "start": 151.38,
+          "end": 151.78,
+          "word": " so"
+        },
+        {
+          "start": 151.78,
+          "end": 151.98,
+          "word": " it"
+        },
+        {
+          "start": 151.98,
+          "end": 152.02,
+          "word": " was"
+        },
+        {
+          "start": 152.02,
+          "end": 152.32,
+          "word": " quite"
+        },
+        {
+          "start": 152.32,
+          "end": 152.94,
+          "word": " astounding"
+        }
+      ]
+    },
+    {
+      "start": 152.94,
+      "end": 154.58,
+      "text": "to know of your unique niche.",
+      "words": [
+        {
+          "start": 152.94,
+          "end": 153.24,
+          "word": " to"
+        },
+        {
+          "start": 153.24,
+          "end": 153.44,
+          "word": " know"
+        },
+        {
+          "start": 153.44,
+          "end": 153.6,
+          "word": " of"
+        },
+        {
+          "start": 153.6,
+          "end": 153.74,
+          "word": " your"
+        },
+        {
+          "start": 153.74,
+          "end": 154.18,
+          "word": " unique"
+        },
+        {
+          "start": 154.18,
+          "end": 154.58,
+          "word": " niche."
+        }
+      ]
+    },
+    {
+      "start": 156.24,
+      "end": 163.68,
+      "text": "And I knew how you and Howard had met kayaking and how you guys kept on keeping",
+      "words": [
+        {
+          "start": 156.24,
+          "end": 156.84,
+          "word": " And"
+        },
+        {
+          "start": 156.84,
+          "end": 157.44,
+          "word": " I"
+        },
+        {
+          "start": 157.44,
+          "end": 157.72,
+          "word": " knew"
+        },
+        {
+          "start": 157.72,
+          "end": 157.96,
+          "word": " how"
+        },
+        {
+          "start": 157.96,
+          "end": 158.18,
+          "word": " you"
+        },
+        {
+          "start": 158.18,
+          "end": 158.32,
+          "word": " and"
+        },
+        {
+          "start": 158.32,
+          "end": 158.56,
+          "word": " Howard"
+        },
+        {
+          "start": 158.56,
+          "end": 158.8,
+          "word": " had"
+        },
+        {
+          "start": 158.8,
+          "end": 159.02,
+          "word": " met"
+        },
+        {
+          "start": 159.02,
+          "end": 159.62,
+          "word": " kayaking"
+        },
+        {
+          "start": 159.62,
+          "end": 160.66,
+          "word": " and"
+        },
+        {
+          "start": 160.66,
+          "end": 160.9,
+          "word": " how"
+        },
+        {
+          "start": 160.9,
+          "end": 161.14,
+          "word": " you"
+        },
+        {
+          "start": 161.14,
+          "end": 161.42,
+          "word": " guys"
+        },
+        {
+          "start": 161.42,
+          "end": 162.26,
+          "word": " kept"
+        },
+        {
+          "start": 162.26,
+          "end": 162.66,
+          "word": " on"
+        },
+        {
+          "start": 162.66,
+          "end": 163.68,
+          "word": " keeping"
+        }
+      ]
+    },
+    {
+      "start": 163.68,
+      "end": 169.8,
+      "text": "the adventures going with kayaking, environmental traveling companions, your great",
+      "words": [
+        {
+          "start": 163.68,
+          "end": 163.96,
+          "word": " the"
+        },
+        {
+          "start": 163.96,
+          "end": 164.36,
+          "word": " adventures"
+        },
+        {
+          "start": 164.36,
+          "end": 164.9,
+          "word": " going"
+        },
+        {
+          "start": 164.9,
+          "end": 165.66,
+          "word": " with"
+        },
+        {
+          "start": 165.66,
+          "end": 166.3,
+          "word": " kayaking,"
+        },
+        {
+          "start": 166.6,
+          "end": 167.04,
+          "word": " environmental"
+        },
+        {
+          "start": 167.04,
+          "end": 167.56,
+          "word": " traveling"
+        },
+        {
+          "start": 167.56,
+          "end": 168.22,
+          "word": " companions,"
+        },
+        {
+          "start": 169.22,
+          "end": 169.42,
+          "word": " your"
+        },
+        {
+          "start": 169.42,
+          "end": 169.8,
+          "word": " great"
+        }
+      ]
+    },
+    {
+      "start": 169.8,
+      "end": 173.14,
+      "text": "hearts and generosity just shining a light in the world.",
+      "words": [
+        {
+          "start": 169.8,
+          "end": 170.18,
+          "word": " hearts"
+        },
+        {
+          "start": 170.18,
+          "end": 170.36,
+          "word": " and"
+        },
+        {
+          "start": 170.36,
+          "end": 171.04,
+          "word": " generosity"
+        },
+        {
+          "start": 171.04,
+          "end": 171.84,
+          "word": " just"
+        },
+        {
+          "start": 171.84,
+          "end": 172.22,
+          "word": " shining"
+        },
+        {
+          "start": 172.22,
+          "end": 172.46,
+          "word": " a"
+        },
+        {
+          "start": 172.46,
+          "end": 172.6,
+          "word": " light"
+        },
+        {
+          "start": 172.6,
+          "end": 172.74,
+          "word": " in"
+        },
+        {
+          "start": 172.74,
+          "end": 172.84,
+          "word": " the"
+        },
+        {
+          "start": 172.84,
+          "end": 173.14,
+          "word": " world."
+        }
+      ]
+    },
+    {
+      "start": 173.96,
+      "end": 179.18,
+      "text": "And so I knew it was really a good occasion for me to meet you.",
+      "words": [
+        {
+          "start": 173.96,
+          "end": 174.38,
+          "word": " And"
+        },
+        {
+          "start": 174.38,
+          "end": 174.64,
+          "word": " so"
+        },
+        {
+          "start": 174.64,
+          "end": 174.76,
+          "word": " I"
+        },
+        {
+          "start": 174.76,
+          "end": 175.02,
+          "word": " knew"
+        },
+        {
+          "start": 175.02,
+          "end": 175.36,
+          "word": " it"
+        },
+        {
+          "start": 175.36,
+          "end": 175.4,
+          "word": " was"
+        },
+        {
+          "start": 175.4,
+          "end": 176.84,
+          "word": " really"
+        },
+        {
+          "start": 176.84,
+          "end": 177.58,
+          "word": " a"
+        },
+        {
+          "start": 177.58,
+          "end": 177.78,
+          "word": " good"
+        },
+        {
+          "start": 177.78,
+          "end": 178.18,
+          "word": " occasion"
+        },
+        {
+          "start": 178.18,
+          "end": 178.5,
+          "word": " for"
+        },
+        {
+          "start": 178.5,
+          "end": 178.62,
+          "word": " me"
+        },
+        {
+          "start": 178.62,
+          "end": 178.76,
+          "word": " to"
+        },
+        {
+          "start": 178.76,
+          "end": 178.92,
+          "word": " meet"
+        },
+        {
+          "start": 178.92,
+          "end": 179.18,
+          "word": " you."
+        }
+      ]
+    },
+    {
+      "start": 179.82,
+      "end": 186.28,
+      "text": "But it was a somber day because I don't remember where Howard was.",
+      "words": [
+        {
+          "start": 179.82,
+          "end": 180.14,
+          "word": " But"
+        },
+        {
+          "start": 180.14,
+          "end": 180.24,
+          "word": " it"
+        },
+        {
+          "start": 180.24,
+          "end": 180.46,
+          "word": " was"
+        },
+        {
+          "start": 180.46,
+          "end": 180.8,
+          "word": " a"
+        },
+        {
+          "start": 180.8,
+          "end": 181.18,
+          "word": " somber"
+        },
+        {
+          "start": 181.18,
+          "end": 181.56,
+          "word": " day"
+        },
+        {
+          "start": 181.56,
+          "end": 182.12,
+          "word": " because"
+        },
+        {
+          "start": 182.12,
+          "end": 182.48,
+          "word": " I"
+        },
+        {
+          "start": 182.48,
+          "end": 182.68,
+          "word": " don't"
+        },
+        {
+          "start": 182.68,
+          "end": 183.24,
+          "word": " remember"
+        },
+        {
+          "start": 183.24,
+          "end": 185.52,
+          "word": " where"
+        },
+        {
+          "start": 185.52,
+          "end": 185.9,
+          "word": " Howard"
+        },
+        {
+          "start": 185.9,
+          "end": 186.28,
+          "word": " was."
+        }
+      ]
+    },
+    {
+      "start": 186.42,
+      "end": 188.64,
+      "text": "He had left the table and it was just you and me.",
+      "words": [
+        {
+          "start": 186.42,
+          "end": 186.52,
+          "word": " He"
+        },
+        {
+          "start": 186.52,
+          "end": 186.64,
+          "word": " had"
+        },
+        {
+          "start": 186.64,
+          "end": 186.84,
+          "word": " left"
+        },
+        {
+          "start": 186.84,
+          "end": 187.02,
+          "word": " the"
+        },
+        {
+          "start": 187.02,
+          "end": 187.34,
+          "word": " table"
+        },
+        {
+          "start": 187.34,
+          "end": 187.56,
+          "word": " and"
+        },
+        {
+          "start": 187.56,
+          "end": 187.66,
+          "word": " it"
+        },
+        {
+          "start": 187.66,
+          "end": 187.78,
+          "word": " was"
+        },
+        {
+          "start": 187.78,
+          "end": 188.06,
+          "word": " just"
+        },
+        {
+          "start": 188.06,
+          "end": 188.32,
+          "word": " you"
+        },
+        {
+          "start": 188.32,
+          "end": 188.46,
+          "word": " and"
+        },
+        {
+          "start": 188.46,
+          "end": 188.64,
+          "word": " me."
+        }
+      ]
+    },
+    {
+      "start": 190.44,
+      "end": 197.08,
+      "text": "And you shared with me you had either just gotten a call or maybe a little bit",
+      "words": [
+        {
+          "start": 190.44,
+          "end": 191.0,
+          "word": " And"
+        },
+        {
+          "start": 191.0,
+          "end": 191.56,
+          "word": " you"
+        },
+        {
+          "start": 191.56,
+          "end": 191.84,
+          "word": " shared"
+        },
+        {
+          "start": 191.84,
+          "end": 192.1,
+          "word": " with"
+        },
+        {
+          "start": 192.1,
+          "end": 192.34,
+          "word": " me"
+        },
+        {
+          "start": 192.34,
+          "end": 192.6,
+          "word": " you"
+        },
+        {
+          "start": 192.6,
+          "end": 192.84,
+          "word": " had"
+        },
+        {
+          "start": 192.84,
+          "end": 193.4,
+          "word": " either"
+        },
+        {
+          "start": 193.4,
+          "end": 194.18,
+          "word": " just"
+        },
+        {
+          "start": 194.18,
+          "end": 194.58,
+          "word": " gotten"
+        },
+        {
+          "start": 194.58,
+          "end": 194.72,
+          "word": " a"
+        },
+        {
+          "start": 194.72,
+          "end": 195.04,
+          "word": " call"
+        },
+        {
+          "start": 195.04,
+          "end": 195.5,
+          "word": " or"
+        },
+        {
+          "start": 195.5,
+          "end": 196.36,
+          "word": " maybe"
+        },
+        {
+          "start": 196.36,
+          "end": 196.66,
+          "word": " a"
+        },
+        {
+          "start": 196.66,
+          "end": 196.86,
+          "word": " little"
+        },
+        {
+          "start": 196.86,
+          "end": 197.08,
+          "word": " bit"
+        }
+      ]
+    },
+    {
+      "start": 197.08,
+      "end": 201.54,
+      "text": "before the brunch gotten a call from Kaiser that there was an irregularity in",
+      "words": [
+        {
+          "start": 197.08,
+          "end": 197.34,
+          "word": " before"
+        },
+        {
+          "start": 197.34,
+          "end": 197.6,
+          "word": " the"
+        },
+        {
+          "start": 197.6,
+          "end": 197.86,
+          "word": " brunch"
+        },
+        {
+          "start": 197.86,
+          "end": 198.22,
+          "word": " gotten"
+        },
+        {
+          "start": 198.22,
+          "end": 198.42,
+          "word": " a"
+        },
+        {
+          "start": 198.42,
+          "end": 198.64,
+          "word": " call"
+        },
+        {
+          "start": 198.64,
+          "end": 198.88,
+          "word": " from"
+        },
+        {
+          "start": 198.88,
+          "end": 199.36,
+          "word": " Kaiser"
+        },
+        {
+          "start": 199.36,
+          "end": 200.18,
+          "word": " that"
+        },
+        {
+          "start": 200.18,
+          "end": 200.36,
+          "word": " there"
+        },
+        {
+          "start": 200.36,
+          "end": 200.52,
+          "word": " was"
+        },
+        {
+          "start": 200.52,
+          "end": 200.62,
+          "word": " an"
+        },
+        {
+          "start": 200.62,
+          "end": 201.42,
+          "word": " irregularity"
+        },
+        {
+          "start": 201.42,
+          "end": 201.54,
+          "word": " in"
+        }
+      ]
+    },
+    {
+      "start": 201.54,
+      "end": 205.14,
+      "text": "your mammogram and they wanted you to get back to San Francisco as quickly as",
+      "words": [
+        {
+          "start": 201.54,
+          "end": 201.66,
+          "word": " your"
+        },
+        {
+          "start": 201.66,
+          "end": 202.14,
+          "word": " mammogram"
+        },
+        {
+          "start": 202.14,
+          "end": 202.46,
+          "word": " and"
+        },
+        {
+          "start": 202.46,
+          "end": 202.56,
+          "word": " they"
+        },
+        {
+          "start": 202.56,
+          "end": 202.8,
+          "word": " wanted"
+        },
+        {
+          "start": 202.8,
+          "end": 203.04,
+          "word": " you"
+        },
+        {
+          "start": 203.04,
+          "end": 203.12,
+          "word": " to"
+        },
+        {
+          "start": 203.12,
+          "end": 203.26,
+          "word": " get"
+        },
+        {
+          "start": 203.26,
+          "end": 203.52,
+          "word": " back"
+        },
+        {
+          "start": 203.52,
+          "end": 203.74,
+          "word": " to"
+        },
+        {
+          "start": 203.74,
+          "end": 203.86,
+          "word": " San"
+        },
+        {
+          "start": 203.86,
+          "end": 204.2,
+          "word": " Francisco"
+        },
+        {
+          "start": 204.2,
+          "end": 204.2,
+          "word": " as"
+        },
+        {
+          "start": 204.2,
+          "end": 204.92,
+          "word": " quickly"
+        },
+        {
+          "start": 204.92,
+          "end": 205.14,
+          "word": " as"
+        }
+      ]
+    },
+    {
+      "start": 205.14,
+      "end": 205.6,
+      "text": "possible.",
+      "words": [
+        {
+          "start": 205.14,
+          "end": 205.6,
+          "word": " possible."
+        }
+      ]
+    },
+    {
+      "start": 206.26,
+      "end": 212.74,
+      "text": "It was a scary call and it was casting a pall over your Southwest",
+      "words": [
+        {
+          "start": 206.26,
+          "end": 206.46,
+          "word": " It"
+        },
+        {
+          "start": 206.46,
+          "end": 206.62,
+          "word": " was"
+        },
+        {
+          "start": 206.62,
+          "end": 206.78,
+          "word": " a"
+        },
+        {
+          "start": 206.78,
+          "end": 207.1,
+          "word": " scary"
+        },
+        {
+          "start": 207.1,
+          "end": 207.6,
+          "word": " call"
+        },
+        {
+          "start": 207.6,
+          "end": 208.62,
+          "word": " and"
+        },
+        {
+          "start": 208.62,
+          "end": 209.26,
+          "word": " it"
+        },
+        {
+          "start": 209.26,
+          "end": 209.4,
+          "word": " was"
+        },
+        {
+          "start": 209.4,
+          "end": 209.88,
+          "word": " casting"
+        },
+        {
+          "start": 209.88,
+          "end": 210.06,
+          "word": " a"
+        },
+        {
+          "start": 210.06,
+          "end": 210.42,
+          "word": " pall"
+        },
+        {
+          "start": 210.42,
+          "end": 210.9,
+          "word": " over"
+        },
+        {
+          "start": 210.9,
+          "end": 211.34,
+          "word": " your"
+        },
+        {
+          "start": 211.34,
+          "end": 212.74,
+          "word": " Southwest"
+        }
+      ]
+    },
+    {
+      "start": 213.7,
+      "end": 217.96,
+      "text": "exploration adventure travel with your little teardrop trailer.",
+      "words": [
+        {
+          "start": 213.7,
+          "end": 214.34,
+          "word": " exploration"
+        },
+        {
+          "start": 214.34,
+          "end": 214.98,
+          "word": " adventure"
+        },
+        {
+          "start": 214.98,
+          "end": 215.66,
+          "word": " travel"
+        },
+        {
+          "start": 215.66,
+          "end": 216.56,
+          "word": " with"
+        },
+        {
+          "start": 216.56,
+          "end": 216.72,
+          "word": " your"
+        },
+        {
+          "start": 216.72,
+          "end": 216.92,
+          "word": " little"
+        },
+        {
+          "start": 216.92,
+          "end": 217.46,
+          "word": " teardrop"
+        },
+        {
+          "start": 217.46,
+          "end": 217.96,
+          "word": " trailer."
+        }
+      ]
+    },
+    {
+      "start": 218.6,
+      "end": 223.0,
+      "text": "I could really relate because several years earlier I was visiting my sister",
+      "words": [
+        {
+          "start": 218.6,
+          "end": 219.0,
+          "word": " I"
+        },
+        {
+          "start": 219.0,
+          "end": 219.14,
+          "word": " could"
+        },
+        {
+          "start": 219.14,
+          "end": 219.46,
+          "word": " really"
+        },
+        {
+          "start": 219.46,
+          "end": 219.86,
+          "word": " relate"
+        },
+        {
+          "start": 219.86,
+          "end": 220.24,
+          "word": " because"
+        },
+        {
+          "start": 220.24,
+          "end": 220.7,
+          "word": " several"
+        },
+        {
+          "start": 220.7,
+          "end": 221.0,
+          "word": " years"
+        },
+        {
+          "start": 221.0,
+          "end": 221.54,
+          "word": " earlier"
+        },
+        {
+          "start": 221.54,
+          "end": 221.88,
+          "word": " I"
+        },
+        {
+          "start": 221.88,
+          "end": 222.04,
+          "word": " was"
+        },
+        {
+          "start": 222.04,
+          "end": 222.36,
+          "word": " visiting"
+        },
+        {
+          "start": 222.36,
+          "end": 222.66,
+          "word": " my"
+        },
+        {
+          "start": 222.66,
+          "end": 223.0,
+          "word": " sister"
+        }
+      ]
+    },
+    {
+      "start": 223.0,
+      "end": 227.48,
+      "text": "in Albuquerque and I also got a call from Kaiser that said there was an",
+      "words": [
+        {
+          "start": 223.0,
+          "end": 223.2,
+          "word": " in"
+        },
+        {
+          "start": 223.2,
+          "end": 223.92,
+          "word": " Albuquerque"
+        },
+        {
+          "start": 223.92,
+          "end": 224.24,
+          "word": " and"
+        },
+        {
+          "start": 224.24,
+          "end": 224.4,
+          "word": " I"
+        },
+        {
+          "start": 224.4,
+          "end": 224.76,
+          "word": " also"
+        },
+        {
+          "start": 224.76,
+          "end": 225.0,
+          "word": " got"
+        },
+        {
+          "start": 225.0,
+          "end": 225.12,
+          "word": " a"
+        },
+        {
+          "start": 225.12,
+          "end": 225.32,
+          "word": " call"
+        },
+        {
+          "start": 225.32,
+          "end": 225.56,
+          "word": " from"
+        },
+        {
+          "start": 225.56,
+          "end": 225.96,
+          "word": " Kaiser"
+        },
+        {
+          "start": 225.96,
+          "end": 226.78,
+          "word": " that"
+        },
+        {
+          "start": 226.78,
+          "end": 227.04,
+          "word": " said"
+        },
+        {
+          "start": 227.04,
+          "end": 227.26,
+          "word": " there"
+        },
+        {
+          "start": 227.26,
+          "end": 227.38,
+          "word": " was"
+        },
+        {
+          "start": 227.38,
+          "end": 227.48,
+          "word": " an"
+        }
+      ]
+    },
+    {
+      "start": 227.48,
+      "end": 231.54,
+      "text": "irregularity in my mammogram and I needed to get home as soon as possible.",
+      "words": [
+        {
+          "start": 227.48,
+          "end": 228.22,
+          "word": " irregularity"
+        },
+        {
+          "start": 228.22,
+          "end": 228.36,
+          "word": " in"
+        },
+        {
+          "start": 228.36,
+          "end": 228.5,
+          "word": " my"
+        },
+        {
+          "start": 228.5,
+          "end": 228.92,
+          "word": " mammogram"
+        },
+        {
+          "start": 228.92,
+          "end": 229.22,
+          "word": " and"
+        },
+        {
+          "start": 229.22,
+          "end": 229.34,
+          "word": " I"
+        },
+        {
+          "start": 229.34,
+          "end": 229.56,
+          "word": " needed"
+        },
+        {
+          "start": 229.56,
+          "end": 229.8,
+          "word": " to"
+        },
+        {
+          "start": 229.8,
+          "end": 229.94,
+          "word": " get"
+        },
+        {
+          "start": 229.94,
+          "end": 230.28,
+          "word": " home"
+        },
+        {
+          "start": 230.28,
+          "end": 230.7,
+          "word": " as"
+        },
+        {
+          "start": 230.7,
+          "end": 230.9,
+          "word": " soon"
+        },
+        {
+          "start": 230.9,
+          "end": 231.04,
+          "word": " as"
+        },
+        {
+          "start": 231.04,
+          "end": 231.54,
+          "word": " possible."
+        }
+      ]
+    },
+    {
+      "start": 232.9,
+      "end": 236.06,
+      "text": "It was a really scary feeling to get that call.",
+      "words": [
+        {
+          "start": 232.9,
+          "end": 233.42,
+          "word": " It"
+        },
+        {
+          "start": 233.42,
+          "end": 233.6,
+          "word": " was"
+        },
+        {
+          "start": 233.6,
+          "end": 233.7,
+          "word": " a"
+        },
+        {
+          "start": 233.7,
+          "end": 233.94,
+          "word": " really"
+        },
+        {
+          "start": 233.94,
+          "end": 234.44,
+          "word": " scary"
+        },
+        {
+          "start": 234.44,
+          "end": 235.08,
+          "word": " feeling"
+        },
+        {
+          "start": 235.08,
+          "end": 235.34,
+          "word": " to"
+        },
+        {
+          "start": 235.34,
+          "end": 235.48,
+          "word": " get"
+        },
+        {
+          "start": 235.48,
+          "end": 235.7,
+          "word": " that"
+        },
+        {
+          "start": 235.7,
+          "end": 236.06,
+          "word": " call."
+        }
+      ]
+    },
+    {
+      "start": 236.18,
+      "end": 237.54,
+      "text": "They made it sound so urgent.",
+      "words": [
+        {
+          "start": 236.18,
+          "end": 236.28,
+          "word": " They"
+        },
+        {
+          "start": 236.28,
+          "end": 236.44,
+          "word": " made"
+        },
+        {
+          "start": 236.44,
+          "end": 236.58,
+          "word": " it"
+        },
+        {
+          "start": 236.58,
+          "end": 236.88,
+          "word": " sound"
+        },
+        {
+          "start": 236.88,
+          "end": 237.18,
+          "word": " so"
+        },
+        {
+          "start": 237.18,
+          "end": 237.54,
+          "word": " urgent."
+        }
+      ]
+    },
+    {
+      "start": 237.86,
+      "end": 243.44,
+      "text": "And of course, then our path diverged because my cancer was caught very",
+      "words": [
+        {
+          "start": 237.86,
+          "end": 237.86,
+          "word": " And"
+        },
+        {
+          "start": 237.86,
+          "end": 238.02,
+          "word": " of"
+        },
+        {
+          "start": 238.02,
+          "end": 238.28,
+          "word": " course,"
+        },
+        {
+          "start": 238.5,
+          "end": 238.62,
+          "word": " then"
+        },
+        {
+          "start": 238.62,
+          "end": 238.88,
+          "word": " our"
+        },
+        {
+          "start": 238.88,
+          "end": 240.14,
+          "word": " path"
+        },
+        {
+          "start": 240.14,
+          "end": 241.0,
+          "word": " diverged"
+        },
+        {
+          "start": 241.0,
+          "end": 241.44,
+          "word": " because"
+        },
+        {
+          "start": 241.44,
+          "end": 242.24,
+          "word": " my"
+        },
+        {
+          "start": 242.24,
+          "end": 242.64,
+          "word": " cancer"
+        },
+        {
+          "start": 242.64,
+          "end": 242.9,
+          "word": " was"
+        },
+        {
+          "start": 242.9,
+          "end": 243.1,
+          "word": " caught"
+        },
+        {
+          "start": 243.1,
+          "end": 243.44,
+          "word": " very"
+        }
+      ]
+    },
+    {
+      "start": 243.44,
+      "end": 248.26,
+      "text": "early and within a year I was free of it, which was not to be your story.",
+      "words": [
+        {
+          "start": 243.44,
+          "end": 243.8,
+          "word": " early"
+        },
+        {
+          "start": 243.8,
+          "end": 244.0,
+          "word": " and"
+        },
+        {
+          "start": 244.0,
+          "end": 244.22,
+          "word": " within"
+        },
+        {
+          "start": 244.22,
+          "end": 244.44,
+          "word": " a"
+        },
+        {
+          "start": 244.44,
+          "end": 244.66,
+          "word": " year"
+        },
+        {
+          "start": 244.66,
+          "end": 244.98,
+          "word": " I"
+        },
+        {
+          "start": 244.98,
+          "end": 245.16,
+          "word": " was"
+        },
+        {
+          "start": 245.16,
+          "end": 245.42,
+          "word": " free"
+        },
+        {
+          "start": 245.42,
+          "end": 245.56,
+          "word": " of"
+        },
+        {
+          "start": 245.56,
+          "end": 245.88,
+          "word": " it,"
+        },
+        {
+          "start": 246.22,
+          "end": 246.68,
+          "word": " which"
+        },
+        {
+          "start": 246.68,
+          "end": 246.84,
+          "word": " was"
+        },
+        {
+          "start": 246.84,
+          "end": 247.1,
+          "word": " not"
+        },
+        {
+          "start": 247.1,
+          "end": 247.32,
+          "word": " to"
+        },
+        {
+          "start": 247.32,
+          "end": 247.46,
+          "word": " be"
+        },
+        {
+          "start": 247.46,
+          "end": 247.7,
+          "word": " your"
+        },
+        {
+          "start": 247.7,
+          "end": 248.26,
+          "word": " story."
+        }
+      ]
+    },
+    {
+      "start": 250.59,
+      "end": 253.97,
+      "text": "Just remembering the anxiety of that time.",
+      "words": [
+        {
+          "start": 250.59,
+          "end": 250.95,
+          "word": " Just"
+        },
+        {
+          "start": 250.95,
+          "end": 251.39,
+          "word": " remembering"
+        },
+        {
+          "start": 251.39,
+          "end": 251.81,
+          "word": " the"
+        },
+        {
+          "start": 251.81,
+          "end": 252.29,
+          "word": " anxiety"
+        },
+        {
+          "start": 252.29,
+          "end": 252.85,
+          "word": " of"
+        },
+        {
+          "start": 252.85,
+          "end": 253.11,
+          "word": " that"
+        },
+        {
+          "start": 253.11,
+          "end": 253.97,
+          "word": " time."
+        }
+      ]
+    },
+    {
+      "start": 254.49,
+      "end": 255.73,
+      "text": "But it was a great day.",
+      "words": [
+        {
+          "start": 254.49,
+          "end": 254.73,
+          "word": " But"
+        },
+        {
+          "start": 254.73,
+          "end": 254.83,
+          "word": " it"
+        },
+        {
+          "start": 254.83,
+          "end": 254.95,
+          "word": " was"
+        },
+        {
+          "start": 254.95,
+          "end": 255.07,
+          "word": " a"
+        },
+        {
+          "start": 255.07,
+          "end": 255.27,
+          "word": " great"
+        },
+        {
+          "start": 255.27,
+          "end": 255.73,
+          "word": " day."
+        }
+      ]
+    },
+    {
+      "start": 255.81,
+      "end": 259.73,
+      "text": "We had really fun brunch and I do think you and Howard finished the trip",
+      "words": [
+        {
+          "start": 255.81,
+          "end": 255.89,
+          "word": " We"
+        },
+        {
+          "start": 255.89,
+          "end": 256.09,
+          "word": " had"
+        },
+        {
+          "start": 256.09,
+          "end": 256.31,
+          "word": " really"
+        },
+        {
+          "start": 256.31,
+          "end": 256.61,
+          "word": " fun"
+        },
+        {
+          "start": 256.61,
+          "end": 256.99,
+          "word": " brunch"
+        },
+        {
+          "start": 256.99,
+          "end": 257.15,
+          "word": " and"
+        },
+        {
+          "start": 257.15,
+          "end": 257.31,
+          "word": " I"
+        },
+        {
+          "start": 257.31,
+          "end": 257.49,
+          "word": " do"
+        },
+        {
+          "start": 257.49,
+          "end": 257.73,
+          "word": " think"
+        },
+        {
+          "start": 257.73,
+          "end": 257.99,
+          "word": " you"
+        },
+        {
+          "start": 257.99,
+          "end": 258.11,
+          "word": " and"
+        },
+        {
+          "start": 258.11,
+          "end": 258.37,
+          "word": " Howard"
+        },
+        {
+          "start": 258.37,
+          "end": 259.11,
+          "word": " finished"
+        },
+        {
+          "start": 259.11,
+          "end": 259.47,
+          "word": " the"
+        },
+        {
+          "start": 259.47,
+          "end": 259.73,
+          "word": " trip"
+        }
+      ]
+    },
+    {
+      "start": 259.73,
+      "end": 266.13,
+      "text": "and decided to let life be your guidepost as you do every day instead of",
+      "words": [
+        {
+          "start": 259.73,
+          "end": 259.95,
+          "word": " and"
+        },
+        {
+          "start": 259.95,
+          "end": 260.37,
+          "word": " decided"
+        },
+        {
+          "start": 260.37,
+          "end": 260.67,
+          "word": " to"
+        },
+        {
+          "start": 260.67,
+          "end": 260.83,
+          "word": " let"
+        },
+        {
+          "start": 260.83,
+          "end": 261.23,
+          "word": " life"
+        },
+        {
+          "start": 261.23,
+          "end": 262.17,
+          "word": " be"
+        },
+        {
+          "start": 262.17,
+          "end": 262.37,
+          "word": " your"
+        },
+        {
+          "start": 262.37,
+          "end": 262.99,
+          "word": " guidepost"
+        },
+        {
+          "start": 262.99,
+          "end": 263.71,
+          "word": " as"
+        },
+        {
+          "start": 263.71,
+          "end": 263.89,
+          "word": " you"
+        },
+        {
+          "start": 263.89,
+          "end": 264.11,
+          "word": " do"
+        },
+        {
+          "start": 264.11,
+          "end": 264.53,
+          "word": " every"
+        },
+        {
+          "start": 264.53,
+          "end": 265.11,
+          "word": " day"
+        },
+        {
+          "start": 265.11,
+          "end": 265.89,
+          "word": " instead"
+        },
+        {
+          "start": 265.89,
+          "end": 266.13,
+          "word": " of"
+        }
+      ]
+    },
+    {
+      "start": 266.13,
+      "end": 267.59,
+      "text": "letting fear overcome you.",
+      "words": [
+        {
+          "start": 266.13,
+          "end": 266.35,
+          "word": " letting"
+        },
+        {
+          "start": 266.35,
+          "end": 266.73,
+          "word": " fear"
+        },
+        {
+          "start": 266.73,
+          "end": 267.25,
+          "word": " overcome"
+        },
+        {
+          "start": 267.25,
+          "end": 267.59,
+          "word": " you."
+        }
+      ]
+    },
+    {
+      "start": 268.53,
+      "end": 271.93,
+      "text": "So after that we would stay in touch from time to time.",
+      "words": [
+        {
+          "start": 268.53,
+          "end": 269.01,
+          "word": " So"
+        },
+        {
+          "start": 269.01,
+          "end": 269.49,
+          "word": " after"
+        },
+        {
+          "start": 269.49,
+          "end": 269.77,
+          "word": " that"
+        },
+        {
+          "start": 269.77,
+          "end": 270.01,
+          "word": " we"
+        },
+        {
+          "start": 270.01,
+          "end": 270.19,
+          "word": " would"
+        },
+        {
+          "start": 270.19,
+          "end": 270.47,
+          "word": " stay"
+        },
+        {
+          "start": 270.47,
+          "end": 270.61,
+          "word": " in"
+        },
+        {
+          "start": 270.61,
+          "end": 270.85,
+          "word": " touch"
+        },
+        {
+          "start": 270.85,
+          "end": 271.13,
+          "word": " from"
+        },
+        {
+          "start": 271.13,
+          "end": 271.43,
+          "word": " time"
+        },
+        {
+          "start": 271.43,
+          "end": 271.63,
+          "word": " to"
+        },
+        {
+          "start": 271.63,
+          "end": 271.93,
+          "word": " time."
+        }
+      ]
+    },
+    {
+      "start": 272.07,
+      "end": 275.81,
+      "text": "It was just really you and Howard are so empathetic and so wonderful.",
+      "words": [
+        {
+          "start": 272.07,
+          "end": 272.13,
+          "word": " It"
+        },
+        {
+          "start": 272.13,
+          "end": 272.29,
+          "word": " was"
+        },
+        {
+          "start": 272.29,
+          "end": 272.49,
+          "word": " just"
+        },
+        {
+          "start": 272.49,
+          "end": 272.91,
+          "word": " really"
+        },
+        {
+          "start": 272.91,
+          "end": 273.65,
+          "word": " you"
+        },
+        {
+          "start": 273.65,
+          "end": 273.79,
+          "word": " and"
+        },
+        {
+          "start": 273.79,
+          "end": 274.01,
+          "word": " Howard"
+        },
+        {
+          "start": 274.01,
+          "end": 274.21,
+          "word": " are"
+        },
+        {
+          "start": 274.21,
+          "end": 274.43,
+          "word": " so"
+        },
+        {
+          "start": 274.43,
+          "end": 275.05,
+          "word": " empathetic"
+        },
+        {
+          "start": 275.05,
+          "end": 275.23,
+          "word": " and"
+        },
+        {
+          "start": 275.23,
+          "end": 275.47,
+          "word": " so"
+        },
+        {
+          "start": 275.47,
+          "end": 275.81,
+          "word": " wonderful."
+        }
+      ]
+    },
+    {
+      "start": 276.57,
+      "end": 280.49,
+      "text": "And so it was always a treat to get your phone calls or texts or",
+      "words": [
+        {
+          "start": 276.57,
+          "end": 276.91,
+          "word": " And"
+        },
+        {
+          "start": 276.91,
+          "end": 277.13,
+          "word": " so"
+        },
+        {
+          "start": 277.13,
+          "end": 277.23,
+          "word": " it"
+        },
+        {
+          "start": 277.23,
+          "end": 277.35,
+          "word": " was"
+        },
+        {
+          "start": 277.35,
+          "end": 277.59,
+          "word": " always"
+        },
+        {
+          "start": 277.59,
+          "end": 277.77,
+          "word": " a"
+        },
+        {
+          "start": 277.77,
+          "end": 278.07,
+          "word": " treat"
+        },
+        {
+          "start": 278.07,
+          "end": 278.29,
+          "word": " to"
+        },
+        {
+          "start": 278.29,
+          "end": 278.41,
+          "word": " get"
+        },
+        {
+          "start": 278.41,
+          "end": 278.55,
+          "word": " your"
+        },
+        {
+          "start": 278.55,
+          "end": 278.85,
+          "word": " phone"
+        },
+        {
+          "start": 278.85,
+          "end": 279.31,
+          "word": " calls"
+        },
+        {
+          "start": 279.31,
+          "end": 279.47,
+          "word": " or"
+        },
+        {
+          "start": 279.47,
+          "end": 280.23,
+          "word": " texts"
+        },
+        {
+          "start": 280.23,
+          "end": 280.49,
+          "word": " or"
+        }
+      ]
+    },
+    {
+      "start": 280.49,
+      "end": 282.13,
+      "text": "whatever and we stayed in touch.",
+      "words": [
+        {
+          "start": 280.49,
+          "end": 280.75,
+          "word": " whatever"
+        },
+        {
+          "start": 280.75,
+          "end": 280.99,
+          "word": " and"
+        },
+        {
+          "start": 280.99,
+          "end": 281.09,
+          "word": " we"
+        },
+        {
+          "start": 281.09,
+          "end": 281.39,
+          "word": " stayed"
+        },
+        {
+          "start": 281.39,
+          "end": 281.63,
+          "word": " in"
+        },
+        {
+          "start": 281.63,
+          "end": 282.13,
+          "word": " touch."
+        }
+      ]
+    },
+    {
+      "start": 282.85,
+      "end": 285.29,
+      "text": "And then last November in 2025,",
+      "words": [
+        {
+          "start": 282.85,
+          "end": 283.15,
+          "word": " And"
+        },
+        {
+          "start": 283.15,
+          "end": 283.31,
+          "word": " then"
+        },
+        {
+          "start": 283.31,
+          "end": 283.61,
+          "word": " last"
+        },
+        {
+          "start": 283.61,
+          "end": 284.07,
+          "word": " November"
+        },
+        {
+          "start": 284.07,
+          "end": 284.35,
+          "word": " in"
+        },
+        {
+          "start": 284.35,
+          "end": 285.29,
+          "word": " 2025,"
+        }
+      ]
+    },
+    {
+      "start": 286.73,
+      "end": 289.61,
+      "text": "you and Howard came for a very special visit.",
+      "words": [
+        {
+          "start": 286.73,
+          "end": 287.33,
+          "word": " you"
+        },
+        {
+          "start": 287.33,
+          "end": 287.53,
+          "word": " and"
+        },
+        {
+          "start": 287.53,
+          "end": 287.77,
+          "word": " Howard"
+        },
+        {
+          "start": 287.77,
+          "end": 288.15,
+          "word": " came"
+        },
+        {
+          "start": 288.15,
+          "end": 288.45,
+          "word": " for"
+        },
+        {
+          "start": 288.45,
+          "end": 288.61,
+          "word": " a"
+        },
+        {
+          "start": 288.61,
+          "end": 288.77,
+          "word": " very"
+        },
+        {
+          "start": 288.77,
+          "end": 289.27,
+          "word": " special"
+        },
+        {
+          "start": 289.27,
+          "end": 289.61,
+          "word": " visit."
+        }
+      ]
+    },
+    {
+      "start": 289.77,
+      "end": 291.23,
+      "text": "I was so excited you were here.",
+      "words": [
+        {
+          "start": 289.77,
+          "end": 289.89,
+          "word": " I"
+        },
+        {
+          "start": 289.89,
+          "end": 290.05,
+          "word": " was"
+        },
+        {
+          "start": 290.05,
+          "end": 290.21,
+          "word": " so"
+        },
+        {
+          "start": 290.21,
+          "end": 290.57,
+          "word": " excited"
+        },
+        {
+          "start": 290.57,
+          "end": 290.85,
+          "word": " you"
+        },
+        {
+          "start": 290.85,
+          "end": 290.97,
+          "word": " were"
+        },
+        {
+          "start": 290.97,
+          "end": 291.23,
+          "word": " here."
+        }
+      ]
+    },
+    {
+      "start": 291.79,
+      "end": 295.49,
+      "text": "It was the end of October, the beginning of November.",
+      "words": [
+        {
+          "start": 291.79,
+          "end": 292.27,
+          "word": " It"
+        },
+        {
+          "start": 292.27,
+          "end": 292.59,
+          "word": " was"
+        },
+        {
+          "start": 292.59,
+          "end": 293.37,
+          "word": " the"
+        },
+        {
+          "start": 293.37,
+          "end": 293.61,
+          "word": " end"
+        },
+        {
+          "start": 293.61,
+          "end": 293.79,
+          "word": " of"
+        },
+        {
+          "start": 293.79,
+          "end": 294.17,
+          "word": " October,"
+        },
+        {
+          "start": 294.37,
+          "end": 294.49,
+          "word": " the"
+        },
+        {
+          "start": 294.49,
+          "end": 294.81,
+          "word": " beginning"
+        },
+        {
+          "start": 294.81,
+          "end": 295.05,
+          "word": " of"
+        },
+        {
+          "start": 295.05,
+          "end": 295.49,
+          "word": " November."
+        }
+      ]
+    },
+    {
+      "start": 296.19,
+      "end": 299.69,
+      "text": "And it was the day of the dead on November 1st here in New Mexico,",
+      "words": [
+        {
+          "start": 296.19,
+          "end": 296.63,
+          "word": " And"
+        },
+        {
+          "start": 296.63,
+          "end": 296.77,
+          "word": " it"
+        },
+        {
+          "start": 296.77,
+          "end": 296.93,
+          "word": " was"
+        },
+        {
+          "start": 296.93,
+          "end": 297.11,
+          "word": " the"
+        },
+        {
+          "start": 297.11,
+          "end": 297.31,
+          "word": " day"
+        },
+        {
+          "start": 297.31,
+          "end": 297.47,
+          "word": " of"
+        },
+        {
+          "start": 297.47,
+          "end": 297.55,
+          "word": " the"
+        },
+        {
+          "start": 297.55,
+          "end": 297.75,
+          "word": " dead"
+        },
+        {
+          "start": 297.75,
+          "end": 297.91,
+          "word": " on"
+        },
+        {
+          "start": 297.91,
+          "end": 298.21,
+          "word": " November"
+        },
+        {
+          "start": 298.21,
+          "end": 298.89,
+          "word": " 1st"
+        },
+        {
+          "start": 298.89,
+          "end": 299.07,
+          "word": " here"
+        },
+        {
+          "start": 299.07,
+          "end": 299.23,
+          "word": " in"
+        },
+        {
+          "start": 299.23,
+          "end": 299.33,
+          "word": " New"
+        },
+        {
+          "start": 299.33,
+          "end": 299.69,
+          "word": " Mexico,"
+        }
+      ]
+    },
+    {
+      "start": 299.69,
+      "end": 301.57,
+      "text": "which is celebrated in a big way.",
+      "words": [
+        {
+          "start": 299.69,
+          "end": 300.13,
+          "word": " which"
+        },
+        {
+          "start": 300.13,
+          "end": 300.27,
+          "word": " is"
+        },
+        {
+          "start": 300.27,
+          "end": 300.75,
+          "word": " celebrated"
+        },
+        {
+          "start": 300.75,
+          "end": 301.01,
+          "word": " in"
+        },
+        {
+          "start": 301.01,
+          "end": 301.15,
+          "word": " a"
+        },
+        {
+          "start": 301.15,
+          "end": 301.25,
+          "word": " big"
+        },
+        {
+          "start": 301.25,
+          "end": 301.57,
+          "word": " way."
+        }
+      ]
+    },
+    {
+      "start": 302.11,
+      "end": 308.51,
+      "text": "So we went traveling out to the historic Plaza in downtown Albuquerque,",
+      "words": [
+        {
+          "start": 302.11,
+          "end": 302.63,
+          "word": " So"
+        },
+        {
+          "start": 302.63,
+          "end": 302.99,
+          "word": " we"
+        },
+        {
+          "start": 302.99,
+          "end": 303.25,
+          "word": " went"
+        },
+        {
+          "start": 303.25,
+          "end": 303.73,
+          "word": " traveling"
+        },
+        {
+          "start": 303.73,
+          "end": 304.15,
+          "word": " out"
+        },
+        {
+          "start": 304.15,
+          "end": 304.55,
+          "word": " to"
+        },
+        {
+          "start": 304.55,
+          "end": 305.65,
+          "word": " the"
+        },
+        {
+          "start": 305.65,
+          "end": 306.31,
+          "word": " historic"
+        },
+        {
+          "start": 306.31,
+          "end": 306.83,
+          "word": " Plaza"
+        },
+        {
+          "start": 306.83,
+          "end": 307.37,
+          "word": " in"
+        },
+        {
+          "start": 307.37,
+          "end": 307.79,
+          "word": " downtown"
+        },
+        {
+          "start": 307.79,
+          "end": 308.51,
+          "word": " Albuquerque,"
+        }
+      ]
+    },
+    {
+      "start": 308.67,
+      "end": 309.75,
+      "text": "historic Albuquerque.",
+      "words": [
+        {
+          "start": 308.67,
+          "end": 308.95,
+          "word": " historic"
+        },
+        {
+          "start": 308.95,
+          "end": 309.75,
+          "word": " Albuquerque."
+        }
+      ]
+    },
+    {
+      "start": 310.37,
+      "end": 314.01,
+      "text": "And there were exhibits of day of the dead, amazing things people had",
+      "words": [
+        {
+          "start": 310.37,
+          "end": 310.67,
+          "word": " And"
+        },
+        {
+          "start": 310.67,
+          "end": 310.83,
+          "word": " there"
+        },
+        {
+          "start": 310.83,
+          "end": 310.97,
+          "word": " were"
+        },
+        {
+          "start": 310.97,
+          "end": 311.51,
+          "word": " exhibits"
+        },
+        {
+          "start": 311.51,
+          "end": 311.87,
+          "word": " of"
+        },
+        {
+          "start": 311.87,
+          "end": 312.05,
+          "word": " day"
+        },
+        {
+          "start": 312.05,
+          "end": 312.17,
+          "word": " of"
+        },
+        {
+          "start": 312.17,
+          "end": 312.25,
+          "word": " the"
+        },
+        {
+          "start": 312.25,
+          "end": 312.47,
+          "word": " dead,"
+        },
+        {
+          "start": 312.61,
+          "end": 312.93,
+          "word": " amazing"
+        },
+        {
+          "start": 312.93,
+          "end": 313.43,
+          "word": " things"
+        },
+        {
+          "start": 313.43,
+          "end": 313.77,
+          "word": " people"
+        },
+        {
+          "start": 313.77,
+          "end": 314.01,
+          "word": " had"
+        }
+      ]
+    },
+    {
+      "start": 314.01,
+      "end": 318.45,
+      "text": "created in memory of their wonderful lives and people they loved.",
+      "words": [
+        {
+          "start": 314.01,
+          "end": 314.43,
+          "word": " created"
+        },
+        {
+          "start": 314.43,
+          "end": 314.73,
+          "word": " in"
+        },
+        {
+          "start": 314.73,
+          "end": 315.01,
+          "word": " memory"
+        },
+        {
+          "start": 315.01,
+          "end": 315.25,
+          "word": " of"
+        },
+        {
+          "start": 315.25,
+          "end": 315.39,
+          "word": " their"
+        },
+        {
+          "start": 315.39,
+          "end": 315.85,
+          "word": " wonderful"
+        },
+        {
+          "start": 315.85,
+          "end": 316.99,
+          "word": " lives"
+        },
+        {
+          "start": 316.99,
+          "end": 317.39,
+          "word": " and"
+        },
+        {
+          "start": 317.39,
+          "end": 317.91,
+          "word": " people"
+        },
+        {
+          "start": 317.91,
+          "end": 318.13,
+          "word": " they"
+        },
+        {
+          "start": 318.13,
+          "end": 318.45,
+          "word": " loved."
+        }
+      ]
+    },
+    {
+      "start": 318.71,
+      "end": 321.49,
+      "text": "And there was a big parade with all these incredible costumes.",
+      "words": [
+        {
+          "start": 318.71,
+          "end": 318.95,
+          "word": " And"
+        },
+        {
+          "start": 318.95,
+          "end": 319.09,
+          "word": " there"
+        },
+        {
+          "start": 319.09,
+          "end": 319.21,
+          "word": " was"
+        },
+        {
+          "start": 319.21,
+          "end": 319.33,
+          "word": " a"
+        },
+        {
+          "start": 319.33,
+          "end": 319.49,
+          "word": " big"
+        },
+        {
+          "start": 319.49,
+          "end": 319.85,
+          "word": " parade"
+        },
+        {
+          "start": 319.85,
+          "end": 320.11,
+          "word": " with"
+        },
+        {
+          "start": 320.11,
+          "end": 320.27,
+          "word": " all"
+        },
+        {
+          "start": 320.27,
+          "end": 320.41,
+          "word": " these"
+        },
+        {
+          "start": 320.41,
+          "end": 320.91,
+          "word": " incredible"
+        },
+        {
+          "start": 320.91,
+          "end": 321.49,
+          "word": " costumes."
+        }
+      ]
+    },
+    {
+      "start": 322.31,
+      "end": 326.91,
+      "text": "I was standing behind you and Howard and he just took you into this",
+      "words": [
+        {
+          "start": 322.31,
+          "end": 322.51,
+          "word": " I"
+        },
+        {
+          "start": 322.51,
+          "end": 322.67,
+          "word": " was"
+        },
+        {
+          "start": 322.67,
+          "end": 322.95,
+          "word": " standing"
+        },
+        {
+          "start": 322.95,
+          "end": 323.39,
+          "word": " behind"
+        },
+        {
+          "start": 323.39,
+          "end": 323.67,
+          "word": " you"
+        },
+        {
+          "start": 323.67,
+          "end": 323.79,
+          "word": " and"
+        },
+        {
+          "start": 323.79,
+          "end": 324.11,
+          "word": " Howard"
+        },
+        {
+          "start": 324.11,
+          "end": 325.01,
+          "word": " and"
+        },
+        {
+          "start": 325.01,
+          "end": 325.15,
+          "word": " he"
+        },
+        {
+          "start": 325.15,
+          "end": 325.53,
+          "word": " just"
+        },
+        {
+          "start": 325.53,
+          "end": 326.11,
+          "word": " took"
+        },
+        {
+          "start": 326.11,
+          "end": 326.33,
+          "word": " you"
+        },
+        {
+          "start": 326.33,
+          "end": 326.63,
+          "word": " into"
+        },
+        {
+          "start": 326.63,
+          "end": 326.91,
+          "word": " this"
+        }
+      ]
+    },
+    {
+      "start": 326.91,
+      "end": 332.61,
+      "text": "big embrace and you snuggle into his side and the love that",
+      "words": [
+        {
+          "start": 326.91,
+          "end": 327.27,
+          "word": " big"
+        },
+        {
+          "start": 327.27,
+          "end": 327.71,
+          "word": " embrace"
+        },
+        {
+          "start": 327.71,
+          "end": 328.83,
+          "word": " and"
+        },
+        {
+          "start": 328.83,
+          "end": 328.97,
+          "word": " you"
+        },
+        {
+          "start": 328.97,
+          "end": 329.49,
+          "word": " snuggle"
+        },
+        {
+          "start": 329.49,
+          "end": 329.93,
+          "word": " into"
+        },
+        {
+          "start": 329.93,
+          "end": 330.31,
+          "word": " his"
+        },
+        {
+          "start": 330.31,
+          "end": 331.15,
+          "word": " side"
+        },
+        {
+          "start": 331.15,
+          "end": 332.07,
+          "word": " and"
+        },
+        {
+          "start": 332.07,
+          "end": 332.21,
+          "word": " the"
+        },
+        {
+          "start": 332.21,
+          "end": 332.41,
+          "word": " love"
+        },
+        {
+          "start": 332.41,
+          "end": 332.61,
+          "word": " that"
+        }
+      ]
+    },
+    {
+      "start": 332.61,
+      "end": 336.43,
+      "text": "surrounded you probably put a pink aura over the whole Plaza",
+      "words": [
+        {
+          "start": 332.61,
+          "end": 332.99,
+          "word": " surrounded"
+        },
+        {
+          "start": 332.99,
+          "end": 333.37,
+          "word": " you"
+        },
+        {
+          "start": 333.37,
+          "end": 333.79,
+          "word": " probably"
+        },
+        {
+          "start": 333.79,
+          "end": 334.25,
+          "word": " put"
+        },
+        {
+          "start": 334.25,
+          "end": 334.39,
+          "word": " a"
+        },
+        {
+          "start": 334.39,
+          "end": 334.65,
+          "word": " pink"
+        },
+        {
+          "start": 334.65,
+          "end": 335.03,
+          "word": " aura"
+        },
+        {
+          "start": 335.03,
+          "end": 335.41,
+          "word": " over"
+        },
+        {
+          "start": 335.41,
+          "end": 335.59,
+          "word": " the"
+        },
+        {
+          "start": 335.59,
+          "end": 335.85,
+          "word": " whole"
+        },
+        {
+          "start": 335.85,
+          "end": 336.43,
+          "word": " Plaza"
+        }
+      ]
+    },
+    {
+      "start": 336.43,
+      "end": 340.15,
+      "text": "because your love is so sweet and so touching to me.",
+      "words": [
+        {
+          "start": 336.43,
+          "end": 336.95,
+          "word": " because"
+        },
+        {
+          "start": 336.95,
+          "end": 337.19,
+          "word": " your"
+        },
+        {
+          "start": 337.19,
+          "end": 337.41,
+          "word": " love"
+        },
+        {
+          "start": 337.41,
+          "end": 337.65,
+          "word": " is"
+        },
+        {
+          "start": 337.65,
+          "end": 337.85,
+          "word": " so"
+        },
+        {
+          "start": 337.85,
+          "end": 338.27,
+          "word": " sweet"
+        },
+        {
+          "start": 338.27,
+          "end": 338.49,
+          "word": " and"
+        },
+        {
+          "start": 338.49,
+          "end": 338.85,
+          "word": " so"
+        },
+        {
+          "start": 338.85,
+          "end": 339.41,
+          "word": " touching"
+        },
+        {
+          "start": 339.41,
+          "end": 339.97,
+          "word": " to"
+        },
+        {
+          "start": 339.97,
+          "end": 340.15,
+          "word": " me."
+        }
+      ]
+    },
+    {
+      "start": 341.17,
+      "end": 342.55,
+      "text": "So I'll never forget that.",
+      "words": [
+        {
+          "start": 341.17,
+          "end": 341.57,
+          "word": " So"
+        },
+        {
+          "start": 341.57,
+          "end": 341.67,
+          "word": " I'll"
+        },
+        {
+          "start": 341.67,
+          "end": 341.85,
+          "word": " never"
+        },
+        {
+          "start": 341.85,
+          "end": 342.15,
+          "word": " forget"
+        },
+        {
+          "start": 342.15,
+          "end": 342.55,
+          "word": " that."
+        }
+      ]
+    },
+    {
+      "start": 342.75,
+      "end": 346.63,
+      "text": "And then we ran into a former colleague and friend for me and",
+      "words": [
+        {
+          "start": 342.75,
+          "end": 342.83,
+          "word": " And"
+        },
+        {
+          "start": 342.83,
+          "end": 342.95,
+          "word": " then"
+        },
+        {
+          "start": 342.95,
+          "end": 343.19,
+          "word": " we"
+        },
+        {
+          "start": 343.19,
+          "end": 343.47,
+          "word": " ran"
+        },
+        {
+          "start": 343.47,
+          "end": 343.91,
+          "word": " into"
+        },
+        {
+          "start": 343.91,
+          "end": 344.31,
+          "word": " a"
+        },
+        {
+          "start": 344.31,
+          "end": 344.71,
+          "word": " former"
+        },
+        {
+          "start": 344.71,
+          "end": 345.29,
+          "word": " colleague"
+        },
+        {
+          "start": 345.29,
+          "end": 345.69,
+          "word": " and"
+        },
+        {
+          "start": 345.69,
+          "end": 346.07,
+          "word": " friend"
+        },
+        {
+          "start": 346.07,
+          "end": 346.35,
+          "word": " for"
+        },
+        {
+          "start": 346.35,
+          "end": 346.53,
+          "word": " me"
+        },
+        {
+          "start": 346.53,
+          "end": 346.63,
+          "word": " and"
+        }
+      ]
+    },
+    {
+      "start": 346.63,
+      "end": 348.45,
+      "text": "Howard whose name is Susan Hurst.",
+      "words": [
+        {
+          "start": 346.63,
+          "end": 346.91,
+          "word": " Howard"
+        },
+        {
+          "start": 346.91,
+          "end": 347.25,
+          "word": " whose"
+        },
+        {
+          "start": 347.25,
+          "end": 347.47,
+          "word": " name"
+        },
+        {
+          "start": 347.47,
+          "end": 347.63,
+          "word": " is"
+        },
+        {
+          "start": 347.63,
+          "end": 347.93,
+          "word": " Susan"
+        },
+        {
+          "start": 347.93,
+          "end": 348.45,
+          "word": " Hurst."
+        }
+      ]
+    },
+    {
+      "start": 348.61,
+      "end": 349.89,
+      "text": "I think you know Susan too.",
+      "words": [
+        {
+          "start": 348.61,
+          "end": 348.77,
+          "word": " I"
+        },
+        {
+          "start": 348.77,
+          "end": 348.93,
+          "word": " think"
+        },
+        {
+          "start": 348.93,
+          "end": 349.09,
+          "word": " you"
+        },
+        {
+          "start": 349.09,
+          "end": 349.21,
+          "word": " know"
+        },
+        {
+          "start": 349.21,
+          "end": 349.61,
+          "word": " Susan"
+        },
+        {
+          "start": 349.61,
+          "end": 349.89,
+          "word": " too."
+        }
+      ]
+    },
+    {
+      "start": 350.45,
+      "end": 353.05,
+      "text": "She was on a travel adventure with her husband.",
+      "words": [
+        {
+          "start": 350.45,
+          "end": 350.69,
+          "word": " She"
+        },
+        {
+          "start": 350.69,
+          "end": 350.85,
+          "word": " was"
+        },
+        {
+          "start": 350.85,
+          "end": 351.07,
+          "word": " on"
+        },
+        {
+          "start": 351.07,
+          "end": 351.21,
+          "word": " a"
+        },
+        {
+          "start": 351.21,
+          "end": 351.71,
+          "word": " travel"
+        },
+        {
+          "start": 351.71,
+          "end": 352.17,
+          "word": " adventure"
+        },
+        {
+          "start": 352.17,
+          "end": 352.47,
+          "word": " with"
+        },
+        {
+          "start": 352.47,
+          "end": 352.65,
+          "word": " her"
+        },
+        {
+          "start": 352.65,
+          "end": 353.05,
+          "word": " husband."
+        }
+      ]
+    },
+    {
+      "start": 354.19,
+      "end": 355.73,
+      "text": "And there we all were.",
+      "words": [
+        {
+          "start": 354.19,
+          "end": 354.59,
+          "word": " And"
+        },
+        {
+          "start": 354.59,
+          "end": 355.17,
+          "word": " there"
+        },
+        {
+          "start": 355.17,
+          "end": 355.37,
+          "word": " we"
+        },
+        {
+          "start": 355.37,
+          "end": 355.51,
+          "word": " all"
+        },
+        {
+          "start": 355.51,
+          "end": 355.73,
+          "word": " were."
+        }
+      ]
+    },
+    {
+      "start": 355.95,
+      "end": 359.13,
+      "text": "So we had a surprise birthday party for Susan the next day",
+      "words": [
+        {
+          "start": 355.95,
+          "end": 356.05,
+          "word": " So"
+        },
+        {
+          "start": 356.05,
+          "end": 356.21,
+          "word": " we"
+        },
+        {
+          "start": 356.21,
+          "end": 356.37,
+          "word": " had"
+        },
+        {
+          "start": 356.37,
+          "end": 356.51,
+          "word": " a"
+        },
+        {
+          "start": 356.51,
+          "end": 356.89,
+          "word": " surprise"
+        },
+        {
+          "start": 356.89,
+          "end": 357.33,
+          "word": " birthday"
+        },
+        {
+          "start": 357.33,
+          "end": 357.75,
+          "word": " party"
+        },
+        {
+          "start": 357.75,
+          "end": 357.97,
+          "word": " for"
+        },
+        {
+          "start": 357.97,
+          "end": 358.35,
+          "word": " Susan"
+        },
+        {
+          "start": 358.35,
+          "end": 358.57,
+          "word": " the"
+        },
+        {
+          "start": 358.57,
+          "end": 358.81,
+          "word": " next"
+        },
+        {
+          "start": 358.81,
+          "end": 359.13,
+          "word": " day"
+        }
+      ]
+    },
+    {
+      "start": 359.13,
+      "end": 362.99,
+      "text": "because her birthday is on Halloween and Howard made these",
+      "words": [
+        {
+          "start": 359.13,
+          "end": 359.43,
+          "word": " because"
+        },
+        {
+          "start": 359.43,
+          "end": 359.71,
+          "word": " her"
+        },
+        {
+          "start": 359.71,
+          "end": 360.17,
+          "word": " birthday"
+        },
+        {
+          "start": 360.17,
+          "end": 360.67,
+          "word": " is"
+        },
+        {
+          "start": 360.67,
+          "end": 360.91,
+          "word": " on"
+        },
+        {
+          "start": 360.91,
+          "end": 361.33,
+          "word": " Halloween"
+        },
+        {
+          "start": 361.33,
+          "end": 362.23,
+          "word": " and"
+        },
+        {
+          "start": 362.23,
+          "end": 362.49,
+          "word": " Howard"
+        },
+        {
+          "start": 362.49,
+          "end": 362.75,
+          "word": " made"
+        },
+        {
+          "start": 362.75,
+          "end": 362.99,
+          "word": " these"
+        }
+      ]
+    },
+    {
+      "start": 362.99,
+      "end": 365.81,
+      "text": "delicious omelets for everybody and it was really fun.",
+      "words": [
+        {
+          "start": 362.99,
+          "end": 363.53,
+          "word": " delicious"
+        },
+        {
+          "start": 363.53,
+          "end": 364.13,
+          "word": " omelets"
+        },
+        {
+          "start": 364.13,
+          "end": 364.41,
+          "word": " for"
+        },
+        {
+          "start": 364.41,
+          "end": 364.77,
+          "word": " everybody"
+        },
+        {
+          "start": 364.77,
+          "end": 364.97,
+          "word": " and"
+        },
+        {
+          "start": 364.97,
+          "end": 365.05,
+          "word": " it"
+        },
+        {
+          "start": 365.05,
+          "end": 365.21,
+          "word": " was"
+        },
+        {
+          "start": 365.21,
+          "end": 365.43,
+          "word": " really"
+        },
+        {
+          "start": 365.43,
+          "end": 365.81,
+          "word": " fun."
+        }
+      ]
+    },
+    {
+      "start": 366.43,
+      "end": 369.57,
+      "text": "And then sometime during that weekend, you, me and Howard,",
+      "words": [
+        {
+          "start": 366.43,
+          "end": 366.93,
+          "word": " And"
+        },
+        {
+          "start": 366.93,
+          "end": 367.13,
+          "word": " then"
+        },
+        {
+          "start": 367.13,
+          "end": 367.59,
+          "word": " sometime"
+        },
+        {
+          "start": 367.59,
+          "end": 367.97,
+          "word": " during"
+        },
+        {
+          "start": 367.97,
+          "end": 368.21,
+          "word": " that"
+        },
+        {
+          "start": 368.21,
+          "end": 368.53,
+          "word": " weekend,"
+        },
+        {
+          "start": 368.75,
+          "end": 368.93,
+          "word": " you,"
+        },
+        {
+          "start": 369.01,
+          "end": 369.11,
+          "word": " me"
+        },
+        {
+          "start": 369.11,
+          "end": 369.27,
+          "word": " and"
+        },
+        {
+          "start": 369.27,
+          "end": 369.57,
+          "word": " Howard,"
+        }
+      ]
+    },
+    {
+      "start": 369.81,
+      "end": 371.29,
+      "text": "we seemed to love brunches.",
+      "words": [
+        {
+          "start": 369.81,
+          "end": 370.05,
+          "word": " we"
+        },
+        {
+          "start": 370.05,
+          "end": 370.31,
+          "word": " seemed"
+        },
+        {
+          "start": 370.31,
+          "end": 370.51,
+          "word": " to"
+        },
+        {
+          "start": 370.51,
+          "end": 370.69,
+          "word": " love"
+        },
+        {
+          "start": 370.69,
+          "end": 371.29,
+          "word": " brunches."
+        }
+      ]
+    },
+    {
+      "start": 371.91,
+      "end": 376.21,
+      "text": "We went to that wonderful farm to table restaurant here in",
+      "words": [
+        {
+          "start": 371.91,
+          "end": 372.21,
+          "word": " We"
+        },
+        {
+          "start": 372.21,
+          "end": 372.49,
+          "word": " went"
+        },
+        {
+          "start": 372.49,
+          "end": 372.77,
+          "word": " to"
+        },
+        {
+          "start": 372.77,
+          "end": 373.03,
+          "word": " that"
+        },
+        {
+          "start": 373.03,
+          "end": 373.43,
+          "word": " wonderful"
+        },
+        {
+          "start": 373.43,
+          "end": 373.89,
+          "word": " farm"
+        },
+        {
+          "start": 373.89,
+          "end": 374.11,
+          "word": " to"
+        },
+        {
+          "start": 374.11,
+          "end": 374.47,
+          "word": " table"
+        },
+        {
+          "start": 374.47,
+          "end": 375.61,
+          "word": " restaurant"
+        },
+        {
+          "start": 375.61,
+          "end": 376.05,
+          "word": " here"
+        },
+        {
+          "start": 376.05,
+          "end": 376.21,
+          "word": " in"
+        }
+      ]
+    },
+    {
+      "start": 376.21,
+      "end": 378.11,
+      "text": "Albuquerque called Los Poblanos.",
+      "words": [
+        {
+          "start": 376.21,
+          "end": 376.77,
+          "word": " Albuquerque"
+        },
+        {
+          "start": 376.77,
+          "end": 377.09,
+          "word": " called"
+        },
+        {
+          "start": 377.09,
+          "end": 377.35,
+          "word": " Los"
+        },
+        {
+          "start": 377.35,
+          "end": 378.11,
+          "word": " Poblanos."
+        }
+      ]
+    },
+    {
+      "start": 378.25,
+      "end": 379.41,
+      "text": "It was a beautiful day.",
+      "words": [
+        {
+          "start": 378.25,
+          "end": 378.33,
+          "word": " It"
+        },
+        {
+          "start": 378.33,
+          "end": 378.43,
+          "word": " was"
+        },
+        {
+          "start": 378.43,
+          "end": 378.59,
+          "word": " a"
+        },
+        {
+          "start": 378.59,
+          "end": 378.85,
+          "word": " beautiful"
+        },
+        {
+          "start": 378.85,
+          "end": 379.41,
+          "word": " day."
+        }
+      ]
+    },
+    {
+      "start": 379.89,
+      "end": 382.61,
+      "text": "I was having trouble with my mobility and the two of you",
+      "words": [
+        {
+          "start": 379.89,
+          "end": 380.09,
+          "word": " I"
+        },
+        {
+          "start": 380.09,
+          "end": 380.21,
+          "word": " was"
+        },
+        {
+          "start": 380.21,
+          "end": 380.49,
+          "word": " having"
+        },
+        {
+          "start": 380.49,
+          "end": 380.83,
+          "word": " trouble"
+        },
+        {
+          "start": 380.83,
+          "end": 381.09,
+          "word": " with"
+        },
+        {
+          "start": 381.09,
+          "end": 381.27,
+          "word": " my"
+        },
+        {
+          "start": 381.27,
+          "end": 381.75,
+          "word": " mobility"
+        },
+        {
+          "start": 381.75,
+          "end": 382.03,
+          "word": " and"
+        },
+        {
+          "start": 382.03,
+          "end": 382.19,
+          "word": " the"
+        },
+        {
+          "start": 382.19,
+          "end": 382.35,
+          "word": " two"
+        },
+        {
+          "start": 382.35,
+          "end": 382.51,
+          "word": " of"
+        },
+        {
+          "start": 382.51,
+          "end": 382.61,
+          "word": " you"
+        }
+      ]
+    },
+    {
+      "start": 382.61,
+      "end": 383.49,
+      "text": "were so patient.",
+      "words": [
+        {
+          "start": 382.61,
+          "end": 382.75,
+          "word": " were"
+        },
+        {
+          "start": 382.75,
+          "end": 383.05,
+          "word": " so"
+        },
+        {
+          "start": 383.05,
+          "end": 383.49,
+          "word": " patient."
+        }
+      ]
+    },
+    {
+      "start": 383.97,
+      "end": 386.41,
+      "text": "We had a great brunch, lots of smiles.",
+      "words": [
+        {
+          "start": 383.97,
+          "end": 384.19,
+          "word": " We"
+        },
+        {
+          "start": 384.19,
+          "end": 384.31,
+          "word": " had"
+        },
+        {
+          "start": 384.31,
+          "end": 384.39,
+          "word": " a"
+        },
+        {
+          "start": 384.39,
+          "end": 384.63,
+          "word": " great"
+        },
+        {
+          "start": 384.63,
+          "end": 385.01,
+          "word": " brunch,"
+        },
+        {
+          "start": 385.51,
+          "end": 385.77,
+          "word": " lots"
+        },
+        {
+          "start": 385.77,
+          "end": 385.99,
+          "word": " of"
+        },
+        {
+          "start": 385.99,
+          "end": 386.41,
+          "word": " smiles."
+        }
+      ]
+    },
+    {
+      "start": 386.73,
+      "end": 387.47,
+      "text": "I'll never forget.",
+      "words": [
+        {
+          "start": 386.73,
+          "end": 386.85,
+          "word": " I'll"
+        },
+        {
+          "start": 386.85,
+          "end": 387.07,
+          "word": " never"
+        },
+        {
+          "start": 387.07,
+          "end": 387.47,
+          "word": " forget."
+        }
+      ]
+    },
+    {
+      "start": 388.11,
+      "end": 389.13,
+      "text": "Then you had to go home.",
+      "words": [
+        {
+          "start": 388.11,
+          "end": 388.37,
+          "word": " Then"
+        },
+        {
+          "start": 388.37,
+          "end": 388.49,
+          "word": " you"
+        },
+        {
+          "start": 388.49,
+          "end": 388.63,
+          "word": " had"
+        },
+        {
+          "start": 388.63,
+          "end": 388.73,
+          "word": " to"
+        },
+        {
+          "start": 388.73,
+          "end": 388.87,
+          "word": " go"
+        },
+        {
+          "start": 388.87,
+          "end": 389.13,
+          "word": " home."
+        }
+      ]
+    },
+    {
+      "start": 389.21,
+      "end": 390.79,
+      "text": "I didn't like that part so much.",
+      "words": [
+        {
+          "start": 389.21,
+          "end": 389.33,
+          "word": " I"
+        },
+        {
+          "start": 389.33,
+          "end": 389.53,
+          "word": " didn't"
+        },
+        {
+          "start": 389.53,
+          "end": 389.75,
+          "word": " like"
+        },
+        {
+          "start": 389.75,
+          "end": 389.93,
+          "word": " that"
+        },
+        {
+          "start": 389.93,
+          "end": 390.17,
+          "word": " part"
+        },
+        {
+          "start": 390.17,
+          "end": 390.43,
+          "word": " so"
+        },
+        {
+          "start": 390.43,
+          "end": 390.79,
+          "word": " much."
+        }
+      ]
+    },
+    {
+      "start": 391.73,
+      "end": 395.49,
+      "text": "But anyway, with all my heart, I wish you many happy returns",
+      "words": [
+        {
+          "start": 391.73,
+          "end": 392.05,
+          "word": " But"
+        },
+        {
+          "start": 392.05,
+          "end": 392.27,
+          "word": " anyway,"
+        },
+        {
+          "start": 392.45,
+          "end": 392.59,
+          "word": " with"
+        },
+        {
+          "start": 392.59,
+          "end": 393.01,
+          "word": " all"
+        },
+        {
+          "start": 393.01,
+          "end": 393.39,
+          "word": " my"
+        },
+        {
+          "start": 393.39,
+          "end": 393.83,
+          "word": " heart,"
+        },
+        {
+          "start": 393.97,
+          "end": 394.05,
+          "word": " I"
+        },
+        {
+          "start": 394.05,
+          "end": 394.25,
+          "word": " wish"
+        },
+        {
+          "start": 394.25,
+          "end": 394.41,
+          "word": " you"
+        },
+        {
+          "start": 394.41,
+          "end": 394.57,
+          "word": " many"
+        },
+        {
+          "start": 394.57,
+          "end": 394.93,
+          "word": " happy"
+        },
+        {
+          "start": 394.93,
+          "end": 395.49,
+          "word": " returns"
+        }
+      ]
+    },
+    {
+      "start": 395.49,
+      "end": 396.43,
+      "text": "of this day.",
+      "words": [
+        {
+          "start": 395.49,
+          "end": 395.81,
+          "word": " of"
+        },
+        {
+          "start": 395.81,
+          "end": 396.07,
+          "word": " this"
+        },
+        {
+          "start": 396.07,
+          "end": 396.43,
+          "word": " day."
+        }
+      ]
+    },
+    {
+      "start": 396.93,
+      "end": 400.07,
+      "text": "I don't know how many trips around the sun are in store for",
+      "words": [
+        {
+          "start": 396.93,
+          "end": 397.11,
+          "word": " I"
+        },
+        {
+          "start": 397.11,
+          "end": 397.31,
+          "word": " don't"
+        },
+        {
+          "start": 397.31,
+          "end": 397.45,
+          "word": " know"
+        },
+        {
+          "start": 397.45,
+          "end": 397.63,
+          "word": " how"
+        },
+        {
+          "start": 397.63,
+          "end": 397.81,
+          "word": " many"
+        },
+        {
+          "start": 397.81,
+          "end": 398.15,
+          "word": " trips"
+        },
+        {
+          "start": 398.15,
+          "end": 398.49,
+          "word": " around"
+        },
+        {
+          "start": 398.49,
+          "end": 398.71,
+          "word": " the"
+        },
+        {
+          "start": 398.71,
+          "end": 398.97,
+          "word": " sun"
+        },
+        {
+          "start": 398.97,
+          "end": 399.39,
+          "word": " are"
+        },
+        {
+          "start": 399.39,
+          "end": 399.53,
+          "word": " in"
+        },
+        {
+          "start": 399.53,
+          "end": 399.81,
+          "word": " store"
+        },
+        {
+          "start": 399.81,
+          "end": 400.07,
+          "word": " for"
+        }
+      ]
+    },
+    {
+      "start": 400.07,
+      "end": 403.21,
+      "text": "any of us and I can still believe in miracles.",
+      "words": [
+        {
+          "start": 400.07,
+          "end": 400.35,
+          "word": " any"
+        },
+        {
+          "start": 400.35,
+          "end": 400.51,
+          "word": " of"
+        },
+        {
+          "start": 400.51,
+          "end": 400.73,
+          "word": " us"
+        },
+        {
+          "start": 400.73,
+          "end": 401.65,
+          "word": " and"
+        },
+        {
+          "start": 401.65,
+          "end": 401.79,
+          "word": " I"
+        },
+        {
+          "start": 401.79,
+          "end": 401.97,
+          "word": " can"
+        },
+        {
+          "start": 401.97,
+          "end": 402.29,
+          "word": " still"
+        },
+        {
+          "start": 402.29,
+          "end": 402.59,
+          "word": " believe"
+        },
+        {
+          "start": 402.59,
+          "end": 402.77,
+          "word": " in"
+        },
+        {
+          "start": 402.77,
+          "end": 403.21,
+          "word": " miracles."
+        }
+      ]
+    },
+    {
+      "start": 403.97,
+      "end": 405.55,
+      "text": "So we won't see what happens.",
+      "words": [
+        {
+          "start": 403.97,
+          "end": 404.39,
+          "word": " So"
+        },
+        {
+          "start": 404.39,
+          "end": 404.53,
+          "word": " we"
+        },
+        {
+          "start": 404.53,
+          "end": 404.77,
+          "word": " won't"
+        },
+        {
+          "start": 404.77,
+          "end": 404.95,
+          "word": " see"
+        },
+        {
+          "start": 404.95,
+          "end": 405.13,
+          "word": " what"
+        },
+        {
+          "start": 405.13,
+          "end": 405.55,
+          "word": " happens."
+        }
+      ]
+    },
+    {
+      "start": 406.19,
+      "end": 409.85,
+      "text": "I want to thank you for a gift that you gave me, the word",
+      "words": [
+        {
+          "start": 406.19,
+          "end": 406.45,
+          "word": " I"
+        },
+        {
+          "start": 406.45,
+          "end": 406.63,
+          "word": " want"
+        },
+        {
+          "start": 406.63,
+          "end": 406.87,
+          "word": " to"
+        },
+        {
+          "start": 406.87,
+          "end": 407.13,
+          "word": " thank"
+        },
+        {
+          "start": 407.13,
+          "end": 407.35,
+          "word": " you"
+        },
+        {
+          "start": 407.35,
+          "end": 407.59,
+          "word": " for"
+        },
+        {
+          "start": 407.59,
+          "end": 407.81,
+          "word": " a"
+        },
+        {
+          "start": 407.81,
+          "end": 407.91,
+          "word": " gift"
+        },
+        {
+          "start": 407.91,
+          "end": 408.17,
+          "word": " that"
+        },
+        {
+          "start": 408.17,
+          "end": 408.31,
+          "word": " you"
+        },
+        {
+          "start": 408.31,
+          "end": 408.55,
+          "word": " gave"
+        },
+        {
+          "start": 408.55,
+          "end": 408.91,
+          "word": " me,"
+        },
+        {
+          "start": 409.45,
+          "end": 409.57,
+          "word": " the"
+        },
+        {
+          "start": 409.57,
+          "end": 409.85,
+          "word": " word"
+        }
+      ]
+    },
+    {
+      "start": 409.85,
+      "end": 417.59,
+      "text": "immense and I want to stay in that word.",
+      "words": [
+        {
+          "start": 409.85,
+          "end": 410.33,
+          "word": " immense"
+        },
+        {
+          "start": 410.33,
+          "end": 411.07,
+          "word": " and"
+        },
+        {
+          "start": 411.07,
+          "end": 411.21,
+          "word": " I"
+        },
+        {
+          "start": 411.21,
+          "end": 411.47,
+          "word": " want"
+        },
+        {
+          "start": 411.47,
+          "end": 411.91,
+          "word": " to"
+        },
+        {
+          "start": 411.91,
+          "end": 413.01,
+          "word": " stay"
+        },
+        {
+          "start": 415.83,
+          "end": 416.47,
+          "word": " in"
+        },
+        {
+          "start": 416.47,
+          "end": 416.81,
+          "word": " that"
+        },
+        {
+          "start": 416.81,
+          "end": 417.59,
+          "word": " word."
+        }
+      ]
+    },
+    {
+      "start": 418.69,
+      "end": 424.37,
+      "text": "As you and your family and Howard travel, this fuck cancer",
+      "words": [
+        {
+          "start": 418.69,
+          "end": 419.21,
+          "word": " As"
+        },
+        {
+          "start": 419.21,
+          "end": 419.47,
+          "word": " you"
+        },
+        {
+          "start": 419.47,
+          "end": 419.63,
+          "word": " and"
+        },
+        {
+          "start": 419.63,
+          "end": 419.79,
+          "word": " your"
+        },
+        {
+          "start": 419.79,
+          "end": 420.21,
+          "word": " family"
+        },
+        {
+          "start": 420.21,
+          "end": 420.45,
+          "word": " and"
+        },
+        {
+          "start": 420.45,
+          "end": 420.77,
+          "word": " Howard"
+        },
+        {
+          "start": 420.77,
+          "end": 421.41,
+          "word": " travel,"
+        },
+        {
+          "start": 422.83,
+          "end": 423.41,
+          "word": " this"
+        },
+        {
+          "start": 423.41,
+          "end": 423.81,
+          "word": " fuck"
+        },
+        {
+          "start": 423.81,
+          "end": 424.37,
+          "word": " cancer"
+        }
+      ]
+    },
+    {
+      "start": 424.37,
+      "end": 428.03,
+      "text": "journey, fuck, fuck, fuck it for sure.",
+      "words": [
+        {
+          "start": 424.37,
+          "end": 425.01,
+          "word": " journey,"
+        },
+        {
+          "start": 425.45,
+          "end": 425.61,
+          "word": " fuck,"
+        },
+        {
+          "start": 425.73,
+          "end": 425.89,
+          "word": " fuck,"
+        },
+        {
+          "start": 425.93,
+          "end": 426.13,
+          "word": " fuck"
+        },
+        {
+          "start": 426.13,
+          "end": 426.39,
+          "word": " it"
+        },
+        {
+          "start": 426.39,
+          "end": 427.73,
+          "word": " for"
+        },
+        {
+          "start": 427.73,
+          "end": 428.03,
+          "word": " sure."
+        }
+      ]
+    },
+    {
+      "start": 428.91,
+      "end": 430.79,
+      "text": "I celebrate every day with you.",
+      "words": [
+        {
+          "start": 428.91,
+          "end": 429.13,
+          "word": " I"
+        },
+        {
+          "start": 429.13,
+          "end": 429.55,
+          "word": " celebrate"
+        },
+        {
+          "start": 429.55,
+          "end": 430.01,
+          "word": " every"
+        },
+        {
+          "start": 430.01,
+          "end": 430.23,
+          "word": " day"
+        },
+        {
+          "start": 430.23,
+          "end": 430.47,
+          "word": " with"
+        },
+        {
+          "start": 430.47,
+          "end": 430.79,
+          "word": " you."
+        }
+      ]
+    },
+    {
+      "start": 431.63,
+      "end": 435.07,
+      "text": "My sense of joy sharpened just by knowing you and how you",
+      "words": [
+        {
+          "start": 431.63,
+          "end": 431.99,
+          "word": " My"
+        },
+        {
+          "start": 431.99,
+          "end": 432.33,
+          "word": " sense"
+        },
+        {
+          "start": 432.33,
+          "end": 432.49,
+          "word": " of"
+        },
+        {
+          "start": 432.49,
+          "end": 432.71,
+          "word": " joy"
+        },
+        {
+          "start": 432.71,
+          "end": 433.37,
+          "word": " sharpened"
+        },
+        {
+          "start": 433.37,
+          "end": 433.57,
+          "word": " just"
+        },
+        {
+          "start": 433.57,
+          "end": 433.79,
+          "word": " by"
+        },
+        {
+          "start": 433.79,
+          "end": 434.07,
+          "word": " knowing"
+        },
+        {
+          "start": 434.07,
+          "end": 434.37,
+          "word": " you"
+        },
+        {
+          "start": 434.37,
+          "end": 434.63,
+          "word": " and"
+        },
+        {
+          "start": 434.63,
+          "end": 434.87,
+          "word": " how"
+        },
+        {
+          "start": 434.87,
+          "end": 435.07,
+          "word": " you"
+        }
+      ]
+    },
+    {
+      "start": 435.07,
+      "end": 437.57,
+      "text": "embrace each day and your quality of life.",
+      "words": [
+        {
+          "start": 435.07,
+          "end": 435.43,
+          "word": " embrace"
+        },
+        {
+          "start": 435.43,
+          "end": 435.87,
+          "word": " each"
+        },
+        {
+          "start": 435.87,
+          "end": 436.23,
+          "word": " day"
+        },
+        {
+          "start": 436.23,
+          "end": 436.55,
+          "word": " and"
+        },
+        {
+          "start": 436.55,
+          "end": 436.69,
+          "word": " your"
+        },
+        {
+          "start": 436.69,
+          "end": 437.05,
+          "word": " quality"
+        },
+        {
+          "start": 437.05,
+          "end": 437.29,
+          "word": " of"
+        },
+        {
+          "start": 437.29,
+          "end": 437.57,
+          "word": " life."
+        }
+      ]
+    },
+    {
+      "start": 439.85,
+      "end": 443.55,
+      "text": "I love you and I'm very, very glad to be with you today.",
+      "words": [
+        {
+          "start": 439.85,
+          "end": 440.03,
+          "word": " I"
+        },
+        {
+          "start": 440.03,
+          "end": 440.25,
+          "word": " love"
+        },
+        {
+          "start": 440.25,
+          "end": 440.49,
+          "word": " you"
+        },
+        {
+          "start": 440.49,
+          "end": 440.77,
+          "word": " and"
+        },
+        {
+          "start": 440.77,
+          "end": 441.09,
+          "word": " I'm"
+        },
+        {
+          "start": 441.09,
+          "end": 441.65,
+          "word": " very,"
+        },
+        {
+          "start": 441.81,
+          "end": 441.95,
+          "word": " very"
+        },
+        {
+          "start": 441.95,
+          "end": 442.35,
+          "word": " glad"
+        },
+        {
+          "start": 442.35,
+          "end": 442.63,
+          "word": " to"
+        },
+        {
+          "start": 442.63,
+          "end": 442.71,
+          "word": " be"
+        },
+        {
+          "start": 442.71,
+          "end": 442.95,
+          "word": " with"
+        },
+        {
+          "start": 442.95,
+          "end": 443.09,
+          "word": " you"
+        },
+        {
+          "start": 443.09,
+          "end": 443.55,
+          "word": " today."
+        }
+      ]
+    },
+    {
+      "start": 444.41,
+      "end": 448.67,
+      "text": "Wishing you once again, one of the most wonderful happy",
+      "words": [
+        {
+          "start": 444.41,
+          "end": 444.97,
+          "word": " Wishing"
+        },
+        {
+          "start": 444.97,
+          "end": 445.21,
+          "word": " you"
+        },
+        {
+          "start": 445.21,
+          "end": 445.45,
+          "word": " once"
+        },
+        {
+          "start": 445.45,
+          "end": 445.81,
+          "word": " again,"
+        },
+        {
+          "start": 446.17,
+          "end": 447.43,
+          "word": " one"
+        },
+        {
+          "start": 447.43,
+          "end": 447.55,
+          "word": " of"
+        },
+        {
+          "start": 447.55,
+          "end": 447.65,
+          "word": " the"
+        },
+        {
+          "start": 447.65,
+          "end": 447.87,
+          "word": " most"
+        },
+        {
+          "start": 447.87,
+          "end": 448.29,
+          "word": " wonderful"
+        },
+        {
+          "start": 448.29,
+          "end": 448.67,
+          "word": " happy"
+        }
+      ]
+    },
+    {
+      "start": 448.67,
+      "end": 450.03,
+      "text": "birthdays you've ever had.",
+      "words": [
+        {
+          "start": 448.67,
+          "end": 449.09,
+          "word": " birthdays"
+        },
+        {
+          "start": 449.09,
+          "end": 449.49,
+          "word": " you've"
+        },
+        {
+          "start": 449.49,
+          "end": 449.65,
+          "word": " ever"
+        },
+        {
+          "start": 449.65,
+          "end": 450.03,
+          "word": " had."
+        }
+      ]
+    },
+    {
+      "start": 451.01,
+      "end": 455.85,
+      "text": "I look forward to our future conversations and feel so",
+      "words": [
+        {
+          "start": 451.01,
+          "end": 451.57,
+          "word": " I"
+        },
+        {
+          "start": 451.57,
+          "end": 451.77,
+          "word": " look"
+        },
+        {
+          "start": 451.77,
+          "end": 452.01,
+          "word": " forward"
+        },
+        {
+          "start": 452.01,
+          "end": 452.23,
+          "word": " to"
+        },
+        {
+          "start": 452.23,
+          "end": 452.37,
+          "word": " our"
+        },
+        {
+          "start": 452.37,
+          "end": 452.59,
+          "word": " future"
+        },
+        {
+          "start": 452.59,
+          "end": 453.29,
+          "word": " conversations"
+        },
+        {
+          "start": 453.29,
+          "end": 454.33,
+          "word": " and"
+        },
+        {
+          "start": 454.33,
+          "end": 455.53,
+          "word": " feel"
+        },
+        {
+          "start": 455.53,
+          "end": 455.85,
+          "word": " so"
+        }
+      ]
+    },
+    {
+      "start": 455.85,
+      "end": 457.15,
+      "text": "blessed to know you.",
+      "words": [
+        {
+          "start": 455.85,
+          "end": 456.37,
+          "word": " blessed"
+        },
+        {
+          "start": 456.37,
+          "end": 456.75,
+          "word": " to"
+        },
+        {
+          "start": 456.75,
+          "end": 456.97,
+          "word": " know"
+        },
+        {
+          "start": 456.97,
+          "end": 457.15,
+          "word": " you."
+        }
+      ]
+    }
+  ]
+}

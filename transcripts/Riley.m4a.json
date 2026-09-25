@@ -1,0 +1,5254 @@
+{
+  "file": "Riley.m4a",
+  "duration_sec": 340.0,
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.84,
+      "end": 10.98,
+      "text": "Dear Wendy, this is Riley. How are you? Hope you're doing well. This message is to wish you a happy birthday. I really hope you enjoy your special day.",
+      "words": [
+        {
+          "start": 0.84,
+          "end": 1.32,
+          "word": " Dear"
+        },
+        {
+          "start": 1.32,
+          "end": 1.68,
+          "word": " Wendy,"
+        },
+        {
+          "start": 2.52,
+          "end": 2.78,
+          "word": " this"
+        },
+        {
+          "start": 2.78,
+          "end": 2.92,
+          "word": " is"
+        },
+        {
+          "start": 2.92,
+          "end": 3.2,
+          "word": " Riley."
+        },
+        {
+          "start": 3.5,
+          "end": 3.62,
+          "word": " How"
+        },
+        {
+          "start": 3.62,
+          "end": 3.8,
+          "word": " are"
+        },
+        {
+          "start": 3.8,
+          "end": 4.02,
+          "word": " you?"
+        },
+        {
+          "start": 4.34,
+          "end": 4.58,
+          "word": " Hope"
+        },
+        {
+          "start": 4.58,
+          "end": 4.74,
+          "word": " you're"
+        },
+        {
+          "start": 4.74,
+          "end": 4.88,
+          "word": " doing"
+        },
+        {
+          "start": 4.88,
+          "end": 5.28,
+          "word": " well."
+        },
+        {
+          "start": 6.12,
+          "end": 6.6,
+          "word": " This"
+        },
+        {
+          "start": 6.6,
+          "end": 6.84,
+          "word": " message"
+        },
+        {
+          "start": 6.84,
+          "end": 7.02,
+          "word": " is"
+        },
+        {
+          "start": 7.02,
+          "end": 7.2,
+          "word": " to"
+        },
+        {
+          "start": 7.2,
+          "end": 7.44,
+          "word": " wish"
+        },
+        {
+          "start": 7.44,
+          "end": 7.6,
+          "word": " you"
+        },
+        {
+          "start": 7.6,
+          "end": 7.76,
+          "word": " a"
+        },
+        {
+          "start": 7.76,
+          "end": 8.0,
+          "word": " happy"
+        },
+        {
+          "start": 8.0,
+          "end": 8.42,
+          "word": " birthday."
+        },
+        {
+          "start": 9.06,
+          "end": 9.2,
+          "word": " I"
+        },
+        {
+          "start": 9.2,
+          "end": 9.44,
+          "word": " really"
+        },
+        {
+          "start": 9.44,
+          "end": 9.6,
+          "word": " hope"
+        },
+        {
+          "start": 9.6,
+          "end": 9.74,
+          "word": " you"
+        },
+        {
+          "start": 9.74,
+          "end": 10.08,
+          "word": " enjoy"
+        },
+        {
+          "start": 10.08,
+          "end": 10.28,
+          "word": " your"
+        },
+        {
+          "start": 10.28,
+          "end": 10.6,
+          "word": " special"
+        },
+        {
+          "start": 10.6,
+          "end": 10.98,
+          "word": " day."
+        }
+      ]
+    },
+    {
+      "start": 13.76,
+      "end": 22.9,
+      "text": "I just wanted to thank you also for being such an amazing teacher when you were my teacher when I was younger. I have so many fond and great memories of working with you.",
+      "words": [
+        {
+          "start": 13.76,
+          "end": 14.24,
+          "word": " I"
+        },
+        {
+          "start": 14.24,
+          "end": 14.4,
+          "word": " just"
+        },
+        {
+          "start": 14.4,
+          "end": 14.62,
+          "word": " wanted"
+        },
+        {
+          "start": 14.62,
+          "end": 14.82,
+          "word": " to"
+        },
+        {
+          "start": 14.82,
+          "end": 15.06,
+          "word": " thank"
+        },
+        {
+          "start": 15.06,
+          "end": 15.24,
+          "word": " you"
+        },
+        {
+          "start": 15.24,
+          "end": 15.54,
+          "word": " also"
+        },
+        {
+          "start": 15.54,
+          "end": 15.9,
+          "word": " for"
+        },
+        {
+          "start": 15.9,
+          "end": 16.24,
+          "word": " being"
+        },
+        {
+          "start": 16.24,
+          "end": 16.48,
+          "word": " such"
+        },
+        {
+          "start": 16.48,
+          "end": 16.68,
+          "word": " an"
+        },
+        {
+          "start": 16.68,
+          "end": 16.94,
+          "word": " amazing"
+        },
+        {
+          "start": 16.94,
+          "end": 17.44,
+          "word": " teacher"
+        },
+        {
+          "start": 17.44,
+          "end": 17.72,
+          "word": " when"
+        },
+        {
+          "start": 17.72,
+          "end": 17.88,
+          "word": " you"
+        },
+        {
+          "start": 17.88,
+          "end": 18.02,
+          "word": " were"
+        },
+        {
+          "start": 18.02,
+          "end": 18.18,
+          "word": " my"
+        },
+        {
+          "start": 18.18,
+          "end": 18.46,
+          "word": " teacher"
+        },
+        {
+          "start": 18.46,
+          "end": 18.7,
+          "word": " when"
+        },
+        {
+          "start": 18.7,
+          "end": 18.82,
+          "word": " I"
+        },
+        {
+          "start": 18.82,
+          "end": 18.94,
+          "word": " was"
+        },
+        {
+          "start": 18.94,
+          "end": 19.22,
+          "word": " younger."
+        },
+        {
+          "start": 20.04,
+          "end": 20.38,
+          "word": " I"
+        },
+        {
+          "start": 20.38,
+          "end": 20.54,
+          "word": " have"
+        },
+        {
+          "start": 20.54,
+          "end": 20.72,
+          "word": " so"
+        },
+        {
+          "start": 20.72,
+          "end": 20.9,
+          "word": " many"
+        },
+        {
+          "start": 20.9,
+          "end": 21.28,
+          "word": " fond"
+        },
+        {
+          "start": 21.28,
+          "end": 21.48,
+          "word": " and"
+        },
+        {
+          "start": 21.48,
+          "end": 21.7,
+          "word": " great"
+        },
+        {
+          "start": 21.7,
+          "end": 22.04,
+          "word": " memories"
+        },
+        {
+          "start": 22.04,
+          "end": 22.24,
+          "word": " of"
+        },
+        {
+          "start": 22.24,
+          "end": 22.44,
+          "word": " working"
+        },
+        {
+          "start": 22.44,
+          "end": 22.68,
+          "word": " with"
+        },
+        {
+          "start": 22.68,
+          "end": 22.9,
+          "word": " you."
+        }
+      ]
+    },
+    {
+      "start": 22.9,
+      "end": 33.72,
+      "text": "You were truly an amazing teacher. I can't thank you enough for everything you've taught me when you were my teacher. I have so many great memories of working with you.",
+      "words": [
+        {
+          "start": 22.9,
+          "end": 23.8,
+          "word": " You"
+        },
+        {
+          "start": 23.8,
+          "end": 23.96,
+          "word": " were"
+        },
+        {
+          "start": 23.96,
+          "end": 24.34,
+          "word": " truly"
+        },
+        {
+          "start": 24.34,
+          "end": 24.52,
+          "word": " an"
+        },
+        {
+          "start": 24.52,
+          "end": 24.84,
+          "word": " amazing"
+        },
+        {
+          "start": 24.84,
+          "end": 25.32,
+          "word": " teacher."
+        },
+        {
+          "start": 26.04,
+          "end": 26.56,
+          "word": " I"
+        },
+        {
+          "start": 26.56,
+          "end": 26.88,
+          "word": " can't"
+        },
+        {
+          "start": 26.88,
+          "end": 27.02,
+          "word": " thank"
+        },
+        {
+          "start": 27.02,
+          "end": 27.2,
+          "word": " you"
+        },
+        {
+          "start": 27.2,
+          "end": 27.46,
+          "word": " enough"
+        },
+        {
+          "start": 27.46,
+          "end": 27.98,
+          "word": " for"
+        },
+        {
+          "start": 27.98,
+          "end": 28.26,
+          "word": " everything"
+        },
+        {
+          "start": 28.26,
+          "end": 28.52,
+          "word": " you've"
+        },
+        {
+          "start": 28.52,
+          "end": 28.7,
+          "word": " taught"
+        },
+        {
+          "start": 28.7,
+          "end": 28.9,
+          "word": " me"
+        },
+        {
+          "start": 28.9,
+          "end": 29.18,
+          "word": " when"
+        },
+        {
+          "start": 29.18,
+          "end": 29.56,
+          "word": " you"
+        },
+        {
+          "start": 29.56,
+          "end": 29.7,
+          "word": " were"
+        },
+        {
+          "start": 29.7,
+          "end": 29.86,
+          "word": " my"
+        },
+        {
+          "start": 29.86,
+          "end": 30.16,
+          "word": " teacher."
+        },
+        {
+          "start": 31.2,
+          "end": 31.72,
+          "word": " I"
+        },
+        {
+          "start": 31.72,
+          "end": 31.88,
+          "word": " have"
+        },
+        {
+          "start": 31.88,
+          "end": 32.06,
+          "word": " so"
+        },
+        {
+          "start": 32.06,
+          "end": 32.26,
+          "word": " many"
+        },
+        {
+          "start": 32.26,
+          "end": 32.5,
+          "word": " great"
+        },
+        {
+          "start": 32.5,
+          "end": 32.88,
+          "word": " memories"
+        },
+        {
+          "start": 32.88,
+          "end": 33.08,
+          "word": " of"
+        },
+        {
+          "start": 33.08,
+          "end": 33.3,
+          "word": " working"
+        },
+        {
+          "start": 33.3,
+          "end": 33.54,
+          "word": " with"
+        },
+        {
+          "start": 33.54,
+          "end": 33.72,
+          "word": " you."
+        }
+      ]
+    },
+    {
+      "start": 34.22,
+      "end": 48.54,
+      "text": "Honestly, you know, I have so many great memories. It's been so long, but I just can't believe it's been a long time since, you know, you were my teacher probably at least like 12 years ago.",
+      "words": [
+        {
+          "start": 34.22,
+          "end": 34.74,
+          "word": " Honestly,"
+        },
+        {
+          "start": 35.12,
+          "end": 35.12,
+          "word": " you"
+        },
+        {
+          "start": 35.12,
+          "end": 35.3,
+          "word": " know,"
+        },
+        {
+          "start": 35.8,
+          "end": 36.08,
+          "word": " I"
+        },
+        {
+          "start": 36.08,
+          "end": 36.32,
+          "word": " have"
+        },
+        {
+          "start": 36.32,
+          "end": 36.54,
+          "word": " so"
+        },
+        {
+          "start": 36.54,
+          "end": 36.72,
+          "word": " many"
+        },
+        {
+          "start": 36.72,
+          "end": 36.94,
+          "word": " great"
+        },
+        {
+          "start": 36.94,
+          "end": 37.36,
+          "word": " memories."
+        },
+        {
+          "start": 38.02,
+          "end": 38.4,
+          "word": " It's"
+        },
+        {
+          "start": 38.4,
+          "end": 38.56,
+          "word": " been"
+        },
+        {
+          "start": 38.56,
+          "end": 38.94,
+          "word": " so"
+        },
+        {
+          "start": 38.94,
+          "end": 39.32,
+          "word": " long,"
+        },
+        {
+          "start": 39.42,
+          "end": 39.58,
+          "word": " but"
+        },
+        {
+          "start": 39.58,
+          "end": 39.98,
+          "word": " I"
+        },
+        {
+          "start": 39.98,
+          "end": 40.78,
+          "word": " just"
+        },
+        {
+          "start": 40.78,
+          "end": 41.02,
+          "word": " can't"
+        },
+        {
+          "start": 41.02,
+          "end": 41.22,
+          "word": " believe"
+        },
+        {
+          "start": 41.22,
+          "end": 41.46,
+          "word": " it's"
+        },
+        {
+          "start": 41.46,
+          "end": 41.68,
+          "word": " been"
+        },
+        {
+          "start": 41.68,
+          "end": 42.5,
+          "word": " a"
+        },
+        {
+          "start": 42.5,
+          "end": 43.2,
+          "word": " long"
+        },
+        {
+          "start": 43.2,
+          "end": 43.64,
+          "word": " time"
+        },
+        {
+          "start": 43.64,
+          "end": 43.88,
+          "word": " since,"
+        },
+        {
+          "start": 44.82,
+          "end": 45.06,
+          "word": " you"
+        },
+        {
+          "start": 45.06,
+          "end": 45.16,
+          "word": " know,"
+        },
+        {
+          "start": 45.22,
+          "end": 45.3,
+          "word": " you"
+        },
+        {
+          "start": 45.3,
+          "end": 45.42,
+          "word": " were"
+        },
+        {
+          "start": 45.42,
+          "end": 45.58,
+          "word": " my"
+        },
+        {
+          "start": 45.58,
+          "end": 45.94,
+          "word": " teacher"
+        },
+        {
+          "start": 45.94,
+          "end": 46.84,
+          "word": " probably"
+        },
+        {
+          "start": 46.84,
+          "end": 47.02,
+          "word": " at"
+        },
+        {
+          "start": 47.02,
+          "end": 47.18,
+          "word": " least"
+        },
+        {
+          "start": 47.18,
+          "end": 47.44,
+          "word": " like"
+        },
+        {
+          "start": 47.44,
+          "end": 47.98,
+          "word": " 12"
+        },
+        {
+          "start": 47.98,
+          "end": 48.24,
+          "word": " years"
+        },
+        {
+          "start": 48.24,
+          "end": 48.54,
+          "word": " ago."
+        }
+      ]
+    },
+    {
+      "start": 48.54,
+      "end": 60.24,
+      "text": "You were my teacher. But yeah, you know, I just, I really enjoyed working with you and, you know, I was so young when I was your student.",
+      "words": [
+        {
+          "start": 48.54,
+          "end": 49.0,
+          "word": " You"
+        },
+        {
+          "start": 49.0,
+          "end": 49.06,
+          "word": " were"
+        },
+        {
+          "start": 49.06,
+          "end": 49.2,
+          "word": " my"
+        },
+        {
+          "start": 49.2,
+          "end": 49.5,
+          "word": " teacher."
+        },
+        {
+          "start": 51.3,
+          "end": 51.74,
+          "word": " But"
+        },
+        {
+          "start": 51.74,
+          "end": 51.98,
+          "word": " yeah,"
+        },
+        {
+          "start": 52.16,
+          "end": 52.24,
+          "word": " you"
+        },
+        {
+          "start": 52.24,
+          "end": 52.36,
+          "word": " know,"
+        },
+        {
+          "start": 52.44,
+          "end": 52.8,
+          "word": " I"
+        },
+        {
+          "start": 52.8,
+          "end": 53.28,
+          "word": " just,"
+        },
+        {
+          "start": 53.9,
+          "end": 55.02,
+          "word": " I"
+        },
+        {
+          "start": 55.02,
+          "end": 55.28,
+          "word": " really"
+        },
+        {
+          "start": 55.28,
+          "end": 55.6,
+          "word": " enjoyed"
+        },
+        {
+          "start": 55.6,
+          "end": 55.9,
+          "word": " working"
+        },
+        {
+          "start": 55.9,
+          "end": 56.18,
+          "word": " with"
+        },
+        {
+          "start": 56.18,
+          "end": 56.38,
+          "word": " you"
+        },
+        {
+          "start": 56.38,
+          "end": 56.72,
+          "word": " and,"
+        },
+        {
+          "start": 57.56,
+          "end": 57.74,
+          "word": " you"
+        },
+        {
+          "start": 57.74,
+          "end": 57.94,
+          "word": " know,"
+        },
+        {
+          "start": 58.42,
+          "end": 58.6,
+          "word": " I"
+        },
+        {
+          "start": 58.6,
+          "end": 58.76,
+          "word": " was"
+        },
+        {
+          "start": 58.76,
+          "end": 58.98,
+          "word": " so"
+        },
+        {
+          "start": 58.98,
+          "end": 59.22,
+          "word": " young"
+        },
+        {
+          "start": 59.22,
+          "end": 59.38,
+          "word": " when"
+        },
+        {
+          "start": 59.38,
+          "end": 59.5,
+          "word": " I"
+        },
+        {
+          "start": 59.5,
+          "end": 59.66,
+          "word": " was"
+        },
+        {
+          "start": 59.66,
+          "end": 59.8,
+          "word": " your"
+        },
+        {
+          "start": 59.8,
+          "end": 60.24,
+          "word": " student."
+        }
+      ]
+    },
+    {
+      "start": 60.86,
+      "end": 72.82,
+      "text": "But, you know, I have so many great memories and I just wanted to thank you also for everything you've taught me and for just, you know, for putting your time and effort for teaching me all these great things that I now as an adult.",
+      "words": [
+        {
+          "start": 60.86,
+          "end": 60.86,
+          "word": " But,"
+        },
+        {
+          "start": 60.94,
+          "end": 62.12,
+          "word": " you"
+        },
+        {
+          "start": 62.12,
+          "end": 62.24,
+          "word": " know,"
+        },
+        {
+          "start": 62.26,
+          "end": 62.36,
+          "word": " I"
+        },
+        {
+          "start": 62.36,
+          "end": 62.48,
+          "word": " have"
+        },
+        {
+          "start": 62.48,
+          "end": 62.64,
+          "word": " so"
+        },
+        {
+          "start": 62.64,
+          "end": 62.82,
+          "word": " many"
+        },
+        {
+          "start": 62.82,
+          "end": 63.06,
+          "word": " great"
+        },
+        {
+          "start": 63.06,
+          "end": 63.44,
+          "word": " memories"
+        },
+        {
+          "start": 63.44,
+          "end": 63.58,
+          "word": " and"
+        },
+        {
+          "start": 63.58,
+          "end": 63.66,
+          "word": " I"
+        },
+        {
+          "start": 63.66,
+          "end": 63.8,
+          "word": " just"
+        },
+        {
+          "start": 63.8,
+          "end": 64.0,
+          "word": " wanted"
+        },
+        {
+          "start": 64.0,
+          "end": 64.22,
+          "word": " to"
+        },
+        {
+          "start": 64.22,
+          "end": 64.44,
+          "word": " thank"
+        },
+        {
+          "start": 64.44,
+          "end": 64.64,
+          "word": " you"
+        },
+        {
+          "start": 64.64,
+          "end": 64.86,
+          "word": " also"
+        },
+        {
+          "start": 64.86,
+          "end": 65.14,
+          "word": " for"
+        },
+        {
+          "start": 65.14,
+          "end": 65.5,
+          "word": " everything"
+        },
+        {
+          "start": 65.5,
+          "end": 65.78,
+          "word": " you've"
+        },
+        {
+          "start": 65.78,
+          "end": 65.98,
+          "word": " taught"
+        },
+        {
+          "start": 65.98,
+          "end": 66.2,
+          "word": " me"
+        },
+        {
+          "start": 66.2,
+          "end": 66.36,
+          "word": " and"
+        },
+        {
+          "start": 66.36,
+          "end": 66.62,
+          "word": " for"
+        },
+        {
+          "start": 66.62,
+          "end": 67.76,
+          "word": " just,"
+        },
+        {
+          "start": 67.78,
+          "end": 67.88,
+          "word": " you"
+        },
+        {
+          "start": 67.88,
+          "end": 67.98,
+          "word": " know,"
+        },
+        {
+          "start": 68.0,
+          "end": 68.24,
+          "word": " for"
+        },
+        {
+          "start": 68.24,
+          "end": 68.72,
+          "word": " putting"
+        },
+        {
+          "start": 68.72,
+          "end": 68.9,
+          "word": " your"
+        },
+        {
+          "start": 68.9,
+          "end": 69.2,
+          "word": " time"
+        },
+        {
+          "start": 69.2,
+          "end": 69.34,
+          "word": " and"
+        },
+        {
+          "start": 69.34,
+          "end": 69.56,
+          "word": " effort"
+        },
+        {
+          "start": 69.56,
+          "end": 69.82,
+          "word": " for"
+        },
+        {
+          "start": 69.82,
+          "end": 70.06,
+          "word": " teaching"
+        },
+        {
+          "start": 70.06,
+          "end": 70.28,
+          "word": " me"
+        },
+        {
+          "start": 70.28,
+          "end": 70.42,
+          "word": " all"
+        },
+        {
+          "start": 70.42,
+          "end": 70.58,
+          "word": " these"
+        },
+        {
+          "start": 70.58,
+          "end": 70.88,
+          "word": " great"
+        },
+        {
+          "start": 70.88,
+          "end": 71.26,
+          "word": " things"
+        },
+        {
+          "start": 71.26,
+          "end": 71.56,
+          "word": " that"
+        },
+        {
+          "start": 71.56,
+          "end": 71.74,
+          "word": " I"
+        },
+        {
+          "start": 71.74,
+          "end": 72.22,
+          "word": " now"
+        },
+        {
+          "start": 72.22,
+          "end": 72.42,
+          "word": " as"
+        },
+        {
+          "start": 72.42,
+          "end": 72.56,
+          "word": " an"
+        },
+        {
+          "start": 72.56,
+          "end": 72.82,
+          "word": " adult."
+        }
+      ]
+    },
+    {
+      "start": 72.82,
+      "end": 83.52,
+      "text": "Now I'm 21 now. So I'm a full grown adult now. So, you know, I know a lot of things and, you know, thanks to you, I know a lot of these great things.",
+      "words": [
+        {
+          "start": 72.82,
+          "end": 73.2,
+          "word": " Now"
+        },
+        {
+          "start": 73.2,
+          "end": 73.7,
+          "word": " I'm"
+        },
+        {
+          "start": 73.7,
+          "end": 74.1,
+          "word": " 21"
+        },
+        {
+          "start": 74.1,
+          "end": 74.48,
+          "word": " now."
+        },
+        {
+          "start": 75.1,
+          "end": 75.54,
+          "word": " So"
+        },
+        {
+          "start": 75.54,
+          "end": 75.84,
+          "word": " I'm"
+        },
+        {
+          "start": 75.84,
+          "end": 75.98,
+          "word": " a"
+        },
+        {
+          "start": 75.98,
+          "end": 76.2,
+          "word": " full"
+        },
+        {
+          "start": 76.2,
+          "end": 76.38,
+          "word": " grown"
+        },
+        {
+          "start": 76.38,
+          "end": 76.56,
+          "word": " adult"
+        },
+        {
+          "start": 76.56,
+          "end": 76.9,
+          "word": " now."
+        },
+        {
+          "start": 77.16,
+          "end": 77.5,
+          "word": " So,"
+        },
+        {
+          "start": 77.56,
+          "end": 77.78,
+          "word": " you"
+        },
+        {
+          "start": 77.78,
+          "end": 77.92,
+          "word": " know,"
+        },
+        {
+          "start": 77.96,
+          "end": 78.4,
+          "word": " I"
+        },
+        {
+          "start": 78.4,
+          "end": 78.56,
+          "word": " know"
+        },
+        {
+          "start": 78.56,
+          "end": 78.68,
+          "word": " a"
+        },
+        {
+          "start": 78.68,
+          "end": 78.82,
+          "word": " lot"
+        },
+        {
+          "start": 78.82,
+          "end": 78.92,
+          "word": " of"
+        },
+        {
+          "start": 78.92,
+          "end": 79.2,
+          "word": " things"
+        },
+        {
+          "start": 79.2,
+          "end": 79.58,
+          "word": " and,"
+        },
+        {
+          "start": 79.72,
+          "end": 80.4,
+          "word": " you"
+        },
+        {
+          "start": 80.4,
+          "end": 80.58,
+          "word": " know,"
+        },
+        {
+          "start": 81.28,
+          "end": 81.68,
+          "word": " thanks"
+        },
+        {
+          "start": 81.68,
+          "end": 81.92,
+          "word": " to"
+        },
+        {
+          "start": 81.92,
+          "end": 82.12,
+          "word": " you,"
+        },
+        {
+          "start": 82.18,
+          "end": 82.24,
+          "word": " I"
+        },
+        {
+          "start": 82.24,
+          "end": 82.4,
+          "word": " know"
+        },
+        {
+          "start": 82.4,
+          "end": 82.54,
+          "word": " a"
+        },
+        {
+          "start": 82.54,
+          "end": 82.66,
+          "word": " lot"
+        },
+        {
+          "start": 82.66,
+          "end": 82.76,
+          "word": " of"
+        },
+        {
+          "start": 82.76,
+          "end": 82.9,
+          "word": " these"
+        },
+        {
+          "start": 82.9,
+          "end": 83.18,
+          "word": " great"
+        },
+        {
+          "start": 83.18,
+          "end": 83.52,
+          "word": " things."
+        }
+      ]
+    },
+    {
+      "start": 83.76,
+      "end": 96.5,
+      "text": "You know, you taught me so many techniques and, you know, all kinds of stuff. And, you know, I have so many, so many amazing memories, you know, the 2003 Honda Civic Hybrid.",
+      "words": [
+        {
+          "start": 83.76,
+          "end": 83.76,
+          "word": " You"
+        },
+        {
+          "start": 83.76,
+          "end": 83.92,
+          "word": " know,"
+        },
+        {
+          "start": 84.04,
+          "end": 84.16,
+          "word": " you"
+        },
+        {
+          "start": 84.16,
+          "end": 84.36,
+          "word": " taught"
+        },
+        {
+          "start": 84.36,
+          "end": 84.5,
+          "word": " me"
+        },
+        {
+          "start": 84.5,
+          "end": 84.64,
+          "word": " so"
+        },
+        {
+          "start": 84.64,
+          "end": 84.84,
+          "word": " many"
+        },
+        {
+          "start": 84.84,
+          "end": 85.26,
+          "word": " techniques"
+        },
+        {
+          "start": 85.26,
+          "end": 85.94,
+          "word": " and,"
+        },
+        {
+          "start": 86.06,
+          "end": 86.9,
+          "word": " you"
+        },
+        {
+          "start": 86.9,
+          "end": 87.04,
+          "word": " know,"
+        },
+        {
+          "start": 87.1,
+          "end": 87.38,
+          "word": " all"
+        },
+        {
+          "start": 87.38,
+          "end": 87.62,
+          "word": " kinds"
+        },
+        {
+          "start": 87.62,
+          "end": 87.76,
+          "word": " of"
+        },
+        {
+          "start": 87.76,
+          "end": 88.02,
+          "word": " stuff."
+        },
+        {
+          "start": 88.36,
+          "end": 88.36,
+          "word": " And,"
+        },
+        {
+          "start": 88.46,
+          "end": 88.96,
+          "word": " you"
+        },
+        {
+          "start": 88.96,
+          "end": 89.12,
+          "word": " know,"
+        },
+        {
+          "start": 89.18,
+          "end": 89.4,
+          "word": " I"
+        },
+        {
+          "start": 89.4,
+          "end": 89.56,
+          "word": " have"
+        },
+        {
+          "start": 89.56,
+          "end": 89.72,
+          "word": " so"
+        },
+        {
+          "start": 89.72,
+          "end": 90.0,
+          "word": " many,"
+        },
+        {
+          "start": 90.14,
+          "end": 91.34,
+          "word": " so"
+        },
+        {
+          "start": 91.34,
+          "end": 91.54,
+          "word": " many"
+        },
+        {
+          "start": 91.54,
+          "end": 91.94,
+          "word": " amazing"
+        },
+        {
+          "start": 91.94,
+          "end": 92.56,
+          "word": " memories,"
+        },
+        {
+          "start": 92.92,
+          "end": 93.0,
+          "word": " you"
+        },
+        {
+          "start": 93.0,
+          "end": 93.2,
+          "word": " know,"
+        },
+        {
+          "start": 94.28,
+          "end": 94.56,
+          "word": " the"
+        },
+        {
+          "start": 94.56,
+          "end": 95.42,
+          "word": " 2003"
+        },
+        {
+          "start": 95.42,
+          "end": 95.72,
+          "word": " Honda"
+        },
+        {
+          "start": 95.72,
+          "end": 95.98,
+          "word": " Civic"
+        },
+        {
+          "start": 95.98,
+          "end": 96.5,
+          "word": " Hybrid."
+        }
+      ]
+    },
+    {
+      "start": 97.14,
+      "end": 107.02,
+      "text": "That car, I remember that car. I've been in that car so many times. We've, you know, been in that car so many times and we've had so many adventures with that car.",
+      "words": [
+        {
+          "start": 97.14,
+          "end": 97.58,
+          "word": " That"
+        },
+        {
+          "start": 97.58,
+          "end": 97.9,
+          "word": " car,"
+        },
+        {
+          "start": 98.0,
+          "end": 98.12,
+          "word": " I"
+        },
+        {
+          "start": 98.12,
+          "end": 98.36,
+          "word": " remember"
+        },
+        {
+          "start": 98.36,
+          "end": 98.62,
+          "word": " that"
+        },
+        {
+          "start": 98.62,
+          "end": 98.94,
+          "word": " car."
+        },
+        {
+          "start": 99.28,
+          "end": 99.4,
+          "word": " I've"
+        },
+        {
+          "start": 99.4,
+          "end": 99.54,
+          "word": " been"
+        },
+        {
+          "start": 99.54,
+          "end": 99.74,
+          "word": " in"
+        },
+        {
+          "start": 99.74,
+          "end": 100.76,
+          "word": " that"
+        },
+        {
+          "start": 100.76,
+          "end": 100.98,
+          "word": " car"
+        },
+        {
+          "start": 100.98,
+          "end": 101.26,
+          "word": " so"
+        },
+        {
+          "start": 101.26,
+          "end": 101.46,
+          "word": " many"
+        },
+        {
+          "start": 101.46,
+          "end": 101.9,
+          "word": " times."
+        },
+        {
+          "start": 102.38,
+          "end": 102.6,
+          "word": " We've,"
+        },
+        {
+          "start": 102.6,
+          "end": 102.74,
+          "word": " you"
+        },
+        {
+          "start": 102.74,
+          "end": 102.86,
+          "word": " know,"
+        },
+        {
+          "start": 102.86,
+          "end": 103.08,
+          "word": " been"
+        },
+        {
+          "start": 103.08,
+          "end": 103.22,
+          "word": " in"
+        },
+        {
+          "start": 103.22,
+          "end": 103.38,
+          "word": " that"
+        },
+        {
+          "start": 103.38,
+          "end": 103.58,
+          "word": " car"
+        },
+        {
+          "start": 103.58,
+          "end": 103.78,
+          "word": " so"
+        },
+        {
+          "start": 103.78,
+          "end": 103.96,
+          "word": " many"
+        },
+        {
+          "start": 103.96,
+          "end": 104.38,
+          "word": " times"
+        },
+        {
+          "start": 104.38,
+          "end": 104.58,
+          "word": " and"
+        },
+        {
+          "start": 104.58,
+          "end": 104.86,
+          "word": " we've"
+        },
+        {
+          "start": 104.86,
+          "end": 105.04,
+          "word": " had"
+        },
+        {
+          "start": 105.04,
+          "end": 105.22,
+          "word": " so"
+        },
+        {
+          "start": 105.22,
+          "end": 105.44,
+          "word": " many"
+        },
+        {
+          "start": 105.44,
+          "end": 106.24,
+          "word": " adventures"
+        },
+        {
+          "start": 106.24,
+          "end": 106.58,
+          "word": " with"
+        },
+        {
+          "start": 106.58,
+          "end": 106.74,
+          "word": " that"
+        },
+        {
+          "start": 106.74,
+          "end": 107.02,
+          "word": " car."
+        }
+      ]
+    },
+    {
+      "start": 107.76,
+      "end": 114.04,
+      "text": "You know, we went to the marina. I got to drive Keith's boat. That was one of my greatest memories.",
+      "words": [
+        {
+          "start": 107.76,
+          "end": 108.1,
+          "word": " You"
+        },
+        {
+          "start": 108.1,
+          "end": 108.28,
+          "word": " know,"
+        },
+        {
+          "start": 108.4,
+          "end": 108.58,
+          "word": " we"
+        },
+        {
+          "start": 108.58,
+          "end": 109.02,
+          "word": " went"
+        },
+        {
+          "start": 109.02,
+          "end": 109.36,
+          "word": " to"
+        },
+        {
+          "start": 109.36,
+          "end": 110.6,
+          "word": " the"
+        },
+        {
+          "start": 110.6,
+          "end": 111.0,
+          "word": " marina."
+        },
+        {
+          "start": 111.24,
+          "end": 111.24,
+          "word": " I"
+        },
+        {
+          "start": 111.24,
+          "end": 111.36,
+          "word": " got"
+        },
+        {
+          "start": 111.36,
+          "end": 111.52,
+          "word": " to"
+        },
+        {
+          "start": 111.52,
+          "end": 111.74,
+          "word": " drive"
+        },
+        {
+          "start": 111.74,
+          "end": 112.16,
+          "word": " Keith's"
+        },
+        {
+          "start": 112.16,
+          "end": 112.36,
+          "word": " boat."
+        },
+        {
+          "start": 112.6,
+          "end": 112.76,
+          "word": " That"
+        },
+        {
+          "start": 112.76,
+          "end": 112.88,
+          "word": " was"
+        },
+        {
+          "start": 112.88,
+          "end": 113.04,
+          "word": " one"
+        },
+        {
+          "start": 113.04,
+          "end": 113.12,
+          "word": " of"
+        },
+        {
+          "start": 113.12,
+          "end": 113.26,
+          "word": " my"
+        },
+        {
+          "start": 113.26,
+          "end": 113.56,
+          "word": " greatest"
+        },
+        {
+          "start": 113.56,
+          "end": 114.04,
+          "word": " memories."
+        }
+      ]
+    },
+    {
+      "start": 116.22,
+      "end": 122.98,
+      "text": "When I was your student, you know, driving Keith's boat, you know, I remember we took Alberto and we drove the boat.",
+      "words": [
+        {
+          "start": 116.22,
+          "end": 116.66,
+          "word": " When"
+        },
+        {
+          "start": 116.66,
+          "end": 116.78,
+          "word": " I"
+        },
+        {
+          "start": 116.78,
+          "end": 116.9,
+          "word": " was"
+        },
+        {
+          "start": 116.9,
+          "end": 117.02,
+          "word": " your"
+        },
+        {
+          "start": 117.02,
+          "end": 117.44,
+          "word": " student,"
+        },
+        {
+          "start": 117.68,
+          "end": 117.84,
+          "word": " you"
+        },
+        {
+          "start": 117.84,
+          "end": 118.06,
+          "word": " know,"
+        },
+        {
+          "start": 118.34,
+          "end": 118.64,
+          "word": " driving"
+        },
+        {
+          "start": 118.64,
+          "end": 119.12,
+          "word": " Keith's"
+        },
+        {
+          "start": 119.12,
+          "end": 119.42,
+          "word": " boat,"
+        },
+        {
+          "start": 119.7,
+          "end": 119.88,
+          "word": " you"
+        },
+        {
+          "start": 119.88,
+          "end": 119.92,
+          "word": " know,"
+        },
+        {
+          "start": 119.96,
+          "end": 120.06,
+          "word": " I"
+        },
+        {
+          "start": 120.06,
+          "end": 120.28,
+          "word": " remember"
+        },
+        {
+          "start": 120.28,
+          "end": 120.52,
+          "word": " we"
+        },
+        {
+          "start": 120.52,
+          "end": 120.7,
+          "word": " took"
+        },
+        {
+          "start": 120.7,
+          "end": 121.08,
+          "word": " Alberto"
+        },
+        {
+          "start": 121.08,
+          "end": 122.12,
+          "word": " and"
+        },
+        {
+          "start": 122.12,
+          "end": 122.28,
+          "word": " we"
+        },
+        {
+          "start": 122.28,
+          "end": 122.5,
+          "word": " drove"
+        },
+        {
+          "start": 122.5,
+          "end": 122.7,
+          "word": " the"
+        },
+        {
+          "start": 122.7,
+          "end": 122.98,
+          "word": " boat."
+        }
+      ]
+    },
+    {
+      "start": 122.98,
+      "end": 132.56,
+      "text": "And I remember, you know, back, you know, back when we took Alberto, I was kind of jealous because I was like, why does he get to drive the boat and not just, you know, not just me, you know.",
+      "words": [
+        {
+          "start": 122.98,
+          "end": 123.36,
+          "word": " And"
+        },
+        {
+          "start": 123.36,
+          "end": 124.84,
+          "word": " I"
+        },
+        {
+          "start": 124.84,
+          "end": 125.12,
+          "word": " remember,"
+        },
+        {
+          "start": 125.56,
+          "end": 125.56,
+          "word": " you"
+        },
+        {
+          "start": 125.56,
+          "end": 125.68,
+          "word": " know,"
+        },
+        {
+          "start": 125.8,
+          "end": 125.96,
+          "word": " back,"
+        },
+        {
+          "start": 126.18,
+          "end": 126.28,
+          "word": " you"
+        },
+        {
+          "start": 126.28,
+          "end": 126.36,
+          "word": " know,"
+        },
+        {
+          "start": 126.44,
+          "end": 126.56,
+          "word": " back"
+        },
+        {
+          "start": 126.56,
+          "end": 126.8,
+          "word": " when"
+        },
+        {
+          "start": 126.8,
+          "end": 127.1,
+          "word": " we"
+        },
+        {
+          "start": 127.1,
+          "end": 127.3,
+          "word": " took"
+        },
+        {
+          "start": 127.3,
+          "end": 127.64,
+          "word": " Alberto,"
+        },
+        {
+          "start": 127.68,
+          "end": 127.86,
+          "word": " I"
+        },
+        {
+          "start": 127.86,
+          "end": 128.02,
+          "word": " was"
+        },
+        {
+          "start": 128.02,
+          "end": 128.22,
+          "word": " kind"
+        },
+        {
+          "start": 128.22,
+          "end": 128.32,
+          "word": " of"
+        },
+        {
+          "start": 128.32,
+          "end": 128.6,
+          "word": " jealous"
+        },
+        {
+          "start": 128.6,
+          "end": 128.9,
+          "word": " because"
+        },
+        {
+          "start": 128.9,
+          "end": 129.16,
+          "word": " I"
+        },
+        {
+          "start": 129.16,
+          "end": 129.3,
+          "word": " was"
+        },
+        {
+          "start": 129.3,
+          "end": 129.46,
+          "word": " like,"
+        },
+        {
+          "start": 129.5,
+          "end": 129.68,
+          "word": " why"
+        },
+        {
+          "start": 129.68,
+          "end": 129.84,
+          "word": " does"
+        },
+        {
+          "start": 129.84,
+          "end": 129.96,
+          "word": " he"
+        },
+        {
+          "start": 129.96,
+          "end": 130.1,
+          "word": " get"
+        },
+        {
+          "start": 130.1,
+          "end": 130.24,
+          "word": " to"
+        },
+        {
+          "start": 130.24,
+          "end": 130.44,
+          "word": " drive"
+        },
+        {
+          "start": 130.44,
+          "end": 130.62,
+          "word": " the"
+        },
+        {
+          "start": 130.62,
+          "end": 130.82,
+          "word": " boat"
+        },
+        {
+          "start": 130.82,
+          "end": 130.96,
+          "word": " and"
+        },
+        {
+          "start": 130.96,
+          "end": 131.08,
+          "word": " not"
+        },
+        {
+          "start": 131.08,
+          "end": 131.32,
+          "word": " just,"
+        },
+        {
+          "start": 131.38,
+          "end": 131.52,
+          "word": " you"
+        },
+        {
+          "start": 131.52,
+          "end": 131.6,
+          "word": " know,"
+        },
+        {
+          "start": 131.66,
+          "end": 131.78,
+          "word": " not"
+        },
+        {
+          "start": 131.78,
+          "end": 132.0,
+          "word": " just"
+        },
+        {
+          "start": 132.0,
+          "end": 132.26,
+          "word": " me,"
+        },
+        {
+          "start": 132.34,
+          "end": 132.44,
+          "word": " you"
+        },
+        {
+          "start": 132.44,
+          "end": 132.56,
+          "word": " know."
+        }
+      ]
+    },
+    {
+      "start": 133.22,
+      "end": 139.06,
+      "text": "But that taught me, you know, to be patient and to kind of, you know, get along with others, you know, and I got to thank you for that.",
+      "words": [
+        {
+          "start": 133.22,
+          "end": 133.42,
+          "word": " But"
+        },
+        {
+          "start": 133.42,
+          "end": 133.58,
+          "word": " that"
+        },
+        {
+          "start": 133.58,
+          "end": 133.8,
+          "word": " taught"
+        },
+        {
+          "start": 133.8,
+          "end": 134.02,
+          "word": " me,"
+        },
+        {
+          "start": 134.04,
+          "end": 134.18,
+          "word": " you"
+        },
+        {
+          "start": 134.18,
+          "end": 134.3,
+          "word": " know,"
+        },
+        {
+          "start": 134.36,
+          "end": 134.46,
+          "word": " to"
+        },
+        {
+          "start": 134.46,
+          "end": 134.64,
+          "word": " be"
+        },
+        {
+          "start": 134.64,
+          "end": 135.12,
+          "word": " patient"
+        },
+        {
+          "start": 135.12,
+          "end": 135.36,
+          "word": " and"
+        },
+        {
+          "start": 135.36,
+          "end": 135.52,
+          "word": " to"
+        },
+        {
+          "start": 135.52,
+          "end": 135.94,
+          "word": " kind"
+        },
+        {
+          "start": 135.94,
+          "end": 136.1,
+          "word": " of,"
+        },
+        {
+          "start": 136.1,
+          "end": 136.2,
+          "word": " you"
+        },
+        {
+          "start": 136.2,
+          "end": 136.4,
+          "word": " know,"
+        },
+        {
+          "start": 136.56,
+          "end": 136.76,
+          "word": " get"
+        },
+        {
+          "start": 136.76,
+          "end": 137.0,
+          "word": " along"
+        },
+        {
+          "start": 137.0,
+          "end": 137.2,
+          "word": " with"
+        },
+        {
+          "start": 137.2,
+          "end": 137.42,
+          "word": " others,"
+        },
+        {
+          "start": 137.54,
+          "end": 137.66,
+          "word": " you"
+        },
+        {
+          "start": 137.66,
+          "end": 137.8,
+          "word": " know,"
+        },
+        {
+          "start": 137.88,
+          "end": 138.04,
+          "word": " and"
+        },
+        {
+          "start": 138.04,
+          "end": 138.2,
+          "word": " I"
+        },
+        {
+          "start": 138.2,
+          "end": 138.32,
+          "word": " got"
+        },
+        {
+          "start": 138.32,
+          "end": 138.42,
+          "word": " to"
+        },
+        {
+          "start": 138.42,
+          "end": 138.6,
+          "word": " thank"
+        },
+        {
+          "start": 138.6,
+          "end": 138.7,
+          "word": " you"
+        },
+        {
+          "start": 138.7,
+          "end": 138.84,
+          "word": " for"
+        },
+        {
+          "start": 138.84,
+          "end": 139.06,
+          "word": " that."
+        }
+      ]
+    },
+    {
+      "start": 139.64,
+      "end": 145.54,
+      "text": "And, you know, going to the quarry, going to McNear's brickyard, getting to touch all that great machinery.",
+      "words": [
+        {
+          "start": 139.64,
+          "end": 139.98,
+          "word": " And,"
+        },
+        {
+          "start": 139.98,
+          "end": 140.04,
+          "word": " you"
+        },
+        {
+          "start": 140.04,
+          "end": 140.18,
+          "word": " know,"
+        },
+        {
+          "start": 140.24,
+          "end": 140.44,
+          "word": " going"
+        },
+        {
+          "start": 140.44,
+          "end": 140.64,
+          "word": " to"
+        },
+        {
+          "start": 140.64,
+          "end": 140.76,
+          "word": " the"
+        },
+        {
+          "start": 140.76,
+          "end": 141.26,
+          "word": " quarry,"
+        },
+        {
+          "start": 141.36,
+          "end": 141.5,
+          "word": " going"
+        },
+        {
+          "start": 141.5,
+          "end": 141.8,
+          "word": " to"
+        },
+        {
+          "start": 141.8,
+          "end": 142.32,
+          "word": " McNear's"
+        },
+        {
+          "start": 142.32,
+          "end": 142.8,
+          "word": " brickyard,"
+        },
+        {
+          "start": 143.34,
+          "end": 144.02,
+          "word": " getting"
+        },
+        {
+          "start": 144.02,
+          "end": 144.2,
+          "word": " to"
+        },
+        {
+          "start": 144.2,
+          "end": 144.44,
+          "word": " touch"
+        },
+        {
+          "start": 144.44,
+          "end": 144.62,
+          "word": " all"
+        },
+        {
+          "start": 144.62,
+          "end": 144.8,
+          "word": " that"
+        },
+        {
+          "start": 144.8,
+          "end": 145.06,
+          "word": " great"
+        },
+        {
+          "start": 145.06,
+          "end": 145.54,
+          "word": " machinery."
+        }
+      ]
+    },
+    {
+      "start": 145.54,
+      "end": 154.18,
+      "text": "I remember, you know, going with Dan, you know, Dan, I think that was his name, Dan, the one who took us on the tour.",
+      "words": [
+        {
+          "start": 145.54,
+          "end": 145.82,
+          "word": " I"
+        },
+        {
+          "start": 145.82,
+          "end": 146.08,
+          "word": " remember,"
+        },
+        {
+          "start": 146.78,
+          "end": 147.04,
+          "word": " you"
+        },
+        {
+          "start": 147.04,
+          "end": 147.24,
+          "word": " know,"
+        },
+        {
+          "start": 147.28,
+          "end": 148.14,
+          "word": " going"
+        },
+        {
+          "start": 148.14,
+          "end": 148.38,
+          "word": " with"
+        },
+        {
+          "start": 148.38,
+          "end": 148.68,
+          "word": " Dan,"
+        },
+        {
+          "start": 149.02,
+          "end": 149.12,
+          "word": " you"
+        },
+        {
+          "start": 149.12,
+          "end": 149.26,
+          "word": " know,"
+        },
+        {
+          "start": 149.28,
+          "end": 149.56,
+          "word": " Dan,"
+        },
+        {
+          "start": 149.7,
+          "end": 149.76,
+          "word": " I"
+        },
+        {
+          "start": 149.76,
+          "end": 149.92,
+          "word": " think"
+        },
+        {
+          "start": 149.92,
+          "end": 150.14,
+          "word": " that"
+        },
+        {
+          "start": 150.14,
+          "end": 150.44,
+          "word": " was"
+        },
+        {
+          "start": 150.44,
+          "end": 150.56,
+          "word": " his"
+        },
+        {
+          "start": 150.56,
+          "end": 150.74,
+          "word": " name,"
+        },
+        {
+          "start": 150.88,
+          "end": 151.1,
+          "word": " Dan,"
+        },
+        {
+          "start": 151.86,
+          "end": 152.2,
+          "word": " the"
+        },
+        {
+          "start": 152.2,
+          "end": 152.36,
+          "word": " one"
+        },
+        {
+          "start": 152.36,
+          "end": 152.72,
+          "word": " who"
+        },
+        {
+          "start": 152.72,
+          "end": 153.42,
+          "word": " took"
+        },
+        {
+          "start": 153.42,
+          "end": 153.62,
+          "word": " us"
+        },
+        {
+          "start": 153.62,
+          "end": 153.78,
+          "word": " on"
+        },
+        {
+          "start": 153.78,
+          "end": 153.88,
+          "word": " the"
+        },
+        {
+          "start": 153.88,
+          "end": 154.18,
+          "word": " tour."
+        }
+      ]
+    },
+    {
+      "start": 154.74,
+      "end": 162.6,
+      "text": "You know, I got to touch all those big bricks and, you know, got to hop on those great machines, you know, the forklifts and everything, you know.",
+      "words": [
+        {
+          "start": 154.74,
+          "end": 155.06,
+          "word": " You"
+        },
+        {
+          "start": 155.06,
+          "end": 155.2,
+          "word": " know,"
+        },
+        {
+          "start": 155.24,
+          "end": 155.3,
+          "word": " I"
+        },
+        {
+          "start": 155.3,
+          "end": 155.42,
+          "word": " got"
+        },
+        {
+          "start": 155.42,
+          "end": 155.58,
+          "word": " to"
+        },
+        {
+          "start": 155.58,
+          "end": 155.76,
+          "word": " touch"
+        },
+        {
+          "start": 155.76,
+          "end": 155.96,
+          "word": " all"
+        },
+        {
+          "start": 155.96,
+          "end": 156.22,
+          "word": " those"
+        },
+        {
+          "start": 156.22,
+          "end": 156.76,
+          "word": " big"
+        },
+        {
+          "start": 156.76,
+          "end": 157.24,
+          "word": " bricks"
+        },
+        {
+          "start": 157.24,
+          "end": 157.7,
+          "word": " and,"
+        },
+        {
+          "start": 157.78,
+          "end": 158.64,
+          "word": " you"
+        },
+        {
+          "start": 158.64,
+          "end": 158.76,
+          "word": " know,"
+        },
+        {
+          "start": 158.8,
+          "end": 158.92,
+          "word": " got"
+        },
+        {
+          "start": 158.92,
+          "end": 159.1,
+          "word": " to"
+        },
+        {
+          "start": 159.1,
+          "end": 159.26,
+          "word": " hop"
+        },
+        {
+          "start": 159.26,
+          "end": 159.44,
+          "word": " on"
+        },
+        {
+          "start": 159.44,
+          "end": 159.62,
+          "word": " those"
+        },
+        {
+          "start": 159.62,
+          "end": 159.9,
+          "word": " great"
+        },
+        {
+          "start": 159.9,
+          "end": 160.4,
+          "word": " machines,"
+        },
+        {
+          "start": 160.66,
+          "end": 160.74,
+          "word": " you"
+        },
+        {
+          "start": 160.74,
+          "end": 160.82,
+          "word": " know,"
+        },
+        {
+          "start": 160.84,
+          "end": 160.92,
+          "word": " the"
+        },
+        {
+          "start": 160.92,
+          "end": 161.6,
+          "word": " forklifts"
+        },
+        {
+          "start": 161.6,
+          "end": 161.86,
+          "word": " and"
+        },
+        {
+          "start": 161.86,
+          "end": 162.16,
+          "word": " everything,"
+        },
+        {
+          "start": 162.3,
+          "end": 162.44,
+          "word": " you"
+        },
+        {
+          "start": 162.44,
+          "end": 162.6,
+          "word": " know."
+        }
+      ]
+    },
+    {
+      "start": 162.86,
+      "end": 171.52,
+      "text": "And, you know, I remember when we also went to the fire station a couple of times, got to touch those fire trucks, those ambulances.",
+      "words": [
+        {
+          "start": 162.86,
+          "end": 162.86,
+          "word": " And,"
+        },
+        {
+          "start": 162.96,
+          "end": 164.56,
+          "word": " you"
+        },
+        {
+          "start": 164.56,
+          "end": 164.78,
+          "word": " know,"
+        },
+        {
+          "start": 164.96,
+          "end": 165.66,
+          "word": " I"
+        },
+        {
+          "start": 165.66,
+          "end": 165.92,
+          "word": " remember"
+        },
+        {
+          "start": 165.92,
+          "end": 166.22,
+          "word": " when"
+        },
+        {
+          "start": 166.22,
+          "end": 166.56,
+          "word": " we"
+        },
+        {
+          "start": 166.56,
+          "end": 166.76,
+          "word": " also"
+        },
+        {
+          "start": 166.76,
+          "end": 166.94,
+          "word": " went"
+        },
+        {
+          "start": 166.94,
+          "end": 167.08,
+          "word": " to"
+        },
+        {
+          "start": 167.08,
+          "end": 167.2,
+          "word": " the"
+        },
+        {
+          "start": 167.2,
+          "end": 167.4,
+          "word": " fire"
+        },
+        {
+          "start": 167.4,
+          "end": 167.74,
+          "word": " station"
+        },
+        {
+          "start": 167.74,
+          "end": 167.92,
+          "word": " a"
+        },
+        {
+          "start": 167.92,
+          "end": 168.08,
+          "word": " couple"
+        },
+        {
+          "start": 168.08,
+          "end": 168.18,
+          "word": " of"
+        },
+        {
+          "start": 168.18,
+          "end": 168.6,
+          "word": " times,"
+        },
+        {
+          "start": 169.24,
+          "end": 169.6,
+          "word": " got"
+        },
+        {
+          "start": 169.6,
+          "end": 169.76,
+          "word": " to"
+        },
+        {
+          "start": 169.76,
+          "end": 169.94,
+          "word": " touch"
+        },
+        {
+          "start": 169.94,
+          "end": 170.12,
+          "word": " those"
+        },
+        {
+          "start": 170.12,
+          "end": 170.4,
+          "word": " fire"
+        },
+        {
+          "start": 170.4,
+          "end": 170.76,
+          "word": " trucks,"
+        },
+        {
+          "start": 170.86,
+          "end": 170.94,
+          "word": " those"
+        },
+        {
+          "start": 170.94,
+          "end": 171.52,
+          "word": " ambulances."
+        }
+      ]
+    },
+    {
+      "start": 172.66,
+      "end": 180.48,
+      "text": "We also went to, man, I remember going to the bus station with this bus driver back in the day.",
+      "words": [
+        {
+          "start": 172.66,
+          "end": 173.06,
+          "word": " We"
+        },
+        {
+          "start": 173.06,
+          "end": 173.3,
+          "word": " also"
+        },
+        {
+          "start": 173.3,
+          "end": 173.56,
+          "word": " went"
+        },
+        {
+          "start": 173.56,
+          "end": 173.92,
+          "word": " to,"
+        },
+        {
+          "start": 174.86,
+          "end": 175.12,
+          "word": " man,"
+        },
+        {
+          "start": 175.44,
+          "end": 175.56,
+          "word": " I"
+        },
+        {
+          "start": 175.56,
+          "end": 175.8,
+          "word": " remember"
+        },
+        {
+          "start": 175.8,
+          "end": 176.14,
+          "word": " going"
+        },
+        {
+          "start": 176.14,
+          "end": 176.34,
+          "word": " to"
+        },
+        {
+          "start": 176.34,
+          "end": 176.46,
+          "word": " the"
+        },
+        {
+          "start": 176.46,
+          "end": 176.64,
+          "word": " bus"
+        },
+        {
+          "start": 176.64,
+          "end": 177.06,
+          "word": " station"
+        },
+        {
+          "start": 177.06,
+          "end": 178.08,
+          "word": " with"
+        },
+        {
+          "start": 178.08,
+          "end": 178.36,
+          "word": " this"
+        },
+        {
+          "start": 178.36,
+          "end": 179.4,
+          "word": " bus"
+        },
+        {
+          "start": 179.4,
+          "end": 179.82,
+          "word": " driver"
+        },
+        {
+          "start": 179.82,
+          "end": 180.02,
+          "word": " back"
+        },
+        {
+          "start": 180.02,
+          "end": 180.2,
+          "word": " in"
+        },
+        {
+          "start": 180.2,
+          "end": 180.28,
+          "word": " the"
+        },
+        {
+          "start": 180.28,
+          "end": 180.48,
+          "word": " day."
+        }
+      ]
+    },
+    {
+      "start": 180.54,
+      "end": 182.82,
+      "text": "I don't know if he's still a bus driver or not from Marin Transit.",
+      "words": [
+        {
+          "start": 180.54,
+          "end": 180.6,
+          "word": " I"
+        },
+        {
+          "start": 180.6,
+          "end": 180.7,
+          "word": " don't"
+        },
+        {
+          "start": 180.7,
+          "end": 180.8,
+          "word": " know"
+        },
+        {
+          "start": 180.8,
+          "end": 180.88,
+          "word": " if"
+        },
+        {
+          "start": 180.88,
+          "end": 181.06,
+          "word": " he's"
+        },
+        {
+          "start": 181.06,
+          "end": 181.18,
+          "word": " still"
+        },
+        {
+          "start": 181.18,
+          "end": 181.28,
+          "word": " a"
+        },
+        {
+          "start": 181.28,
+          "end": 181.42,
+          "word": " bus"
+        },
+        {
+          "start": 181.42,
+          "end": 181.72,
+          "word": " driver"
+        },
+        {
+          "start": 181.72,
+          "end": 181.88,
+          "word": " or"
+        },
+        {
+          "start": 181.88,
+          "end": 182.0,
+          "word": " not"
+        },
+        {
+          "start": 182.0,
+          "end": 182.22,
+          "word": " from"
+        },
+        {
+          "start": 182.22,
+          "end": 182.42,
+          "word": " Marin"
+        },
+        {
+          "start": 182.42,
+          "end": 182.82,
+          "word": " Transit."
+        }
+      ]
+    },
+    {
+      "start": 183.66,
+      "end": 186.02,
+      "text": "Larry, I remember going to touch his bus.",
+      "words": [
+        {
+          "start": 183.66,
+          "end": 184.06,
+          "word": " Larry,"
+        },
+        {
+          "start": 184.54,
+          "end": 184.78,
+          "word": " I"
+        },
+        {
+          "start": 184.78,
+          "end": 184.98,
+          "word": " remember"
+        },
+        {
+          "start": 184.98,
+          "end": 185.28,
+          "word": " going"
+        },
+        {
+          "start": 185.28,
+          "end": 185.42,
+          "word": " to"
+        },
+        {
+          "start": 185.42,
+          "end": 185.64,
+          "word": " touch"
+        },
+        {
+          "start": 185.64,
+          "end": 185.82,
+          "word": " his"
+        },
+        {
+          "start": 185.82,
+          "end": 186.02,
+          "word": " bus."
+        }
+      ]
+    },
+    {
+      "start": 186.2,
+      "end": 194.62,
+      "text": "I remember sitting in the driver's seat and getting to pretend that I was the driver and I got to start the bus and all this stuff, you know.",
+      "words": [
+        {
+          "start": 186.2,
+          "end": 186.3,
+          "word": " I"
+        },
+        {
+          "start": 186.3,
+          "end": 186.58,
+          "word": " remember"
+        },
+        {
+          "start": 186.58,
+          "end": 187.54,
+          "word": " sitting"
+        },
+        {
+          "start": 187.54,
+          "end": 187.74,
+          "word": " in"
+        },
+        {
+          "start": 187.74,
+          "end": 187.82,
+          "word": " the"
+        },
+        {
+          "start": 187.82,
+          "end": 188.3,
+          "word": " driver's"
+        },
+        {
+          "start": 188.3,
+          "end": 188.56,
+          "word": " seat"
+        },
+        {
+          "start": 188.56,
+          "end": 189.08,
+          "word": " and"
+        },
+        {
+          "start": 189.08,
+          "end": 190.22,
+          "word": " getting"
+        },
+        {
+          "start": 190.22,
+          "end": 190.6,
+          "word": " to"
+        },
+        {
+          "start": 190.6,
+          "end": 191.18,
+          "word": " pretend"
+        },
+        {
+          "start": 191.18,
+          "end": 191.42,
+          "word": " that"
+        },
+        {
+          "start": 191.42,
+          "end": 191.52,
+          "word": " I"
+        },
+        {
+          "start": 191.52,
+          "end": 191.7,
+          "word": " was"
+        },
+        {
+          "start": 191.7,
+          "end": 191.8,
+          "word": " the"
+        },
+        {
+          "start": 191.8,
+          "end": 192.12,
+          "word": " driver"
+        },
+        {
+          "start": 192.12,
+          "end": 192.4,
+          "word": " and"
+        },
+        {
+          "start": 192.4,
+          "end": 192.5,
+          "word": " I"
+        },
+        {
+          "start": 192.5,
+          "end": 192.6,
+          "word": " got"
+        },
+        {
+          "start": 192.6,
+          "end": 192.78,
+          "word": " to"
+        },
+        {
+          "start": 192.78,
+          "end": 193.0,
+          "word": " start"
+        },
+        {
+          "start": 193.0,
+          "end": 193.16,
+          "word": " the"
+        },
+        {
+          "start": 193.16,
+          "end": 193.44,
+          "word": " bus"
+        },
+        {
+          "start": 193.44,
+          "end": 193.66,
+          "word": " and"
+        },
+        {
+          "start": 193.66,
+          "end": 193.8,
+          "word": " all"
+        },
+        {
+          "start": 193.8,
+          "end": 193.96,
+          "word": " this"
+        },
+        {
+          "start": 193.96,
+          "end": 194.26,
+          "word": " stuff,"
+        },
+        {
+          "start": 194.3,
+          "end": 194.46,
+          "word": " you"
+        },
+        {
+          "start": 194.46,
+          "end": 194.62,
+          "word": " know."
+        }
+      ]
+    },
+    {
+      "start": 195.7,
+      "end": 197.86,
+      "text": "You know, those are just great times.",
+      "words": [
+        {
+          "start": 195.7,
+          "end": 196.16,
+          "word": " You"
+        },
+        {
+          "start": 196.16,
+          "end": 196.2,
+          "word": " know,"
+        },
+        {
+          "start": 196.32,
+          "end": 196.96,
+          "word": " those"
+        },
+        {
+          "start": 196.96,
+          "end": 197.14,
+          "word": " are"
+        },
+        {
+          "start": 197.14,
+          "end": 197.32,
+          "word": " just"
+        },
+        {
+          "start": 197.32,
+          "end": 197.54,
+          "word": " great"
+        },
+        {
+          "start": 197.54,
+          "end": 197.86,
+          "word": " times."
+        }
+      ]
+    },
+    {
+      "start": 198.06,
+      "end": 205.94,
+      "text": "You know, I kind of wish that, you know, if I had a time travel machine, I would for sure go back to being your student once again.",
+      "words": [
+        {
+          "start": 198.06,
+          "end": 198.06,
+          "word": " You"
+        },
+        {
+          "start": 198.06,
+          "end": 198.18,
+          "word": " know,"
+        },
+        {
+          "start": 198.3,
+          "end": 198.62,
+          "word": " I"
+        },
+        {
+          "start": 198.62,
+          "end": 198.86,
+          "word": " kind"
+        },
+        {
+          "start": 198.86,
+          "end": 198.96,
+          "word": " of"
+        },
+        {
+          "start": 198.96,
+          "end": 199.14,
+          "word": " wish"
+        },
+        {
+          "start": 199.14,
+          "end": 199.46,
+          "word": " that,"
+        },
+        {
+          "start": 199.94,
+          "end": 200.42,
+          "word": " you"
+        },
+        {
+          "start": 200.42,
+          "end": 200.46,
+          "word": " know,"
+        },
+        {
+          "start": 200.5,
+          "end": 200.6,
+          "word": " if"
+        },
+        {
+          "start": 200.6,
+          "end": 200.66,
+          "word": " I"
+        },
+        {
+          "start": 200.66,
+          "end": 200.8,
+          "word": " had"
+        },
+        {
+          "start": 200.8,
+          "end": 200.88,
+          "word": " a"
+        },
+        {
+          "start": 200.88,
+          "end": 201.12,
+          "word": " time"
+        },
+        {
+          "start": 201.12,
+          "end": 201.98,
+          "word": " travel"
+        },
+        {
+          "start": 201.98,
+          "end": 202.34,
+          "word": " machine,"
+        },
+        {
+          "start": 202.86,
+          "end": 203.18,
+          "word": " I"
+        },
+        {
+          "start": 203.18,
+          "end": 203.32,
+          "word": " would"
+        },
+        {
+          "start": 203.32,
+          "end": 203.48,
+          "word": " for"
+        },
+        {
+          "start": 203.48,
+          "end": 203.66,
+          "word": " sure"
+        },
+        {
+          "start": 203.66,
+          "end": 203.84,
+          "word": " go"
+        },
+        {
+          "start": 203.84,
+          "end": 204.1,
+          "word": " back"
+        },
+        {
+          "start": 204.1,
+          "end": 204.36,
+          "word": " to"
+        },
+        {
+          "start": 204.36,
+          "end": 204.94,
+          "word": " being"
+        },
+        {
+          "start": 204.94,
+          "end": 205.12,
+          "word": " your"
+        },
+        {
+          "start": 205.12,
+          "end": 205.42,
+          "word": " student"
+        },
+        {
+          "start": 205.42,
+          "end": 205.62,
+          "word": " once"
+        },
+        {
+          "start": 205.62,
+          "end": 205.94,
+          "word": " again."
+        }
+      ]
+    },
+    {
+      "start": 206.62,
+      "end": 208.24,
+      "text": "You were truly an amazing teacher.",
+      "words": [
+        {
+          "start": 206.62,
+          "end": 206.84,
+          "word": " You"
+        },
+        {
+          "start": 206.84,
+          "end": 206.96,
+          "word": " were"
+        },
+        {
+          "start": 206.96,
+          "end": 207.26,
+          "word": " truly"
+        },
+        {
+          "start": 207.26,
+          "end": 207.46,
+          "word": " an"
+        },
+        {
+          "start": 207.46,
+          "end": 207.76,
+          "word": " amazing"
+        },
+        {
+          "start": 207.76,
+          "end": 208.24,
+          "word": " teacher."
+        }
+      ]
+    },
+    {
+      "start": 208.46,
+      "end": 211.88,
+      "text": "You still are, even though you're not a teacher anymore, but you still are.",
+      "words": [
+        {
+          "start": 208.46,
+          "end": 208.52,
+          "word": " You"
+        },
+        {
+          "start": 208.52,
+          "end": 208.82,
+          "word": " still"
+        },
+        {
+          "start": 208.82,
+          "end": 209.14,
+          "word": " are,"
+        },
+        {
+          "start": 209.38,
+          "end": 209.56,
+          "word": " even"
+        },
+        {
+          "start": 209.56,
+          "end": 209.76,
+          "word": " though"
+        },
+        {
+          "start": 209.76,
+          "end": 209.88,
+          "word": " you're"
+        },
+        {
+          "start": 209.88,
+          "end": 210.0,
+          "word": " not"
+        },
+        {
+          "start": 210.0,
+          "end": 210.14,
+          "word": " a"
+        },
+        {
+          "start": 210.14,
+          "end": 210.38,
+          "word": " teacher"
+        },
+        {
+          "start": 210.38,
+          "end": 210.72,
+          "word": " anymore,"
+        },
+        {
+          "start": 210.86,
+          "end": 211.0,
+          "word": " but"
+        },
+        {
+          "start": 211.0,
+          "end": 211.34,
+          "word": " you"
+        },
+        {
+          "start": 211.34,
+          "end": 211.58,
+          "word": " still"
+        },
+        {
+          "start": 211.58,
+          "end": 211.88,
+          "word": " are."
+        }
+      ]
+    },
+    {
+      "start": 211.96,
+      "end": 217.06,
+      "text": "You're an amazing and very kind and warm hearted person.",
+      "words": [
+        {
+          "start": 211.96,
+          "end": 212.18,
+          "word": " You're"
+        },
+        {
+          "start": 212.18,
+          "end": 212.36,
+          "word": " an"
+        },
+        {
+          "start": 212.36,
+          "end": 212.66,
+          "word": " amazing"
+        },
+        {
+          "start": 212.66,
+          "end": 213.84,
+          "word": " and"
+        },
+        {
+          "start": 213.84,
+          "end": 214.72,
+          "word": " very"
+        },
+        {
+          "start": 214.72,
+          "end": 215.08,
+          "word": " kind"
+        },
+        {
+          "start": 215.08,
+          "end": 215.48,
+          "word": " and"
+        },
+        {
+          "start": 215.48,
+          "end": 216.34,
+          "word": " warm"
+        },
+        {
+          "start": 216.34,
+          "end": 216.74,
+          "word": " hearted"
+        },
+        {
+          "start": 216.74,
+          "end": 217.06,
+          "word": " person."
+        }
+      ]
+    },
+    {
+      "start": 217.06,
+      "end": 225.14,
+      "text": "And I'm really thankful to have met you and been, and I'm really thankful to have been your student and work with you.",
+      "words": [
+        {
+          "start": 217.06,
+          "end": 217.34,
+          "word": " And"
+        },
+        {
+          "start": 217.34,
+          "end": 217.68,
+          "word": " I'm"
+        },
+        {
+          "start": 217.68,
+          "end": 217.9,
+          "word": " really"
+        },
+        {
+          "start": 217.9,
+          "end": 218.28,
+          "word": " thankful"
+        },
+        {
+          "start": 218.28,
+          "end": 219.04,
+          "word": " to"
+        },
+        {
+          "start": 219.04,
+          "end": 219.18,
+          "word": " have"
+        },
+        {
+          "start": 219.18,
+          "end": 219.32,
+          "word": " met"
+        },
+        {
+          "start": 219.32,
+          "end": 219.58,
+          "word": " you"
+        },
+        {
+          "start": 219.58,
+          "end": 219.9,
+          "word": " and"
+        },
+        {
+          "start": 219.9,
+          "end": 220.32,
+          "word": " been,"
+        },
+        {
+          "start": 220.4,
+          "end": 220.64,
+          "word": " and"
+        },
+        {
+          "start": 220.64,
+          "end": 220.84,
+          "word": " I'm"
+        },
+        {
+          "start": 220.84,
+          "end": 221.06,
+          "word": " really"
+        },
+        {
+          "start": 221.06,
+          "end": 221.36,
+          "word": " thankful"
+        },
+        {
+          "start": 221.36,
+          "end": 221.76,
+          "word": " to"
+        },
+        {
+          "start": 221.76,
+          "end": 222.2,
+          "word": " have"
+        },
+        {
+          "start": 222.2,
+          "end": 223.44,
+          "word": " been"
+        },
+        {
+          "start": 223.44,
+          "end": 223.62,
+          "word": " your"
+        },
+        {
+          "start": 223.62,
+          "end": 224.0,
+          "word": " student"
+        },
+        {
+          "start": 224.0,
+          "end": 224.44,
+          "word": " and"
+        },
+        {
+          "start": 224.44,
+          "end": 224.74,
+          "word": " work"
+        },
+        {
+          "start": 224.74,
+          "end": 224.96,
+          "word": " with"
+        },
+        {
+          "start": 224.96,
+          "end": 225.14,
+          "word": " you."
+        }
+      ]
+    },
+    {
+      "start": 225.34,
+      "end": 227.02,
+      "text": "You know, you taught me so many great things.",
+      "words": [
+        {
+          "start": 225.34,
+          "end": 225.34,
+          "word": " You"
+        },
+        {
+          "start": 225.34,
+          "end": 225.46,
+          "word": " know,"
+        },
+        {
+          "start": 225.52,
+          "end": 225.64,
+          "word": " you"
+        },
+        {
+          "start": 225.64,
+          "end": 225.82,
+          "word": " taught"
+        },
+        {
+          "start": 225.82,
+          "end": 225.94,
+          "word": " me"
+        },
+        {
+          "start": 225.94,
+          "end": 226.14,
+          "word": " so"
+        },
+        {
+          "start": 226.14,
+          "end": 226.32,
+          "word": " many"
+        },
+        {
+          "start": 226.32,
+          "end": 226.56,
+          "word": " great"
+        },
+        {
+          "start": 226.56,
+          "end": 227.02,
+          "word": " things."
+        }
+      ]
+    },
+    {
+      "start": 227.8,
+      "end": 231.96,
+      "text": "You know, you truly, you truly are one of the greatest O&M teachers.",
+      "words": [
+        {
+          "start": 227.8,
+          "end": 228.2,
+          "word": " You"
+        },
+        {
+          "start": 228.2,
+          "end": 228.42,
+          "word": " know,"
+        },
+        {
+          "start": 228.56,
+          "end": 228.96,
+          "word": " you"
+        },
+        {
+          "start": 228.96,
+          "end": 229.28,
+          "word": " truly,"
+        },
+        {
+          "start": 229.64,
+          "end": 229.94,
+          "word": " you"
+        },
+        {
+          "start": 229.94,
+          "end": 230.22,
+          "word": " truly"
+        },
+        {
+          "start": 230.22,
+          "end": 230.52,
+          "word": " are"
+        },
+        {
+          "start": 230.52,
+          "end": 230.72,
+          "word": " one"
+        },
+        {
+          "start": 230.72,
+          "end": 230.84,
+          "word": " of"
+        },
+        {
+          "start": 230.84,
+          "end": 230.94,
+          "word": " the"
+        },
+        {
+          "start": 230.94,
+          "end": 231.26,
+          "word": " greatest"
+        },
+        {
+          "start": 231.26,
+          "end": 231.5,
+          "word": " O"
+        },
+        {
+          "start": 231.5,
+          "end": 231.72,
+          "word": "&M"
+        },
+        {
+          "start": 231.72,
+          "end": 231.96,
+          "word": " teachers."
+        }
+      ]
+    },
+    {
+      "start": 232.3,
+      "end": 240.14,
+      "text": "And, you know, thanks to you, you know, now, you know, there's so many great O&M teachers in the MCOE department.",
+      "words": [
+        {
+          "start": 232.3,
+          "end": 232.3,
+          "word": " And,"
+        },
+        {
+          "start": 232.9,
+          "end": 233.08,
+          "word": " you"
+        },
+        {
+          "start": 233.08,
+          "end": 233.3,
+          "word": " know,"
+        },
+        {
+          "start": 233.62,
+          "end": 234.88,
+          "word": " thanks"
+        },
+        {
+          "start": 234.88,
+          "end": 235.14,
+          "word": " to"
+        },
+        {
+          "start": 235.14,
+          "end": 235.4,
+          "word": " you,"
+        },
+        {
+          "start": 235.56,
+          "end": 235.64,
+          "word": " you"
+        },
+        {
+          "start": 235.64,
+          "end": 235.82,
+          "word": " know,"
+        },
+        {
+          "start": 235.98,
+          "end": 236.18,
+          "word": " now,"
+        },
+        {
+          "start": 237.18,
+          "end": 237.34,
+          "word": " you"
+        },
+        {
+          "start": 237.34,
+          "end": 237.48,
+          "word": " know,"
+        },
+        {
+          "start": 237.5,
+          "end": 237.74,
+          "word": " there's"
+        },
+        {
+          "start": 237.74,
+          "end": 237.84,
+          "word": " so"
+        },
+        {
+          "start": 237.84,
+          "end": 238.02,
+          "word": " many"
+        },
+        {
+          "start": 238.02,
+          "end": 238.26,
+          "word": " great"
+        },
+        {
+          "start": 238.26,
+          "end": 238.46,
+          "word": " O"
+        },
+        {
+          "start": 238.46,
+          "end": 238.7,
+          "word": "&M"
+        },
+        {
+          "start": 238.7,
+          "end": 238.98,
+          "word": " teachers"
+        },
+        {
+          "start": 238.98,
+          "end": 239.22,
+          "word": " in"
+        },
+        {
+          "start": 239.22,
+          "end": 239.36,
+          "word": " the"
+        },
+        {
+          "start": 239.36,
+          "end": 239.84,
+          "word": " MCOE"
+        },
+        {
+          "start": 239.84,
+          "end": 240.14,
+          "word": " department."
+        }
+      ]
+    },
+    {
+      "start": 240.7,
+      "end": 249.48,
+      "text": "You know, so many great O&M teachers in the scene, you know, melody, everyone, you know, they're really amazing.",
+      "words": [
+        {
+          "start": 240.7,
+          "end": 241.1,
+          "word": " You"
+        },
+        {
+          "start": 241.1,
+          "end": 241.3,
+          "word": " know,"
+        },
+        {
+          "start": 241.36,
+          "end": 241.54,
+          "word": " so"
+        },
+        {
+          "start": 241.54,
+          "end": 241.74,
+          "word": " many"
+        },
+        {
+          "start": 241.74,
+          "end": 242.14,
+          "word": " great"
+        },
+        {
+          "start": 242.14,
+          "end": 243.2,
+          "word": " O"
+        },
+        {
+          "start": 243.2,
+          "end": 243.42,
+          "word": "&M"
+        },
+        {
+          "start": 243.42,
+          "end": 243.74,
+          "word": " teachers"
+        },
+        {
+          "start": 243.74,
+          "end": 244.68,
+          "word": " in"
+        },
+        {
+          "start": 244.68,
+          "end": 244.8,
+          "word": " the"
+        },
+        {
+          "start": 244.8,
+          "end": 245.06,
+          "word": " scene,"
+        },
+        {
+          "start": 245.56,
+          "end": 245.58,
+          "word": " you"
+        },
+        {
+          "start": 245.58,
+          "end": 245.72,
+          "word": " know,"
+        },
+        {
+          "start": 245.74,
+          "end": 246.14,
+          "word": " melody,"
+        },
+        {
+          "start": 246.9,
+          "end": 247.48,
+          "word": " everyone,"
+        },
+        {
+          "start": 247.8,
+          "end": 247.9,
+          "word": " you"
+        },
+        {
+          "start": 247.9,
+          "end": 248.08,
+          "word": " know,"
+        },
+        {
+          "start": 248.58,
+          "end": 248.8,
+          "word": " they're"
+        },
+        {
+          "start": 248.8,
+          "end": 249.06,
+          "word": " really"
+        },
+        {
+          "start": 249.06,
+          "end": 249.48,
+          "word": " amazing."
+        }
+      ]
+    },
+    {
+      "start": 249.78,
+      "end": 252.34,
+      "text": "And, you know, you've taught them so many great things, too.",
+      "words": [
+        {
+          "start": 249.78,
+          "end": 249.8,
+          "word": " And,"
+        },
+        {
+          "start": 250.3,
+          "end": 250.46,
+          "word": " you"
+        },
+        {
+          "start": 250.46,
+          "end": 250.56,
+          "word": " know,"
+        },
+        {
+          "start": 250.62,
+          "end": 250.78,
+          "word": " you've"
+        },
+        {
+          "start": 250.78,
+          "end": 250.96,
+          "word": " taught"
+        },
+        {
+          "start": 250.96,
+          "end": 251.24,
+          "word": " them"
+        },
+        {
+          "start": 251.24,
+          "end": 251.42,
+          "word": " so"
+        },
+        {
+          "start": 251.42,
+          "end": 251.6,
+          "word": " many"
+        },
+        {
+          "start": 251.6,
+          "end": 251.84,
+          "word": " great"
+        },
+        {
+          "start": 251.84,
+          "end": 252.12,
+          "word": " things,"
+        },
+        {
+          "start": 252.22,
+          "end": 252.34,
+          "word": " too."
+        }
+      ]
+    },
+    {
+      "start": 252.42,
+      "end": 266.1,
+      "text": "And I'm really grateful for that because, you know, now they are O&M teachers and now they're teaching other students, including myself, all these, you know, great things that you've taught me to, even though I was a student, you know.",
+      "words": [
+        {
+          "start": 252.42,
+          "end": 252.44,
+          "word": " And"
+        },
+        {
+          "start": 252.44,
+          "end": 252.56,
+          "word": " I'm"
+        },
+        {
+          "start": 252.56,
+          "end": 252.74,
+          "word": " really"
+        },
+        {
+          "start": 252.74,
+          "end": 253.12,
+          "word": " grateful"
+        },
+        {
+          "start": 253.12,
+          "end": 253.34,
+          "word": " for"
+        },
+        {
+          "start": 253.34,
+          "end": 253.54,
+          "word": " that"
+        },
+        {
+          "start": 253.54,
+          "end": 253.8,
+          "word": " because,"
+        },
+        {
+          "start": 253.96,
+          "end": 254.02,
+          "word": " you"
+        },
+        {
+          "start": 254.02,
+          "end": 254.2,
+          "word": " know,"
+        },
+        {
+          "start": 255.08,
+          "end": 255.68,
+          "word": " now"
+        },
+        {
+          "start": 255.68,
+          "end": 255.98,
+          "word": " they"
+        },
+        {
+          "start": 255.98,
+          "end": 256.16,
+          "word": " are"
+        },
+        {
+          "start": 256.16,
+          "end": 256.36,
+          "word": " O"
+        },
+        {
+          "start": 256.36,
+          "end": 256.56,
+          "word": "&M"
+        },
+        {
+          "start": 256.56,
+          "end": 256.84,
+          "word": " teachers"
+        },
+        {
+          "start": 256.84,
+          "end": 257.12,
+          "word": " and"
+        },
+        {
+          "start": 257.12,
+          "end": 257.36,
+          "word": " now"
+        },
+        {
+          "start": 257.36,
+          "end": 258.54,
+          "word": " they're"
+        },
+        {
+          "start": 258.54,
+          "end": 258.86,
+          "word": " teaching"
+        },
+        {
+          "start": 258.86,
+          "end": 259.66,
+          "word": " other"
+        },
+        {
+          "start": 259.66,
+          "end": 260.08,
+          "word": " students,"
+        },
+        {
+          "start": 260.12,
+          "end": 260.42,
+          "word": " including"
+        },
+        {
+          "start": 260.42,
+          "end": 260.94,
+          "word": " myself,"
+        },
+        {
+          "start": 261.24,
+          "end": 261.48,
+          "word": " all"
+        },
+        {
+          "start": 261.48,
+          "end": 261.74,
+          "word": " these,"
+        },
+        {
+          "start": 261.8,
+          "end": 262.68,
+          "word": " you"
+        },
+        {
+          "start": 262.68,
+          "end": 262.78,
+          "word": " know,"
+        },
+        {
+          "start": 262.8,
+          "end": 263.0,
+          "word": " great"
+        },
+        {
+          "start": 263.0,
+          "end": 263.28,
+          "word": " things"
+        },
+        {
+          "start": 263.28,
+          "end": 263.48,
+          "word": " that"
+        },
+        {
+          "start": 263.48,
+          "end": 263.72,
+          "word": " you've"
+        },
+        {
+          "start": 263.72,
+          "end": 263.88,
+          "word": " taught"
+        },
+        {
+          "start": 263.88,
+          "end": 264.08,
+          "word": " me"
+        },
+        {
+          "start": 264.08,
+          "end": 264.32,
+          "word": " to,"
+        },
+        {
+          "start": 264.46,
+          "end": 264.64,
+          "word": " even"
+        },
+        {
+          "start": 264.64,
+          "end": 264.84,
+          "word": " though"
+        },
+        {
+          "start": 264.84,
+          "end": 265.2,
+          "word": " I"
+        },
+        {
+          "start": 265.2,
+          "end": 265.36,
+          "word": " was"
+        },
+        {
+          "start": 265.36,
+          "end": 265.48,
+          "word": " a"
+        },
+        {
+          "start": 265.48,
+          "end": 265.7,
+          "word": " student,"
+        },
+        {
+          "start": 265.82,
+          "end": 265.96,
+          "word": " you"
+        },
+        {
+          "start": 265.96,
+          "end": 266.1,
+          "word": " know."
+        }
+      ]
+    },
+    {
+      "start": 266.1,
+      "end": 271.08,
+      "text": "And I'm pretty sure all of them were students of yours, too, you know.",
+      "words": [
+        {
+          "start": 266.1,
+          "end": 266.72,
+          "word": " And"
+        },
+        {
+          "start": 266.72,
+          "end": 266.9,
+          "word": " I'm"
+        },
+        {
+          "start": 266.9,
+          "end": 267.14,
+          "word": " pretty"
+        },
+        {
+          "start": 267.14,
+          "end": 267.46,
+          "word": " sure"
+        },
+        {
+          "start": 267.46,
+          "end": 268.74,
+          "word": " all"
+        },
+        {
+          "start": 268.74,
+          "end": 268.86,
+          "word": " of"
+        },
+        {
+          "start": 268.86,
+          "end": 269.0,
+          "word": " them"
+        },
+        {
+          "start": 269.0,
+          "end": 269.16,
+          "word": " were"
+        },
+        {
+          "start": 269.16,
+          "end": 270.0,
+          "word": " students"
+        },
+        {
+          "start": 270.0,
+          "end": 270.26,
+          "word": " of"
+        },
+        {
+          "start": 270.26,
+          "end": 270.46,
+          "word": " yours,"
+        },
+        {
+          "start": 270.62,
+          "end": 270.74,
+          "word": " too,"
+        },
+        {
+          "start": 270.8,
+          "end": 270.94,
+          "word": " you"
+        },
+        {
+          "start": 270.94,
+          "end": 271.08,
+          "word": " know."
+        }
+      ]
+    },
+    {
+      "start": 272.12,
+      "end": 273.42,
+      "text": "So that's great, you know.",
+      "words": [
+        {
+          "start": 272.12,
+          "end": 272.52,
+          "word": " So"
+        },
+        {
+          "start": 272.52,
+          "end": 272.92,
+          "word": " that's"
+        },
+        {
+          "start": 272.92,
+          "end": 273.14,
+          "word": " great,"
+        },
+        {
+          "start": 273.26,
+          "end": 273.3,
+          "word": " you"
+        },
+        {
+          "start": 273.3,
+          "end": 273.42,
+          "word": " know."
+        }
+      ]
+    },
+    {
+      "start": 273.68,
+      "end": 282.9,
+      "text": "And, you know, we have so many great, amazing people at the MCOE department, you know, and you were one of them and you are one of them.",
+      "words": [
+        {
+          "start": 273.68,
+          "end": 273.82,
+          "word": " And,"
+        },
+        {
+          "start": 274.12,
+          "end": 274.32,
+          "word": " you"
+        },
+        {
+          "start": 274.32,
+          "end": 274.48,
+          "word": " know,"
+        },
+        {
+          "start": 274.82,
+          "end": 275.04,
+          "word": " we"
+        },
+        {
+          "start": 275.04,
+          "end": 275.18,
+          "word": " have"
+        },
+        {
+          "start": 275.18,
+          "end": 275.38,
+          "word": " so"
+        },
+        {
+          "start": 275.38,
+          "end": 275.56,
+          "word": " many"
+        },
+        {
+          "start": 275.56,
+          "end": 275.98,
+          "word": " great,"
+        },
+        {
+          "start": 276.16,
+          "end": 276.7,
+          "word": " amazing"
+        },
+        {
+          "start": 276.7,
+          "end": 277.72,
+          "word": " people"
+        },
+        {
+          "start": 277.72,
+          "end": 277.96,
+          "word": " at"
+        },
+        {
+          "start": 277.96,
+          "end": 278.08,
+          "word": " the"
+        },
+        {
+          "start": 278.08,
+          "end": 278.5,
+          "word": " MCOE"
+        },
+        {
+          "start": 278.5,
+          "end": 278.82,
+          "word": " department,"
+        },
+        {
+          "start": 279.3,
+          "end": 279.82,
+          "word": " you"
+        },
+        {
+          "start": 279.82,
+          "end": 280.0,
+          "word": " know,"
+        },
+        {
+          "start": 280.16,
+          "end": 280.26,
+          "word": " and"
+        },
+        {
+          "start": 280.26,
+          "end": 281.12,
+          "word": " you"
+        },
+        {
+          "start": 281.12,
+          "end": 281.3,
+          "word": " were"
+        },
+        {
+          "start": 281.3,
+          "end": 281.52,
+          "word": " one"
+        },
+        {
+          "start": 281.52,
+          "end": 281.66,
+          "word": " of"
+        },
+        {
+          "start": 281.66,
+          "end": 281.82,
+          "word": " them"
+        },
+        {
+          "start": 281.82,
+          "end": 281.94,
+          "word": " and"
+        },
+        {
+          "start": 281.94,
+          "end": 282.14,
+          "word": " you"
+        },
+        {
+          "start": 282.14,
+          "end": 282.3,
+          "word": " are"
+        },
+        {
+          "start": 282.3,
+          "end": 282.5,
+          "word": " one"
+        },
+        {
+          "start": 282.5,
+          "end": 282.62,
+          "word": " of"
+        },
+        {
+          "start": 282.62,
+          "end": 282.9,
+          "word": " them."
+        }
+      ]
+    },
+    {
+      "start": 283.36,
+      "end": 284.88,
+      "text": "So I gotta thank you for it.",
+      "words": [
+        {
+          "start": 283.36,
+          "end": 283.72,
+          "word": " So"
+        },
+        {
+          "start": 283.72,
+          "end": 283.86,
+          "word": " I"
+        },
+        {
+          "start": 283.86,
+          "end": 284.02,
+          "word": " gotta"
+        },
+        {
+          "start": 284.02,
+          "end": 284.32,
+          "word": " thank"
+        },
+        {
+          "start": 284.32,
+          "end": 284.46,
+          "word": " you"
+        },
+        {
+          "start": 284.46,
+          "end": 284.7,
+          "word": " for"
+        },
+        {
+          "start": 284.7,
+          "end": 284.88,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 284.96,
+      "end": 287.48,
+      "text": "And I really hope you enjoy your 75th birthday.",
+      "words": [
+        {
+          "start": 284.96,
+          "end": 285.14,
+          "word": " And"
+        },
+        {
+          "start": 285.14,
+          "end": 285.44,
+          "word": " I"
+        },
+        {
+          "start": 285.44,
+          "end": 285.68,
+          "word": " really"
+        },
+        {
+          "start": 285.68,
+          "end": 285.9,
+          "word": " hope"
+        },
+        {
+          "start": 285.9,
+          "end": 286.06,
+          "word": " you"
+        },
+        {
+          "start": 286.06,
+          "end": 286.32,
+          "word": " enjoy"
+        },
+        {
+          "start": 286.32,
+          "end": 286.48,
+          "word": " your"
+        },
+        {
+          "start": 286.48,
+          "end": 287.14,
+          "word": " 75th"
+        },
+        {
+          "start": 287.14,
+          "end": 287.48,
+          "word": " birthday."
+        }
+      ]
+    },
+    {
+      "start": 288.16,
+      "end": 294.64,
+      "text": "You know, please say hi to Howard for me and I hope you, you know, stay safe, stay healthy, you know.",
+      "words": [
+        {
+          "start": 288.16,
+          "end": 288.56,
+          "word": " You"
+        },
+        {
+          "start": 288.56,
+          "end": 288.78,
+          "word": " know,"
+        },
+        {
+          "start": 288.84,
+          "end": 289.12,
+          "word": " please"
+        },
+        {
+          "start": 289.12,
+          "end": 289.36,
+          "word": " say"
+        },
+        {
+          "start": 289.36,
+          "end": 289.52,
+          "word": " hi"
+        },
+        {
+          "start": 289.52,
+          "end": 289.64,
+          "word": " to"
+        },
+        {
+          "start": 289.64,
+          "end": 289.88,
+          "word": " Howard"
+        },
+        {
+          "start": 289.88,
+          "end": 290.22,
+          "word": " for"
+        },
+        {
+          "start": 290.22,
+          "end": 290.44,
+          "word": " me"
+        },
+        {
+          "start": 290.44,
+          "end": 290.7,
+          "word": " and"
+        },
+        {
+          "start": 290.7,
+          "end": 290.94,
+          "word": " I"
+        },
+        {
+          "start": 290.94,
+          "end": 291.1,
+          "word": " hope"
+        },
+        {
+          "start": 291.1,
+          "end": 291.36,
+          "word": " you,"
+        },
+        {
+          "start": 291.38,
+          "end": 291.54,
+          "word": " you"
+        },
+        {
+          "start": 291.54,
+          "end": 291.66,
+          "word": " know,"
+        },
+        {
+          "start": 291.66,
+          "end": 291.92,
+          "word": " stay"
+        },
+        {
+          "start": 291.92,
+          "end": 292.36,
+          "word": " safe,"
+        },
+        {
+          "start": 292.38,
+          "end": 292.74,
+          "word": " stay"
+        },
+        {
+          "start": 292.74,
+          "end": 294.08,
+          "word": " healthy,"
+        },
+        {
+          "start": 294.28,
+          "end": 294.44,
+          "word": " you"
+        },
+        {
+          "start": 294.44,
+          "end": 294.64,
+          "word": " know."
+        }
+      ]
+    },
+    {
+      "start": 296.38,
+      "end": 306.38,
+      "text": "You know, also remember the teardrop, you know, the camping, you know, the camping trailer, the, you know, the RV, whatever that thing is, you know, it's cool, you know.",
+      "words": [
+        {
+          "start": 296.38,
+          "end": 296.78,
+          "word": " You"
+        },
+        {
+          "start": 296.78,
+          "end": 297.0,
+          "word": " know,"
+        },
+        {
+          "start": 297.16,
+          "end": 297.76,
+          "word": " also"
+        },
+        {
+          "start": 297.76,
+          "end": 298.1,
+          "word": " remember"
+        },
+        {
+          "start": 298.1,
+          "end": 298.34,
+          "word": " the"
+        },
+        {
+          "start": 298.34,
+          "end": 298.8,
+          "word": " teardrop,"
+        },
+        {
+          "start": 299.04,
+          "end": 299.04,
+          "word": " you"
+        },
+        {
+          "start": 299.04,
+          "end": 299.14,
+          "word": " know,"
+        },
+        {
+          "start": 299.24,
+          "end": 299.36,
+          "word": " the"
+        },
+        {
+          "start": 299.36,
+          "end": 299.78,
+          "word": " camping,"
+        },
+        {
+          "start": 299.94,
+          "end": 300.08,
+          "word": " you"
+        },
+        {
+          "start": 300.08,
+          "end": 300.28,
+          "word": " know,"
+        },
+        {
+          "start": 300.42,
+          "end": 300.5,
+          "word": " the"
+        },
+        {
+          "start": 300.5,
+          "end": 300.8,
+          "word": " camping"
+        },
+        {
+          "start": 300.8,
+          "end": 301.22,
+          "word": " trailer,"
+        },
+        {
+          "start": 301.86,
+          "end": 301.96,
+          "word": " the,"
+        },
+        {
+          "start": 301.96,
+          "end": 302.76,
+          "word": " you"
+        },
+        {
+          "start": 302.76,
+          "end": 302.88,
+          "word": " know,"
+        },
+        {
+          "start": 302.96,
+          "end": 303.0,
+          "word": " the"
+        },
+        {
+          "start": 303.0,
+          "end": 303.22,
+          "word": " RV,"
+        },
+        {
+          "start": 303.42,
+          "end": 303.6,
+          "word": " whatever"
+        },
+        {
+          "start": 303.6,
+          "end": 303.9,
+          "word": " that"
+        },
+        {
+          "start": 303.9,
+          "end": 304.08,
+          "word": " thing"
+        },
+        {
+          "start": 304.08,
+          "end": 304.28,
+          "word": " is,"
+        },
+        {
+          "start": 304.34,
+          "end": 304.52,
+          "word": " you"
+        },
+        {
+          "start": 304.52,
+          "end": 304.62,
+          "word": " know,"
+        },
+        {
+          "start": 304.68,
+          "end": 305.06,
+          "word": " it's"
+        },
+        {
+          "start": 305.06,
+          "end": 305.98,
+          "word": " cool,"
+        },
+        {
+          "start": 306.16,
+          "end": 306.2,
+          "word": " you"
+        },
+        {
+          "start": 306.2,
+          "end": 306.38,
+          "word": " know."
+        }
+      ]
+    },
+    {
+      "start": 308.1,
+      "end": 315.36,
+      "text": "Just, you know, thank you for everything, Wendy, and we'll stay in touch always and, you know, I really hope you enjoy your birthday.",
+      "words": [
+        {
+          "start": 308.1,
+          "end": 308.52,
+          "word": " Just,"
+        },
+        {
+          "start": 308.7,
+          "end": 308.7,
+          "word": " you"
+        },
+        {
+          "start": 308.7,
+          "end": 308.8,
+          "word": " know,"
+        },
+        {
+          "start": 308.8,
+          "end": 309.0,
+          "word": " thank"
+        },
+        {
+          "start": 309.0,
+          "end": 309.14,
+          "word": " you"
+        },
+        {
+          "start": 309.14,
+          "end": 309.34,
+          "word": " for"
+        },
+        {
+          "start": 309.34,
+          "end": 309.74,
+          "word": " everything,"
+        },
+        {
+          "start": 309.82,
+          "end": 310.06,
+          "word": " Wendy,"
+        },
+        {
+          "start": 310.48,
+          "end": 310.5,
+          "word": " and"
+        },
+        {
+          "start": 310.5,
+          "end": 311.58,
+          "word": " we'll"
+        },
+        {
+          "start": 311.58,
+          "end": 311.78,
+          "word": " stay"
+        },
+        {
+          "start": 311.78,
+          "end": 311.96,
+          "word": " in"
+        },
+        {
+          "start": 311.96,
+          "end": 312.14,
+          "word": " touch"
+        },
+        {
+          "start": 312.14,
+          "end": 312.58,
+          "word": " always"
+        },
+        {
+          "start": 312.58,
+          "end": 312.94,
+          "word": " and,"
+        },
+        {
+          "start": 312.96,
+          "end": 313.64,
+          "word": " you"
+        },
+        {
+          "start": 313.64,
+          "end": 313.76,
+          "word": " know,"
+        },
+        {
+          "start": 313.8,
+          "end": 313.9,
+          "word": " I"
+        },
+        {
+          "start": 313.9,
+          "end": 314.14,
+          "word": " really"
+        },
+        {
+          "start": 314.14,
+          "end": 314.36,
+          "word": " hope"
+        },
+        {
+          "start": 314.36,
+          "end": 314.54,
+          "word": " you"
+        },
+        {
+          "start": 314.54,
+          "end": 314.84,
+          "word": " enjoy"
+        },
+        {
+          "start": 314.84,
+          "end": 315.02,
+          "word": " your"
+        },
+        {
+          "start": 315.02,
+          "end": 315.36,
+          "word": " birthday."
+        }
+      ]
+    },
+    {
+      "start": 316.76,
+      "end": 323.5,
+      "text": "75, you know, still a great age, you know, you're still young, you know, 75, still great, you know.",
+      "words": [
+        {
+          "start": 316.76,
+          "end": 317.18,
+          "word": " 75,"
+        },
+        {
+          "start": 317.48,
+          "end": 317.54,
+          "word": " you"
+        },
+        {
+          "start": 317.54,
+          "end": 317.76,
+          "word": " know,"
+        },
+        {
+          "start": 318.3,
+          "end": 318.56,
+          "word": " still"
+        },
+        {
+          "start": 318.56,
+          "end": 318.74,
+          "word": " a"
+        },
+        {
+          "start": 318.74,
+          "end": 318.86,
+          "word": " great"
+        },
+        {
+          "start": 318.86,
+          "end": 319.24,
+          "word": " age,"
+        },
+        {
+          "start": 319.46,
+          "end": 319.54,
+          "word": " you"
+        },
+        {
+          "start": 319.54,
+          "end": 319.62,
+          "word": " know,"
+        },
+        {
+          "start": 319.7,
+          "end": 319.82,
+          "word": " you're"
+        },
+        {
+          "start": 319.82,
+          "end": 320.06,
+          "word": " still"
+        },
+        {
+          "start": 320.06,
+          "end": 321.34,
+          "word": " young,"
+        },
+        {
+          "start": 321.52,
+          "end": 321.54,
+          "word": " you"
+        },
+        {
+          "start": 321.54,
+          "end": 321.66,
+          "word": " know,"
+        },
+        {
+          "start": 321.72,
+          "end": 322.18,
+          "word": " 75,"
+        },
+        {
+          "start": 322.52,
+          "end": 322.84,
+          "word": " still"
+        },
+        {
+          "start": 322.84,
+          "end": 323.14,
+          "word": " great,"
+        },
+        {
+          "start": 323.26,
+          "end": 323.36,
+          "word": " you"
+        },
+        {
+          "start": 323.36,
+          "end": 323.5,
+          "word": " know."
+        }
+      ]
+    },
+    {
+      "start": 324.3,
+      "end": 326.3,
+      "text": "So stay safe, you know, stay healthy.",
+      "words": [
+        {
+          "start": 324.3,
+          "end": 324.48,
+          "word": " So"
+        },
+        {
+          "start": 324.48,
+          "end": 324.78,
+          "word": " stay"
+        },
+        {
+          "start": 324.78,
+          "end": 325.24,
+          "word": " safe,"
+        },
+        {
+          "start": 325.54,
+          "end": 325.66,
+          "word": " you"
+        },
+        {
+          "start": 325.66,
+          "end": 325.76,
+          "word": " know,"
+        },
+        {
+          "start": 325.8,
+          "end": 325.96,
+          "word": " stay"
+        },
+        {
+          "start": 325.96,
+          "end": 326.3,
+          "word": " healthy."
+        }
+      ]
+    },
+    {
+      "start": 326.76,
+      "end": 328.52,
+      "text": "We remember you with so much love.",
+      "words": [
+        {
+          "start": 326.76,
+          "end": 326.86,
+          "word": " We"
+        },
+        {
+          "start": 326.86,
+          "end": 327.42,
+          "word": " remember"
+        },
+        {
+          "start": 327.42,
+          "end": 327.72,
+          "word": " you"
+        },
+        {
+          "start": 327.72,
+          "end": 327.9,
+          "word": " with"
+        },
+        {
+          "start": 327.9,
+          "end": 328.04,
+          "word": " so"
+        },
+        {
+          "start": 328.04,
+          "end": 328.26,
+          "word": " much"
+        },
+        {
+          "start": 328.26,
+          "end": 328.52,
+          "word": " love."
+        }
+      ]
+    },
+    {
+      "start": 328.64,
+      "end": 332.62,
+      "text": "I remember you with so much love and I really hope you enjoy your birthday.",
+      "words": [
+        {
+          "start": 328.64,
+          "end": 328.72,
+          "word": " I"
+        },
+        {
+          "start": 328.72,
+          "end": 328.92,
+          "word": " remember"
+        },
+        {
+          "start": 328.92,
+          "end": 329.22,
+          "word": " you"
+        },
+        {
+          "start": 329.22,
+          "end": 329.4,
+          "word": " with"
+        },
+        {
+          "start": 329.4,
+          "end": 329.54,
+          "word": " so"
+        },
+        {
+          "start": 329.54,
+          "end": 329.76,
+          "word": " much"
+        },
+        {
+          "start": 329.76,
+          "end": 330.08,
+          "word": " love"
+        },
+        {
+          "start": 330.08,
+          "end": 330.32,
+          "word": " and"
+        },
+        {
+          "start": 330.32,
+          "end": 331.5,
+          "word": " I"
+        },
+        {
+          "start": 331.5,
+          "end": 331.68,
+          "word": " really"
+        },
+        {
+          "start": 331.68,
+          "end": 331.86,
+          "word": " hope"
+        },
+        {
+          "start": 331.86,
+          "end": 331.98,
+          "word": " you"
+        },
+        {
+          "start": 331.98,
+          "end": 332.22,
+          "word": " enjoy"
+        },
+        {
+          "start": 332.22,
+          "end": 332.34,
+          "word": " your"
+        },
+        {
+          "start": 332.34,
+          "end": 332.62,
+          "word": " birthday."
+        }
+      ]
+    },
+    {
+      "start": 332.94,
+      "end": 335.5,
+      "text": "So happy birthday and I hope you enjoy my message.",
+      "words": [
+        {
+          "start": 332.94,
+          "end": 333.0,
+          "word": " So"
+        },
+        {
+          "start": 333.0,
+          "end": 333.28,
+          "word": " happy"
+        },
+        {
+          "start": 333.28,
+          "end": 333.62,
+          "word": " birthday"
+        },
+        {
+          "start": 333.62,
+          "end": 334.08,
+          "word": " and"
+        },
+        {
+          "start": 334.08,
+          "end": 334.48,
+          "word": " I"
+        },
+        {
+          "start": 334.48,
+          "end": 334.6,
+          "word": " hope"
+        },
+        {
+          "start": 334.6,
+          "end": 334.72,
+          "word": " you"
+        },
+        {
+          "start": 334.72,
+          "end": 335.0,
+          "word": " enjoy"
+        },
+        {
+          "start": 335.0,
+          "end": 335.16,
+          "word": " my"
+        },
+        {
+          "start": 335.16,
+          "end": 335.5,
+          "word": " message."
+        }
+      ]
+    }
+  ]
+}

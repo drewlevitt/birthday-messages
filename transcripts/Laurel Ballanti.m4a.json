@@ -1,0 +1,99 @@
+{
+  "file": "Laurel Ballanti.m4a",
+  "duration_sec": 7.8,
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.33,
+      "end": 7.03,
+      "text": "Dear Wendy, this is Laurel, and here we are singing around the campfire on the Rogue River.",
+      "words": [
+        {
+          "start": 1.33,
+          "end": 1.89,
+          "word": " Dear"
+        },
+        {
+          "start": 1.89,
+          "end": 2.31,
+          "word": " Wendy,"
+        },
+        {
+          "start": 2.71,
+          "end": 2.85,
+          "word": " this"
+        },
+        {
+          "start": 2.85,
+          "end": 3.05,
+          "word": " is"
+        },
+        {
+          "start": 3.05,
+          "end": 3.65,
+          "word": " Laurel,"
+        },
+        {
+          "start": 4.01,
+          "end": 4.23,
+          "word": " and"
+        },
+        {
+          "start": 4.23,
+          "end": 4.43,
+          "word": " here"
+        },
+        {
+          "start": 4.43,
+          "end": 4.63,
+          "word": " we"
+        },
+        {
+          "start": 4.63,
+          "end": 4.79,
+          "word": " are"
+        },
+        {
+          "start": 4.79,
+          "end": 5.13,
+          "word": " singing"
+        },
+        {
+          "start": 5.13,
+          "end": 5.47,
+          "word": " around"
+        },
+        {
+          "start": 5.47,
+          "end": 5.67,
+          "word": " the"
+        },
+        {
+          "start": 5.67,
+          "end": 6.19,
+          "word": " campfire"
+        },
+        {
+          "start": 6.19,
+          "end": 6.41,
+          "word": " on"
+        },
+        {
+          "start": 6.41,
+          "end": 6.53,
+          "word": " the"
+        },
+        {
+          "start": 6.53,
+          "end": 6.73,
+          "word": " Rogue"
+        },
+        {
+          "start": 6.73,
+          "end": 7.03,
+          "word": " River."
+        }
+      ]
+    }
+  ]
+}

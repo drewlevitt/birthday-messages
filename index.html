@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Wendy's 75th Birthday Messages</title>
+    <style>
+        :root {
+            --bg: #fdf6ee;
+            --panel: #ffffff;
+            --ink: #33261c;
+            --muted: #8a7a6a;
+            --accent: #c96b45;
+            --accent-soft: #f3d9c9;
+            --line: #ece1d4;
+            --active: #fbe8b8;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        html,
+        body {
+            height: 100%;
+        }
+
+        body {
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background: var(--bg);
+            color: var(--ink);
+        }
+
+        header {
+            flex: 0 0 auto;
+            padding: 20px 24px 12px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0 0 4px;
+            font-size: 1.6rem;
+        }
+
+        header p {
+            margin: 0;
+            color: var(--muted);
+            font-size: 0.9rem;
+        }
+
+        .layout {
+            display: flex;
+            flex: 1 1 auto;
+            min-height: 0;
+            gap: 20px;
+            max-width: 1100px;
+            width: 100%;
+            margin: 0 auto;
+            padding: 12px 20px 40px;
+            align-items: flex-start;
+        }
+
+        .sidebar {
+            flex: 0 0 320px;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            background: var(--panel);
+            border-radius: 12px;
+            padding: 16px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+        }
+
+        .filters {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-bottom: 14px;
+            padding-bottom: 14px;
+            border-bottom: 1px solid var(--line);
+        }
+
+        .filters label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            color: var(--muted);
+            margin-bottom: 3px;
+            display: block;
+        }
+
+        .play-all-btn {
+            width: 100%;
+            padding: 10px;
+            border: none;
+            border-radius: 8px;
+            background: var(--accent);
+            color: #fff;
+            font-size: 0.95rem;
+            font-weight: 600;
+            cursor: pointer;
+            margin-bottom: 12px;
+        }
+
+        .play-all-btn:hover {
+            opacity: 0.92;
+        }
+
+        .count {
+            font-size: 0.78rem;
+            color: var(--muted);
+            margin-bottom: 8px;
+        }
+
+        .rec-list {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            flex: 1 1 auto;
+            min-height: 0;
+            overflow-y: auto;
+        }
+
+        .rec-card {
+            text-align: left;
+            border: 1px solid var(--line);
+            background: #fff;
+            border-radius: 10px;
+            padding: 10px 12px;
+            cursor: pointer;
+        }
+
+        .rec-card:hover {
+            border-color: var(--accent);
+        }
+
+        .rec-card.selected {
+            border-color: var(--accent);
+            background: var(--accent-soft);
+        }
+
+        .rec-card .name {
+            font-weight: 600;
+            font-size: 0.92rem;
+        }
+
+        .rec-card .meta {
+            font-size: 0.76rem;
+            color: var(--muted);
+            margin-top: 2px;
+        }
+
+        .main {
+            flex: 1;
+            min-width: 0;
+            max-height: 100%;
+            display: flex;
+            flex-direction: column;
+            background: var(--panel);
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+        }
+
+        .main .placeholder {
+            color: var(--muted);
+            text-align: center;
+            padding: 60px 20px;
+        }
+
+        .now-playing {
+            display: flex;
+            flex-direction: column;
+            min-height: 0;
+        }
+
+        .now-playing h2 {
+            margin: 0 0 2px;
+        }
+
+        .now-playing .sub {
+            color: var(--muted);
+            font-size: 0.85rem;
+            margin-bottom: 12px;
+        }
+
+        audio {
+            width: 100%;
+            margin-bottom: 16px;
+        }
+
+        .transcript {
+            flex: 1 1 auto;
+            min-height: 0;
+            overflow-y: auto;
+            padding-right: 4px;
+        }
+
+        .seg {
+            display: flex;
+            gap: 10px;
+            padding: 6px 8px;
+            border-radius: 8px;
+            cursor: pointer;
+            line-height: 1.4;
+        }
+
+        .seg:hover {
+            background: #f5efe6;
+        }
+
+        .seg.active {
+            background: var(--active);
+        }
+
+        .seg .ts {
+            flex: 0 0 44px;
+            color: var(--muted);
+            font-size: 0.78rem;
+            font-variant-numeric: tabular-nums;
+            padding-top: 1px;
+        }
+
+        .seg .txt {
+            flex: 1;
+        }
+
+        .queue-banner {
+            display: none;
+            background: var(--accent-soft);
+            border-radius: 8px;
+            padding: 8px 12px;
+            font-size: 0.85rem;
+            margin-bottom: 12px;
+        }
+
+        .queue-banner.show {
+            display: block;
+        }
+
+        .back-btn {
+            display: none;
+            border: none;
+            background: none;
+            color: var(--accent);
+            font-size: 0.9rem;
+            font-weight: 600;
+            cursor: pointer;
+            padding: 0 0 12px;
+            margin: 0;
+        }
+
+        @media (max-width: 720px) {
+            header {
+                padding: 14px 16px 8px;
+            }
+
+            header h1 {
+                font-size: 1.3rem;
+            }
+
+            header p {
+                font-size: 0.82rem;
+            }
+
+            .layout {
+                flex-direction: column;
+                padding: 8px 12px 16px;
+                gap: 12px;
+            }
+
+            .sidebar {
+                flex: 1 1 auto;
+                width: 100%;
+            }
+
+            .main {
+                flex: 1 1 auto;
+                width: 100%;
+                max-height: none;
+                height: 100%;
+            }
+
+            /* Only one panel is visible at a time; toggled via the detail-open class. */
+            body:not(.detail-open) .main {
+                display: none;
+            }
+
+            body.detail-open .sidebar {
+                display: none;
+            }
+
+            .back-btn {
+                display: inline-block;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Wendy's 75th Birthday Messages</h1>
+        <p>Select a recording to play it, or select any line in the transcript to jump there.</p>
+    </header>
+
+    <div class="layout">
+        <div class="sidebar">
+            <button class="play-all-btn" id="playAllBtn">▶ Play all (in order shown)</button>
+
+            <div class="count" id="count"></div>
+            <div class="rec-list" id="recList"></div>
+        </div>
+
+        <div class="main" id="main">
+            <div class="placeholder">Select a recording to get started.</div>
+        </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script>
+        (function () {
+            const RECORDINGS = (window.RECORDINGS || []).slice()
+                .sort((a, b) => (a.speaker || '').localeCompare(b.speaker || ''));
+            const filtered = RECORDINGS; // kept as a separate name since loadRecording/onEnded index into it
+            let currentIndex = -1;      // index into `filtered`
+            let playAllMode = false;
+            let audioEl = null;
+            let segEls = [];
+
+            const recListEl = document.getElementById('recList');
+            const countEl = document.getElementById('count');
+            const mainEl = document.getElementById('main');
+            const playAllBtn = document.getElementById('playAllBtn');
+
+            function fmtDuration(sec) {
+                sec = Math.round(sec || 0);
+                const m = Math.floor(sec / 60), s = sec % 60;
+                return `${m}:${String(s).padStart(2, '0')}`;
+            }
+
+            function renderList() {
+                recListEl.innerHTML = '';
+                countEl.textContent = `${filtered.length} recordings`;
+                filtered.forEach((r, idx) => {
+                    const card = document.createElement('div');
+                    card.className = 'rec-card';
+                    const firstLine = (r.segments && r.segments[0] && r.segments[0].text) || '';
+                    card.innerHTML = `
+        <div class="name">${escapeHtml(r.speaker || 'Unknown')}</div>
+        <div class="meta">${fmtDuration(r.duration_sec)}</div>
+        <div class="meta">${escapeHtml(firstLine.slice(0, 60))}${firstLine.length > 60 ? '…' : ''}</div>
+      `;
+                    card.addEventListener('click', () => { playAllMode = false; loadRecording(idx); });
+                    recListEl.appendChild(card);
+                });
+                highlightSelectedCard();
+            }
+
+            function highlightSelectedCard() {
+                Array.from(recListEl.children).forEach((el, i) => {
+                    el.classList.toggle('selected', i === currentIndex);
+                });
+            }
+
+            function escapeHtml(str) {
+                return String(str).replace(/[&<>"']/g, c => ({
+                    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+                }[c]));
+            }
+
+            function loadRecording(idx) {
+                if (idx < 0 || idx >= filtered.length) return;
+                currentIndex = idx;
+                const r = filtered[idx];
+                highlightSelectedCard();
+                document.body.classList.add('detail-open'); // on mobile, switch from list to player view
+
+                mainEl.innerHTML = `
+      <div class="now-playing">
+        <button class="back-btn" id="backBtn">&larr; All messages</button>
+        <div class="queue-banner ${playAllMode ? 'show' : ''}" id="queueBanner">
+          Playing all &middot; ${idx + 1} of ${filtered.length}
+        </div>
+        <h2>${escapeHtml(r.speaker || 'Unknown')}</h2>
+        <div class="sub">${escapeHtml(r.filename)} &middot; ${fmtDuration(r.duration_sec)}</div>
+        <audio controls id="player" src="${encodeURI(r.audio)}"></audio>
+        <div class="transcript" id="transcript"></div>
+      </div>
+    `;
+
+                document.getElementById('backBtn').addEventListener('click', () => {
+                    audioEl.pause();
+                    playAllMode = false;
+                    document.body.classList.remove('detail-open'); // back to the list, mobile only
+                });
+
+                audioEl = document.getElementById('player');
+                const transcriptEl = document.getElementById('transcript');
+                segEls = [];
+
+                (r.segments || []).forEach(seg => {
+                    const div = document.createElement('div');
+                    div.className = 'seg';
+                    div.dataset.start = seg.start;
+                    div.dataset.end = seg.end;
+                    div.innerHTML = `<span class="ts">${fmtDuration(seg.start)}</span><span class="txt">${escapeHtml(seg.text)}</span>`;
+                    div.addEventListener('click', () => {
+                        audioEl.currentTime = seg.start;
+                        audioEl.play();
+                    });
+                    transcriptEl.appendChild(div);
+                    segEls.push(div);
+                });
+
+                audioEl.addEventListener('timeupdate', onTimeUpdate);
+                audioEl.addEventListener('ended', onEnded);
+                audioEl.play().catch(() => { }); // autoplay may be blocked; that's fine
+            }
+
+            function onTimeUpdate() {
+                const t = audioEl.currentTime;
+                for (const el of segEls) {
+                    const start = parseFloat(el.dataset.start);
+                    const end = parseFloat(el.dataset.end);
+                    el.classList.toggle('active', t >= start && t < end);
+                }
+                // Deliberately no auto-scroll here: the highlight moves, but the
+                // transcript stays put so you can scroll around freely while it plays.
+            }
+
+            function onEnded() {
+                if (playAllMode && currentIndex + 1 < filtered.length) {
+                    loadRecording(currentIndex + 1);
+                } else {
+                    playAllMode = false;
+                }
+            }
+
+            playAllBtn.addEventListener('click', () => {
+                if (filtered.length === 0) return;
+                playAllMode = true;
+                loadRecording(0);
+            });
+
+            document.addEventListener('keydown', (e) => {
+                if (e.code !== 'Space' || !audioEl) return;
+                const tag = (document.activeElement && document.activeElement.tagName) || '';
+                if (tag === 'INPUT' || tag === 'SELECT' || tag === 'TEXTAREA' || tag === 'BUTTON') return;
+                e.preventDefault();
+                if (audioEl.paused) audioEl.play(); else audioEl.pause();
+            });
+
+            renderList();
+        })();
+    </script>
+
+</body>
+
+</html>

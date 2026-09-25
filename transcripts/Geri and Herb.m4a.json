@@ -1,0 +1,1608 @@
+{
+  "file": "Geri and Herb.m4a",
+  "duration_sec": 116.9,
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.65,
+      "end": 9.51,
+      "text": "Hello, Wendy. There's an excerpt from a poem called The Summer Day by Mary Oliver that goes like this.",
+      "words": [
+        {
+          "start": 1.65,
+          "end": 2.29,
+          "word": " Hello,"
+        },
+        {
+          "start": 2.55,
+          "end": 2.83,
+          "word": " Wendy."
+        },
+        {
+          "start": 3.73,
+          "end": 4.29,
+          "word": " There's"
+        },
+        {
+          "start": 4.29,
+          "end": 4.49,
+          "word": " an"
+        },
+        {
+          "start": 4.49,
+          "end": 5.15,
+          "word": " excerpt"
+        },
+        {
+          "start": 5.15,
+          "end": 5.31,
+          "word": " from"
+        },
+        {
+          "start": 5.31,
+          "end": 5.45,
+          "word": " a"
+        },
+        {
+          "start": 5.45,
+          "end": 5.75,
+          "word": " poem"
+        },
+        {
+          "start": 5.75,
+          "end": 6.25,
+          "word": " called"
+        },
+        {
+          "start": 6.25,
+          "end": 6.73,
+          "word": " The"
+        },
+        {
+          "start": 6.73,
+          "end": 7.11,
+          "word": " Summer"
+        },
+        {
+          "start": 7.11,
+          "end": 7.41,
+          "word": " Day"
+        },
+        {
+          "start": 7.41,
+          "end": 7.63,
+          "word": " by"
+        },
+        {
+          "start": 7.63,
+          "end": 7.85,
+          "word": " Mary"
+        },
+        {
+          "start": 7.85,
+          "end": 8.19,
+          "word": " Oliver"
+        },
+        {
+          "start": 8.19,
+          "end": 8.77,
+          "word": " that"
+        },
+        {
+          "start": 8.77,
+          "end": 8.95,
+          "word": " goes"
+        },
+        {
+          "start": 8.95,
+          "end": 9.23,
+          "word": " like"
+        },
+        {
+          "start": 9.23,
+          "end": 9.51,
+          "word": " this."
+        }
+      ]
+    },
+    {
+      "start": 10.07,
+      "end": 15.21,
+      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
+      "words": [
+        {
+          "start": 10.07,
+          "end": 10.47,
+          "word": " Tell"
+        },
+        {
+          "start": 10.47,
+          "end": 10.71,
+          "word": " me,"
+        },
+        {
+          "start": 10.95,
+          "end": 11.27,
+          "word": " what"
+        },
+        {
+          "start": 11.27,
+          "end": 11.55,
+          "word": " is"
+        },
+        {
+          "start": 11.55,
+          "end": 11.69,
+          "word": " it"
+        },
+        {
+          "start": 11.69,
+          "end": 11.83,
+          "word": " you"
+        },
+        {
+          "start": 11.83,
+          "end": 12.15,
+          "word": " plan"
+        },
+        {
+          "start": 12.15,
+          "end": 12.37,
+          "word": " to"
+        },
+        {
+          "start": 12.37,
+          "end": 12.67,
+          "word": " do"
+        },
+        {
+          "start": 12.67,
+          "end": 12.97,
+          "word": " with"
+        },
+        {
+          "start": 12.97,
+          "end": 13.15,
+          "word": " your"
+        },
+        {
+          "start": 13.15,
+          "end": 13.53,
+          "word": " one"
+        },
+        {
+          "start": 13.53,
+          "end": 14.09,
+          "word": " wild"
+        },
+        {
+          "start": 14.09,
+          "end": 14.43,
+          "word": " and"
+        },
+        {
+          "start": 14.43,
+          "end": 14.79,
+          "word": " precious"
+        },
+        {
+          "start": 14.79,
+          "end": 15.21,
+          "word": " life?"
+        }
+      ]
+    },
+    {
+      "start": 16.11,
+      "end": 24.19,
+      "text": "When I first heard that poem years ago, it caused me to think about those in my life who live each day with awareness, intention and verve.",
+      "words": [
+        {
+          "start": 16.11,
+          "end": 16.67,
+          "word": " When"
+        },
+        {
+          "start": 16.67,
+          "end": 16.83,
+          "word": " I"
+        },
+        {
+          "start": 16.83,
+          "end": 17.07,
+          "word": " first"
+        },
+        {
+          "start": 17.07,
+          "end": 17.25,
+          "word": " heard"
+        },
+        {
+          "start": 17.25,
+          "end": 17.41,
+          "word": " that"
+        },
+        {
+          "start": 17.41,
+          "end": 17.67,
+          "word": " poem"
+        },
+        {
+          "start": 17.67,
+          "end": 17.89,
+          "word": " years"
+        },
+        {
+          "start": 17.89,
+          "end": 18.19,
+          "word": " ago,"
+        },
+        {
+          "start": 18.29,
+          "end": 18.33,
+          "word": " it"
+        },
+        {
+          "start": 18.33,
+          "end": 18.53,
+          "word": " caused"
+        },
+        {
+          "start": 18.53,
+          "end": 18.73,
+          "word": " me"
+        },
+        {
+          "start": 18.73,
+          "end": 18.87,
+          "word": " to"
+        },
+        {
+          "start": 18.87,
+          "end": 19.03,
+          "word": " think"
+        },
+        {
+          "start": 19.03,
+          "end": 19.27,
+          "word": " about"
+        },
+        {
+          "start": 19.27,
+          "end": 19.51,
+          "word": " those"
+        },
+        {
+          "start": 19.51,
+          "end": 19.69,
+          "word": " in"
+        },
+        {
+          "start": 19.69,
+          "end": 19.83,
+          "word": " my"
+        },
+        {
+          "start": 19.83,
+          "end": 20.15,
+          "word": " life"
+        },
+        {
+          "start": 20.15,
+          "end": 20.61,
+          "word": " who"
+        },
+        {
+          "start": 20.61,
+          "end": 20.83,
+          "word": " live"
+        },
+        {
+          "start": 20.83,
+          "end": 21.07,
+          "word": " each"
+        },
+        {
+          "start": 21.07,
+          "end": 21.33,
+          "word": " day"
+        },
+        {
+          "start": 21.33,
+          "end": 21.61,
+          "word": " with"
+        },
+        {
+          "start": 21.61,
+          "end": 22.21,
+          "word": " awareness,"
+        },
+        {
+          "start": 22.53,
+          "end": 22.87,
+          "word": " intention"
+        },
+        {
+          "start": 22.87,
+          "end": 23.55,
+          "word": " and"
+        },
+        {
+          "start": 23.55,
+          "end": 24.19,
+          "word": " verve."
+        }
+      ]
+    },
+    {
+      "start": 24.63,
+      "end": 28.93,
+      "text": "You certainly are one of those people who came to mind to model myself after.",
+      "words": [
+        {
+          "start": 24.63,
+          "end": 24.83,
+          "word": " You"
+        },
+        {
+          "start": 24.83,
+          "end": 25.33,
+          "word": " certainly"
+        },
+        {
+          "start": 25.33,
+          "end": 25.61,
+          "word": " are"
+        },
+        {
+          "start": 25.61,
+          "end": 25.77,
+          "word": " one"
+        },
+        {
+          "start": 25.77,
+          "end": 25.89,
+          "word": " of"
+        },
+        {
+          "start": 25.89,
+          "end": 26.03,
+          "word": " those"
+        },
+        {
+          "start": 26.03,
+          "end": 26.33,
+          "word": " people"
+        },
+        {
+          "start": 26.33,
+          "end": 26.51,
+          "word": " who"
+        },
+        {
+          "start": 26.51,
+          "end": 26.71,
+          "word": " came"
+        },
+        {
+          "start": 26.71,
+          "end": 26.91,
+          "word": " to"
+        },
+        {
+          "start": 26.91,
+          "end": 27.11,
+          "word": " mind"
+        },
+        {
+          "start": 27.11,
+          "end": 27.67,
+          "word": " to"
+        },
+        {
+          "start": 27.67,
+          "end": 27.99,
+          "word": " model"
+        },
+        {
+          "start": 27.99,
+          "end": 28.45,
+          "word": " myself"
+        },
+        {
+          "start": 28.45,
+          "end": 28.93,
+          "word": " after."
+        }
+      ]
+    },
+    {
+      "start": 28.93,
+      "end": 40.45,
+      "text": "Both you and Howard have expanded your lives outward to seek adventures, extend your kindness to others, and to make the world a better place in so many other ways as well.",
+      "words": [
+        {
+          "start": 28.93,
+          "end": 29.95,
+          "word": " Both"
+        },
+        {
+          "start": 29.95,
+          "end": 30.23,
+          "word": " you"
+        },
+        {
+          "start": 30.23,
+          "end": 30.53,
+          "word": " and"
+        },
+        {
+          "start": 30.53,
+          "end": 30.83,
+          "word": " Howard"
+        },
+        {
+          "start": 30.83,
+          "end": 31.09,
+          "word": " have"
+        },
+        {
+          "start": 31.09,
+          "end": 31.59,
+          "word": " expanded"
+        },
+        {
+          "start": 31.59,
+          "end": 31.85,
+          "word": " your"
+        },
+        {
+          "start": 31.85,
+          "end": 32.21,
+          "word": " lives"
+        },
+        {
+          "start": 32.21,
+          "end": 32.71,
+          "word": " outward"
+        },
+        {
+          "start": 32.71,
+          "end": 33.31,
+          "word": " to"
+        },
+        {
+          "start": 33.31,
+          "end": 33.59,
+          "word": " seek"
+        },
+        {
+          "start": 33.59,
+          "end": 34.27,
+          "word": " adventures,"
+        },
+        {
+          "start": 34.63,
+          "end": 35.21,
+          "word": " extend"
+        },
+        {
+          "start": 35.21,
+          "end": 35.45,
+          "word": " your"
+        },
+        {
+          "start": 35.45,
+          "end": 35.81,
+          "word": " kindness"
+        },
+        {
+          "start": 35.81,
+          "end": 36.15,
+          "word": " to"
+        },
+        {
+          "start": 36.15,
+          "end": 36.49,
+          "word": " others,"
+        },
+        {
+          "start": 36.63,
+          "end": 37.05,
+          "word": " and"
+        },
+        {
+          "start": 37.05,
+          "end": 37.19,
+          "word": " to"
+        },
+        {
+          "start": 37.19,
+          "end": 37.29,
+          "word": " make"
+        },
+        {
+          "start": 37.29,
+          "end": 37.45,
+          "word": " the"
+        },
+        {
+          "start": 37.45,
+          "end": 37.67,
+          "word": " world"
+        },
+        {
+          "start": 37.67,
+          "end": 37.85,
+          "word": " a"
+        },
+        {
+          "start": 37.85,
+          "end": 38.01,
+          "word": " better"
+        },
+        {
+          "start": 38.01,
+          "end": 38.37,
+          "word": " place"
+        },
+        {
+          "start": 38.37,
+          "end": 38.59,
+          "word": " in"
+        },
+        {
+          "start": 38.59,
+          "end": 38.83,
+          "word": " so"
+        },
+        {
+          "start": 38.83,
+          "end": 39.17,
+          "word": " many"
+        },
+        {
+          "start": 39.17,
+          "end": 39.61,
+          "word": " other"
+        },
+        {
+          "start": 39.61,
+          "end": 39.99,
+          "word": " ways"
+        },
+        {
+          "start": 39.99,
+          "end": 40.17,
+          "word": " as"
+        },
+        {
+          "start": 40.17,
+          "end": 40.45,
+          "word": " well."
+        }
+      ]
+    },
+    {
+      "start": 41.13,
+      "end": 49.35,
+      "text": "Well, Wendy, this is Herb, and I think Geri summed up a lot of things about what's going, how she feels about you and what she knows.",
+      "words": [
+        {
+          "start": 41.13,
+          "end": 41.69,
+          "word": " Well,"
+        },
+        {
+          "start": 41.71,
+          "end": 41.91,
+          "word": " Wendy,"
+        },
+        {
+          "start": 42.05,
+          "end": 42.21,
+          "word": " this"
+        },
+        {
+          "start": 42.21,
+          "end": 42.39,
+          "word": " is"
+        },
+        {
+          "start": 42.39,
+          "end": 42.83,
+          "word": " Herb,"
+        },
+        {
+          "start": 42.85,
+          "end": 42.93,
+          "word": " and"
+        },
+        {
+          "start": 42.93,
+          "end": 43.07,
+          "word": " I"
+        },
+        {
+          "start": 43.07,
+          "end": 43.25,
+          "word": " think"
+        },
+        {
+          "start": 43.25,
+          "end": 43.65,
+          "word": " Geri"
+        },
+        {
+          "start": 43.65,
+          "end": 44.03,
+          "word": " summed"
+        },
+        {
+          "start": 44.03,
+          "end": 44.15,
+          "word": " up"
+        },
+        {
+          "start": 44.15,
+          "end": 44.29,
+          "word": " a"
+        },
+        {
+          "start": 44.29,
+          "end": 44.45,
+          "word": " lot"
+        },
+        {
+          "start": 44.45,
+          "end": 44.59,
+          "word": " of"
+        },
+        {
+          "start": 44.59,
+          "end": 44.89,
+          "word": " things"
+        },
+        {
+          "start": 44.89,
+          "end": 46.01,
+          "word": " about"
+        },
+        {
+          "start": 46.01,
+          "end": 46.41,
+          "word": " what's"
+        },
+        {
+          "start": 46.41,
+          "end": 46.61,
+          "word": " going,"
+        },
+        {
+          "start": 46.87,
+          "end": 47.11,
+          "word": " how"
+        },
+        {
+          "start": 47.11,
+          "end": 47.33,
+          "word": " she"
+        },
+        {
+          "start": 47.33,
+          "end": 47.65,
+          "word": " feels"
+        },
+        {
+          "start": 47.65,
+          "end": 47.99,
+          "word": " about"
+        },
+        {
+          "start": 47.99,
+          "end": 48.37,
+          "word": " you"
+        },
+        {
+          "start": 48.37,
+          "end": 48.65,
+          "word": " and"
+        },
+        {
+          "start": 48.65,
+          "end": 48.79,
+          "word": " what"
+        },
+        {
+          "start": 48.79,
+          "end": 48.99,
+          "word": " she"
+        },
+        {
+          "start": 48.99,
+          "end": 49.35,
+          "word": " knows."
+        }
+      ]
+    },
+    {
+      "start": 50.17,
+      "end": 59.07,
+      "text": "I gotta tell you, I was struck when I met you about how devoted and how much energy and time you spent with helping others.",
+      "words": [
+        {
+          "start": 50.17,
+          "end": 50.49,
+          "word": " I"
+        },
+        {
+          "start": 50.49,
+          "end": 50.83,
+          "word": " gotta"
+        },
+        {
+          "start": 50.83,
+          "end": 51.09,
+          "word": " tell"
+        },
+        {
+          "start": 51.09,
+          "end": 51.33,
+          "word": " you,"
+        },
+        {
+          "start": 51.47,
+          "end": 51.65,
+          "word": " I"
+        },
+        {
+          "start": 51.65,
+          "end": 51.85,
+          "word": " was"
+        },
+        {
+          "start": 51.85,
+          "end": 52.19,
+          "word": " struck"
+        },
+        {
+          "start": 52.19,
+          "end": 52.43,
+          "word": " when"
+        },
+        {
+          "start": 52.43,
+          "end": 52.55,
+          "word": " I"
+        },
+        {
+          "start": 52.55,
+          "end": 52.77,
+          "word": " met"
+        },
+        {
+          "start": 52.77,
+          "end": 53.11,
+          "word": " you"
+        },
+        {
+          "start": 53.11,
+          "end": 53.77,
+          "word": " about"
+        },
+        {
+          "start": 53.77,
+          "end": 54.09,
+          "word": " how"
+        },
+        {
+          "start": 54.09,
+          "end": 54.55,
+          "word": " devoted"
+        },
+        {
+          "start": 54.55,
+          "end": 56.01,
+          "word": " and"
+        },
+        {
+          "start": 56.01,
+          "end": 56.41,
+          "word": " how"
+        },
+        {
+          "start": 56.41,
+          "end": 56.59,
+          "word": " much"
+        },
+        {
+          "start": 56.59,
+          "end": 56.99,
+          "word": " energy"
+        },
+        {
+          "start": 56.99,
+          "end": 57.31,
+          "word": " and"
+        },
+        {
+          "start": 57.31,
+          "end": 57.63,
+          "word": " time"
+        },
+        {
+          "start": 57.63,
+          "end": 57.87,
+          "word": " you"
+        },
+        {
+          "start": 57.87,
+          "end": 58.07,
+          "word": " spent"
+        },
+        {
+          "start": 58.07,
+          "end": 58.39,
+          "word": " with"
+        },
+        {
+          "start": 58.39,
+          "end": 58.73,
+          "word": " helping"
+        },
+        {
+          "start": 58.73,
+          "end": 59.07,
+          "word": " others."
+        }
+      ]
+    },
+    {
+      "start": 59.75,
+      "end": 68.51,
+      "text": "I know you've been a river guide for the blind, a teacher, a political activist, and a solid champion of your family's needs and aspirations.",
+      "words": [
+        {
+          "start": 59.75,
+          "end": 59.91,
+          "word": " I"
+        },
+        {
+          "start": 59.91,
+          "end": 60.05,
+          "word": " know"
+        },
+        {
+          "start": 60.05,
+          "end": 60.29,
+          "word": " you've"
+        },
+        {
+          "start": 60.29,
+          "end": 60.39,
+          "word": " been"
+        },
+        {
+          "start": 60.39,
+          "end": 60.51,
+          "word": " a"
+        },
+        {
+          "start": 60.51,
+          "end": 60.67,
+          "word": " river"
+        },
+        {
+          "start": 60.67,
+          "end": 61.01,
+          "word": " guide"
+        },
+        {
+          "start": 61.01,
+          "end": 61.25,
+          "word": " for"
+        },
+        {
+          "start": 61.25,
+          "end": 61.33,
+          "word": " the"
+        },
+        {
+          "start": 61.33,
+          "end": 61.73,
+          "word": " blind,"
+        },
+        {
+          "start": 62.29,
+          "end": 62.49,
+          "word": " a"
+        },
+        {
+          "start": 62.49,
+          "end": 62.87,
+          "word": " teacher,"
+        },
+        {
+          "start": 63.21,
+          "end": 63.29,
+          "word": " a"
+        },
+        {
+          "start": 63.29,
+          "end": 63.63,
+          "word": " political"
+        },
+        {
+          "start": 63.63,
+          "end": 64.31,
+          "word": " activist,"
+        },
+        {
+          "start": 64.75,
+          "end": 65.01,
+          "word": " and"
+        },
+        {
+          "start": 65.01,
+          "end": 65.15,
+          "word": " a"
+        },
+        {
+          "start": 65.15,
+          "end": 65.51,
+          "word": " solid"
+        },
+        {
+          "start": 65.51,
+          "end": 66.11,
+          "word": " champion"
+        },
+        {
+          "start": 66.11,
+          "end": 66.35,
+          "word": " of"
+        },
+        {
+          "start": 66.35,
+          "end": 66.49,
+          "word": " your"
+        },
+        {
+          "start": 66.49,
+          "end": 67.15,
+          "word": " family's"
+        },
+        {
+          "start": 67.15,
+          "end": 67.47,
+          "word": " needs"
+        },
+        {
+          "start": 67.47,
+          "end": 67.71,
+          "word": " and"
+        },
+        {
+          "start": 67.71,
+          "end": 68.51,
+          "word": " aspirations."
+        }
+      ]
+    },
+    {
+      "start": 69.27,
+      "end": 77.69,
+      "text": "Our branches together have always been so stimulating, and I really enjoy hearing about your impact and imprint on the world.",
+      "words": [
+        {
+          "start": 69.27,
+          "end": 69.57,
+          "word": " Our"
+        },
+        {
+          "start": 69.57,
+          "end": 69.91,
+          "word": " branches"
+        },
+        {
+          "start": 69.91,
+          "end": 70.39,
+          "word": " together"
+        },
+        {
+          "start": 70.39,
+          "end": 70.65,
+          "word": " have"
+        },
+        {
+          "start": 70.65,
+          "end": 70.97,
+          "word": " always"
+        },
+        {
+          "start": 70.97,
+          "end": 71.29,
+          "word": " been"
+        },
+        {
+          "start": 71.29,
+          "end": 71.55,
+          "word": " so"
+        },
+        {
+          "start": 71.55,
+          "end": 72.39,
+          "word": " stimulating,"
+        },
+        {
+          "start": 72.39,
+          "end": 73.45,
+          "word": " and"
+        },
+        {
+          "start": 73.45,
+          "end": 73.61,
+          "word": " I"
+        },
+        {
+          "start": 73.61,
+          "end": 73.99,
+          "word": " really"
+        },
+        {
+          "start": 73.99,
+          "end": 74.37,
+          "word": " enjoy"
+        },
+        {
+          "start": 74.37,
+          "end": 74.69,
+          "word": " hearing"
+        },
+        {
+          "start": 74.69,
+          "end": 74.97,
+          "word": " about"
+        },
+        {
+          "start": 74.97,
+          "end": 75.23,
+          "word": " your"
+        },
+        {
+          "start": 75.23,
+          "end": 76.01,
+          "word": " impact"
+        },
+        {
+          "start": 76.01,
+          "end": 76.69,
+          "word": " and"
+        },
+        {
+          "start": 76.69,
+          "end": 76.97,
+          "word": " imprint"
+        },
+        {
+          "start": 76.97,
+          "end": 77.21,
+          "word": " on"
+        },
+        {
+          "start": 77.21,
+          "end": 77.39,
+          "word": " the"
+        },
+        {
+          "start": 77.39,
+          "end": 77.69,
+          "word": " world."
+        }
+      ]
+    },
+    {
+      "start": 77.69,
+      "end": 81.83,
+      "text": "And I also enjoy listening to your biking stories with Howard.",
+      "words": [
+        {
+          "start": 77.69,
+          "end": 78.33,
+          "word": " And"
+        },
+        {
+          "start": 78.33,
+          "end": 78.49,
+          "word": " I"
+        },
+        {
+          "start": 78.49,
+          "end": 78.77,
+          "word": " also"
+        },
+        {
+          "start": 78.77,
+          "end": 79.17,
+          "word": " enjoy"
+        },
+        {
+          "start": 79.17,
+          "end": 79.59,
+          "word": " listening"
+        },
+        {
+          "start": 79.59,
+          "end": 79.85,
+          "word": " to"
+        },
+        {
+          "start": 79.85,
+          "end": 80.07,
+          "word": " your"
+        },
+        {
+          "start": 80.07,
+          "end": 80.47,
+          "word": " biking"
+        },
+        {
+          "start": 80.47,
+          "end": 81.07,
+          "word": " stories"
+        },
+        {
+          "start": 81.07,
+          "end": 81.55,
+          "word": " with"
+        },
+        {
+          "start": 81.55,
+          "end": 81.83,
+          "word": " Howard."
+        }
+      ]
+    },
+    {
+      "start": 83.21,
+      "end": 95.43,
+      "text": "You've transformed your own life challenges to become a sensitive and caring person who puts in the time, the elbow grease, to make the most positive impact into the world and where you can be the most effective.",
+      "words": [
+        {
+          "start": 83.21,
+          "end": 83.77,
+          "word": " You've"
+        },
+        {
+          "start": 83.77,
+          "end": 84.31,
+          "word": " transformed"
+        },
+        {
+          "start": 84.31,
+          "end": 84.67,
+          "word": " your"
+        },
+        {
+          "start": 84.67,
+          "end": 84.99,
+          "word": " own"
+        },
+        {
+          "start": 84.99,
+          "end": 85.19,
+          "word": " life"
+        },
+        {
+          "start": 85.19,
+          "end": 85.65,
+          "word": " challenges"
+        },
+        {
+          "start": 85.65,
+          "end": 85.95,
+          "word": " to"
+        },
+        {
+          "start": 85.95,
+          "end": 86.21,
+          "word": " become"
+        },
+        {
+          "start": 86.21,
+          "end": 86.49,
+          "word": " a"
+        },
+        {
+          "start": 86.49,
+          "end": 86.89,
+          "word": " sensitive"
+        },
+        {
+          "start": 86.89,
+          "end": 87.43,
+          "word": " and"
+        },
+        {
+          "start": 87.43,
+          "end": 87.71,
+          "word": " caring"
+        },
+        {
+          "start": 87.71,
+          "end": 88.17,
+          "word": " person"
+        },
+        {
+          "start": 88.17,
+          "end": 88.83,
+          "word": " who"
+        },
+        {
+          "start": 88.83,
+          "end": 89.09,
+          "word": " puts"
+        },
+        {
+          "start": 89.09,
+          "end": 89.33,
+          "word": " in"
+        },
+        {
+          "start": 89.33,
+          "end": 89.53,
+          "word": " the"
+        },
+        {
+          "start": 89.53,
+          "end": 89.97,
+          "word": " time,"
+        },
+        {
+          "start": 90.21,
+          "end": 90.29,
+          "word": " the"
+        },
+        {
+          "start": 90.29,
+          "end": 90.47,
+          "word": " elbow"
+        },
+        {
+          "start": 90.47,
+          "end": 90.83,
+          "word": " grease,"
+        },
+        {
+          "start": 91.03,
+          "end": 91.47,
+          "word": " to"
+        },
+        {
+          "start": 91.47,
+          "end": 91.61,
+          "word": " make"
+        },
+        {
+          "start": 91.61,
+          "end": 91.79,
+          "word": " the"
+        },
+        {
+          "start": 91.79,
+          "end": 91.95,
+          "word": " most"
+        },
+        {
+          "start": 91.95,
+          "end": 92.43,
+          "word": " positive"
+        },
+        {
+          "start": 92.43,
+          "end": 92.83,
+          "word": " impact"
+        },
+        {
+          "start": 92.83,
+          "end": 93.21,
+          "word": " into"
+        },
+        {
+          "start": 93.21,
+          "end": 93.39,
+          "word": " the"
+        },
+        {
+          "start": 93.39,
+          "end": 93.69,
+          "word": " world"
+        },
+        {
+          "start": 93.69,
+          "end": 94.15,
+          "word": " and"
+        },
+        {
+          "start": 94.15,
+          "end": 94.33,
+          "word": " where"
+        },
+        {
+          "start": 94.33,
+          "end": 94.45,
+          "word": " you"
+        },
+        {
+          "start": 94.45,
+          "end": 94.55,
+          "word": " can"
+        },
+        {
+          "start": 94.55,
+          "end": 94.67,
+          "word": " be"
+        },
+        {
+          "start": 94.67,
+          "end": 94.77,
+          "word": " the"
+        },
+        {
+          "start": 94.77,
+          "end": 94.93,
+          "word": " most"
+        },
+        {
+          "start": 94.93,
+          "end": 95.43,
+          "word": " effective."
+        }
+      ]
+    },
+    {
+      "start": 96.09,
+      "end": 103.21,
+      "text": "In relationship with you, I've always found you to be a great listener, empathetic, and having a good sense of humor.",
+      "words": [
+        {
+          "start": 96.09,
+          "end": 96.37,
+          "word": " In"
+        },
+        {
+          "start": 96.37,
+          "end": 96.93,
+          "word": " relationship"
+        },
+        {
+          "start": 96.93,
+          "end": 97.37,
+          "word": " with"
+        },
+        {
+          "start": 97.37,
+          "end": 97.57,
+          "word": " you,"
+        },
+        {
+          "start": 97.69,
+          "end": 97.91,
+          "word": " I've"
+        },
+        {
+          "start": 97.91,
+          "end": 98.29,
+          "word": " always"
+        },
+        {
+          "start": 98.29,
+          "end": 98.61,
+          "word": " found"
+        },
+        {
+          "start": 98.61,
+          "end": 98.79,
+          "word": " you"
+        },
+        {
+          "start": 98.79,
+          "end": 98.93,
+          "word": " to"
+        },
+        {
+          "start": 98.93,
+          "end": 99.13,
+          "word": " be"
+        },
+        {
+          "start": 99.13,
+          "end": 99.33,
+          "word": " a"
+        },
+        {
+          "start": 99.33,
+          "end": 99.61,
+          "word": " great"
+        },
+        {
+          "start": 99.61,
+          "end": 100.07,
+          "word": " listener,"
+        },
+        {
+          "start": 100.59,
+          "end": 101.27,
+          "word": " empathetic,"
+        },
+        {
+          "start": 101.61,
+          "end": 101.79,
+          "word": " and"
+        },
+        {
+          "start": 101.79,
+          "end": 102.03,
+          "word": " having"
+        },
+        {
+          "start": 102.03,
+          "end": 102.31,
+          "word": " a"
+        },
+        {
+          "start": 102.31,
+          "end": 102.53,
+          "word": " good"
+        },
+        {
+          "start": 102.53,
+          "end": 102.81,
+          "word": " sense"
+        },
+        {
+          "start": 102.81,
+          "end": 102.99,
+          "word": " of"
+        },
+        {
+          "start": 102.99,
+          "end": 103.21,
+          "word": " humor."
+        }
+      ]
+    },
+    {
+      "start": 103.21,
+      "end": 115.49,
+      "text": "On this 75th birthday, we wish you much satisfaction with your life, a full heart, and awareness of all of us who love you dearly.",
+      "words": [
+        {
+          "start": 103.21,
+          "end": 104.27,
+          "word": " On"
+        },
+        {
+          "start": 104.27,
+          "end": 104.55,
+          "word": " this"
+        },
+        {
+          "start": 104.55,
+          "end": 105.43,
+          "word": " 75th"
+        },
+        {
+          "start": 105.43,
+          "end": 105.95,
+          "word": " birthday,"
+        },
+        {
+          "start": 106.63,
+          "end": 106.77,
+          "word": " we"
+        },
+        {
+          "start": 106.77,
+          "end": 107.13,
+          "word": " wish"
+        },
+        {
+          "start": 107.13,
+          "end": 107.87,
+          "word": " you"
+        },
+        {
+          "start": 107.87,
+          "end": 108.43,
+          "word": " much"
+        },
+        {
+          "start": 108.43,
+          "end": 109.11,
+          "word": " satisfaction"
+        },
+        {
+          "start": 109.11,
+          "end": 109.59,
+          "word": " with"
+        },
+        {
+          "start": 109.59,
+          "end": 109.75,
+          "word": " your"
+        },
+        {
+          "start": 109.75,
+          "end": 110.13,
+          "word": " life,"
+        },
+        {
+          "start": 110.53,
+          "end": 110.75,
+          "word": " a"
+        },
+        {
+          "start": 110.75,
+          "end": 111.11,
+          "word": " full"
+        },
+        {
+          "start": 111.11,
+          "end": 111.47,
+          "word": " heart,"
+        },
+        {
+          "start": 111.95,
+          "end": 112.21,
+          "word": " and"
+        },
+        {
+          "start": 112.21,
+          "end": 112.75,
+          "word": " awareness"
+        },
+        {
+          "start": 112.75,
+          "end": 113.25,
+          "word": " of"
+        },
+        {
+          "start": 113.25,
+          "end": 113.69,
+          "word": " all"
+        },
+        {
+          "start": 113.69,
+          "end": 113.85,
+          "word": " of"
+        },
+        {
+          "start": 113.85,
+          "end": 114.13,
+          "word": " us"
+        },
+        {
+          "start": 114.13,
+          "end": 114.49,
+          "word": " who"
+        },
+        {
+          "start": 114.49,
+          "end": 114.75,
+          "word": " love"
+        },
+        {
+          "start": 114.75,
+          "end": 114.95,
+          "word": " you"
+        },
+        {
+          "start": 114.95,
+          "end": 115.49,
+          "word": " dearly."
+        }
+      ]
+    }
+  ]
+}

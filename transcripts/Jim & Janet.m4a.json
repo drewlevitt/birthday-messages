@@ -1,0 +1,257 @@
+{
+  "file": "Jim & Janet.m4a",
+  "duration_sec": 39.5,
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.27,
+      "end": 6.29,
+      "text": "Hey Wendy, this is Jim and Janet, sending a supplement to our written thoughts and hoping",
+      "words": [
+        {
+          "start": 0.27,
+          "end": 1.37,
+          "word": " Hey"
+        },
+        {
+          "start": 1.37,
+          "end": 1.73,
+          "word": " Wendy,"
+        },
+        {
+          "start": 2.11,
+          "end": 2.23,
+          "word": " this"
+        },
+        {
+          "start": 2.23,
+          "end": 2.37,
+          "word": " is"
+        },
+        {
+          "start": 2.37,
+          "end": 2.55,
+          "word": " Jim"
+        },
+        {
+          "start": 2.55,
+          "end": 2.69,
+          "word": " and"
+        },
+        {
+          "start": 2.69,
+          "end": 3.05,
+          "word": " Janet,"
+        },
+        {
+          "start": 3.17,
+          "end": 3.47,
+          "word": " sending"
+        },
+        {
+          "start": 3.47,
+          "end": 3.69,
+          "word": " a"
+        },
+        {
+          "start": 3.69,
+          "end": 4.03,
+          "word": " supplement"
+        },
+        {
+          "start": 4.03,
+          "end": 4.49,
+          "word": " to"
+        },
+        {
+          "start": 4.49,
+          "end": 4.65,
+          "word": " our"
+        },
+        {
+          "start": 4.65,
+          "end": 4.91,
+          "word": " written"
+        },
+        {
+          "start": 4.91,
+          "end": 5.29,
+          "word": " thoughts"
+        },
+        {
+          "start": 5.29,
+          "end": 6.03,
+          "word": " and"
+        },
+        {
+          "start": 6.03,
+          "end": 6.29,
+          "word": " hoping"
+        }
+      ]
+    },
+    {
+      "start": 6.29,
+      "end": 7.43,
+      "text": "we can pull this off.",
+      "words": [
+        {
+          "start": 6.29,
+          "end": 6.53,
+          "word": " we"
+        },
+        {
+          "start": 6.53,
+          "end": 6.69,
+          "word": " can"
+        },
+        {
+          "start": 6.69,
+          "end": 6.93,
+          "word": " pull"
+        },
+        {
+          "start": 6.93,
+          "end": 7.15,
+          "word": " this"
+        },
+        {
+          "start": 7.15,
+          "end": 7.43,
+          "word": " off."
+        }
+      ]
+    },
+    {
+      "start": 7.59,
+      "end": 8.71,
+      "text": "We sure hope so.",
+      "words": [
+        {
+          "start": 7.59,
+          "end": 7.83,
+          "word": " We"
+        },
+        {
+          "start": 7.83,
+          "end": 8.15,
+          "word": " sure"
+        },
+        {
+          "start": 8.15,
+          "end": 8.43,
+          "word": " hope"
+        },
+        {
+          "start": 8.43,
+          "end": 8.71,
+          "word": " so."
+        }
+      ]
+    },
+    {
+      "start": 19.67,
+      "end": 32.28,
+      "text": "Happy birthday to you, happy birthday to you, happy birthday to you, happy birthday to you,",
+      "words": [
+        {
+          "start": 19.67,
+          "end": 20.39,
+          "word": " Happy"
+        },
+        {
+          "start": 20.39,
+          "end": 21.11,
+          "word": " birthday"
+        },
+        {
+          "start": 21.11,
+          "end": 21.81,
+          "word": " to"
+        },
+        {
+          "start": 21.81,
+          "end": 22.57,
+          "word": " you,"
+        },
+        {
+          "start": 22.79,
+          "end": 23.33,
+          "word": " happy"
+        },
+        {
+          "start": 23.33,
+          "end": 24.15,
+          "word": " birthday"
+        },
+        {
+          "start": 24.15,
+          "end": 24.85,
+          "word": " to"
+        },
+        {
+          "start": 24.85,
+          "end": 25.65,
+          "word": " you,"
+        },
+        {
+          "start": 25.97,
+          "end": 26.43,
+          "word": " happy"
+        },
+        {
+          "start": 26.43,
+          "end": 27.13,
+          "word": " birthday"
+        },
+        {
+          "start": 27.13,
+          "end": 27.93,
+          "word": " to"
+        },
+        {
+          "start": 27.93,
+          "end": 28.29,
+          "word": " you,"
+        },
+        {
+          "start": 29.54,
+          "end": 29.98,
+          "word": " happy"
+        },
+        {
+          "start": 29.98,
+          "end": 30.8,
+          "word": " birthday"
+        },
+        {
+          "start": 30.8,
+          "end": 31.58,
+          "word": " to"
+        },
+        {
+          "start": 31.58,
+          "end": 32.28,
+          "word": " you,"
+        }
+      ]
+    },
+    {
+      "start": 37.2,
+      "end": 38.22,
+      "text": "love you.",
+      "words": [
+        {
+          "start": 37.2,
+          "end": 37.72,
+          "word": " love"
+        },
+        {
+          "start": 37.72,
+          "end": 38.22,
+          "word": " you."
+        }
+      ]
+    }
+  ]
+}
